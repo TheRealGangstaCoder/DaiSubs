@@ -11,14 +11,14 @@ WrapStyle: 0
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: Dragon Quest - Dai no Daibouken (2020) - 13 [720p].mkv
-Video File: Dragon Quest - Dai no Daibouken (2020) - 13 [720p].mkv
+Audio File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 13 [720p].mkv
+Video File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 13 [720p].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 289
-Active Line: 311
-Video Position: 32274
+Video Zoom Percent: 0.500000
+Scroll Position: 282
+Active Line: 310
+Video Position: 32132
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -83,7 +83,7 @@ Dialogue: 0,0:02:52.31,0:02:56.65,Default,,0,0,0,,If you can do this,\Nthen ther
 Dialogue: 0,0:02:58.36,0:02:59.40,Default,,0,0,0,,Here goes!
 Dialogue: 0,0:03:00.65,0:03:02.45,Default,,0,0,0,,Dai, one more!
 Dialogue: 0,0:03:02.61,0:03:05.12,Default,,0,0,0,,Too late!\N{\i1}{\3c&H1717E4&}Tomakugutsosho!{\i0}{\3c&H00000000&}
-Dialogue: 0,0:03:05.28,0:03:06.33,Default,,0,0,0,,Rai...
+Dialogue: 0,0:03:05.28,0:03:06.33,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Rai...{\i0}{\3c&H00000000&}
 Dialogue: 0,0:03:06.83,0:03:08.50,Default,,0,0,0,,That binding thing again!
 Dialogue: 0,0:03:10.66,0:03:11.67,Default,,0,0,0,,Farewell!
 Dialogue: 0,0:03:13.33,0:03:15.75,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Bloody Sukuraido!{\i0}{\3c&H00000000&}

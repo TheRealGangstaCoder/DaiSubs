@@ -11,14 +11,14 @@ WrapStyle: 0
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: [Erai-raws] Dragon Quest - Dai no Daibouken (2021) - 15 [720p][Multiple Subtitle].mkv
-Video File: [Erai-raws] Dragon Quest - Dai no Daibouken (2021) - 15 [720p][Multiple Subtitle].mkv
+Audio File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 15 [720p].mkv
+Video File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 15 [720p].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 260
-Active Line: 288
-Video Position: 32275
+Scroll Position: 291
+Active Line: 315
+Video Position: 34563
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -121,7 +121,7 @@ Dialogue: 0,0:05:48.70,0:05:49.45,Default,,0,0,0,,Huh?!
 Dialogue: 0,0:05:53.24,0:05:55.54,Default,,0,0,0,,H-His arm grew back?!
 Dialogue: 0,0:05:55.70,0:05:58.12,Default,,0,0,0,,Your head is mine!
 Dialogue: 0,0:06:15.77,0:06:17.06,Default,,0,0,0,,Everybody, get down!
-Dialogue: 0,0:06:21.02,0:06:22.56,Default,,0,0,0,,Blizzblaze Shrapnel Detonation!
+Dialogue: 0,0:06:21.02,0:06:22.56,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Blizzblaze Shrapnel Detonation!{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:06:49.22,0:06:50.09,Default,,0,0,0,,Leona!
 Dialogue: 0,0:06:50.80,0:06:53.47,Default,,0,0,0,,It hurts! It hurts bad!
 Dialogue: 0,0:06:53.89,0:06:57.14,Default,,0,0,0,,You're not the only one in pain, dummy!

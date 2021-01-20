@@ -11,14 +11,14 @@ WrapStyle: 0
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: [Erai-raws] Dragon Quest - Dai no Daibouken (2020) - 11 [720p].mkv
-Video File: [Erai-raws] Dragon Quest - Dai no Daibouken (2020) - 11 [720p].mkv
+Audio File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 11 [720p].mkv
+Video File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 11 [720p].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 232
-Active Line: 254
-Video Position: 24554
+Video Zoom Percent: 0.500000
+Scroll Position: 190
+Active Line: 202
+Video Position: 19534
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -232,7 +232,7 @@ Dialogue: 0,0:13:16.23,0:13:18.37,Default,,0,0,0,,{\i1}No. That's impossible!{\i
 Dialogue: 0,0:13:18.37,0:13:22.74,Default,,0,0,0,,{\i1}Everyone has a weakness,\Nno matter how strong!{\i0}
 Dialogue: 0,0:13:25.99,0:13:27.47,Default,,0,0,0,,Give it up.
 Dialogue: 0,0:13:27.47,0:13:29.47,Default,,0,0,0,,No, I'll never give up!
-Dialogue: 0,0:13:29.47,0:13:34.77,Default,,0,0,0,,Even if that bullet contains\Na Kasizz or Ionazun,
+Dialogue: 0,0:13:29.47,0:13:34.77,Default,,0,0,0,,Even if that bullet contains\Na Begirama or Ionazun,
 Dialogue: 0,0:13:34.77,0:13:37.31,Default,,0,0,0,,you won't be able to scratch my armour.
 Dialogue: 0,0:13:37.31,0:13:41.00,Default,,0,0,0,,We'll see. You never know unless you try!
 Dialogue: 0,0:13:45.84,0:13:47.76,Default,,0,0,0,,Is this Manusa?!
