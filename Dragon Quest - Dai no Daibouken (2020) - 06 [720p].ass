@@ -11,7 +11,14 @@ WrapStyle: 0
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-
+Audio File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 06 [720p].mkv
+Video File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 06 [720p].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 302
+Active Line: 330
+Video Position: 32276
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -79,11 +86,11 @@ Dialogue: 0,0:02:43.18,0:02:44.64,Default,,0,0,0,,{\i1}Master! Don't go!{\i0}
 Dialogue: 0,0:02:45.43,0:02:47.35,Default,,0,0,0,,Don't leave me, Master!
 Dialogue: 0,0:02:47.81,0:02:53.44,Default,,0,0,0,,Popp, use what you've learned\Nto help others.
 Dialogue: 0,0:02:53.98,0:02:56.28,Default,,0,0,0,,Master! Don't!
-Dialogue: 0,0:02:59.82,0:03:00.90,Default,,0,0,0,,Master Avan!
+Dialogue: 0,0:02:59.82,0:03:00.90,Default,,0,0,0,,Master Aban!
 Dialogue: 0,0:03:07.24,0:03:08.75,Default,,0,0,0,,Master...
 Dialogue: 0,0:03:12.25,0:03:18.05,Default,,0,0,0,,Romos Kingdom is the closest.\NHead north and go straight.
 Dialogue: 0,0:03:18.21,0:03:21.26,Default,,0,0,0,,Okay. I'll see King Romos first.
-Dialogue: 0,0:03:21.43,0:03:22.89,Default,,0,0,0,,Then I'll head to Papnica.
+Dialogue: 0,0:03:21.43,0:03:22.89,Default,,0,0,0,,Then I'll head to Papunica.
 Dialogue: 0,0:03:23.05,0:03:25.43,Default,,0,0,0,,Watch yourself out there, Dai.
 Dialogue: 0,0:03:32.35,0:03:35.23,Default,,0,0,0,,Bye everyone! Take care!
 Dialogue: 0,0:03:37.07,0:03:38.28,Default,,0,0,0,,Dai!
@@ -188,7 +195,7 @@ Dialogue: 0,0:10:17.09,0:10:20.14,Default,,0,0,0,,Get me the Legion Commander,\N
 Dialogue: 0,0:10:26.60,0:10:28.31,Default,,0,0,0,,{\i1}Crocodine.{\i0}
 Dialogue: 0,0:10:28.81,0:10:31.36,Default,,0,0,0,,{\i1}Beast King Crocodine.{\i0}
 Dialogue: 0,0:10:34.36,0:10:36.24,Default,,0,0,0,,Who's there? What is it?
-Dialogue: 0,0:10:36.40,0:10:38.86,Default,,0,0,0,,{\i1}It is I, Hadlar.{\i0}
+Dialogue: 0,0:10:36.40,0:10:38.86,Default,,0,0,0,,{\i1}It is I, Hadorra.{\i0}
 Dialogue: 0,0:10:39.49,0:10:43.28,Default,,0,0,0,,Ah, Sir Dark Commander!\NForgive my rudeness!
 Dialogue: 0,0:10:43.45,0:10:48.79,Default,,0,0,0,,{\i1}What are you doing? I believe\NI ordered you to take Romos Kingdom.{\i0}
 Dialogue: 0,0:10:49.71,0:10:55.46,Default,,0,0,0,,That kingdom is worthless. Nothing but\Ncowards and not a single worthy warrior.
@@ -210,7 +217,7 @@ Dialogue: 0,0:11:50.31,0:11:56.52,Default,,0,0,0,,{\i1}He must be killed before 
 Dialogue: 0,0:11:58.28,0:11:59.44,Default,,0,0,0,,Interesting!
 Dialogue: 0,0:11:59.61,0:12:05.70,Default,,0,0,0,,I'd love to fight a boy\Nwho managed to wound even you!
 Dialogue: 0,0:12:06.91,0:12:10.08,Default,,0,0,0,,{\i1}I'm counting on you.\NMake sure he dies.{\i0}
-Dialogue: 0,0:12:14.04,0:12:16.54,DefaultLow,,0,0,0,,{\\i1}{\\3c&H1717E4&}AVAN STRASH{\\i0}{\\3c&H00000000&}
+Dialogue: 0,0:12:14.04,0:12:16.54,DefaultLow,,0,0,0,,{\\i1}{\\3c&H1717E4&}ABAN STRASH{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:12:19.17,0:12:21.55,DefaultLow,,0,0,0,,{\\i1}{\\3c&H1717E4&}HELL'S CLAW{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:12:24.97,0:12:26.14,Default,,0,0,0,,H-Huh?
 Dialogue: 0,0:12:26.89,0:12:28.35,Default,,0,0,0,,A dead end?
@@ -229,7 +236,7 @@ Dialogue: 0,0:13:27.78,0:13:29.07,Default,,0,0,0,,A Croc Man?!
 Dialogue: 0,0:13:30.66,0:13:33.70,Default,,0,0,0,,I am Beast King Crocodine!
 Dialogue: 0,0:13:33.41,0:13:40.88,On Top,,0,0,0,,FURFANG LEGION, LEGION COMMANDER\NBEAST KING CROCODINE
 Dialogue: 0,0:13:34.20,0:13:35.71,Default,,0,0,0,,Legion Commander of one of the
-Dialogue: 0,0:13:35.87,0:13:38.92,Default,,0,0,0,,six legions under Dark Commander Hadlar,
+Dialogue: 0,0:13:35.87,0:13:38.92,Default,,0,0,0,,six legions under Dark Commander Hadorra,
 Dialogue: 0,0:13:39.08,0:13:40.59,Default,,0,0,0,,the Furfang Legion!
 Dialogue: 0,0:13:41.05,0:13:42.34,Default,,0,0,0,,Six legions?!
 Dialogue: 0,0:13:42.50,0:13:43.55,Default,,0,0,0,,That's right.
@@ -246,12 +253,12 @@ Dialogue: 0,0:14:16.62,0:14:18.12,Default,,0,0,0,,{\i1}The Dragon Legion!{\i0}
 Dialogue: 0,0:14:18.62,0:14:21.59,Default,,0,0,0,,{\i1}A legion of Dragons,\Nthe most powerful of monsters!{\i0}
 Dialogue: 0,0:14:23.71,0:14:26.84,Default,,0,0,0,,And my own Furfang Legion!
 Dialogue: 0,0:14:27.30,0:14:30.01,Default,,0,0,0,,{\i1}A pack of fearless beasts!{\i0}
-Dialogue: 0,0:14:31.10,0:14:36.35,Default,,0,0,0,,Dai, by Hadlar's command,\NI'm here to kill you!
+Dialogue: 0,0:14:31.10,0:14:36.35,Default,,0,0,0,,Dai, by Hadorra's command,\NI'm here to kill you!
 Dialogue: 0,0:14:36.52,0:14:39.65,Default,,0,0,0,,If you wish to live,\Nshow your true strength.
 Dialogue: 0,0:14:40.10,0:14:44.82,Default,,0,0,0,,The strength that let you wound\Neven the Dark Commander himself.
 Dialogue: 0,0:14:44.98,0:14:47.11,Default,,0,0,0,,Stuff it, you stupid crocodile!
-Dialogue: 0,0:14:49.11,0:14:53.83,Default,,0,0,0,,From what you say, you're nothing more\Nthan Hadlar's underling!
-Dialogue: 0,0:14:53.99,0:14:57.75,Default,,0,0,0,,Even Hadlar turned tail and ran from us!
+Dialogue: 0,0:14:49.11,0:14:53.83,Default,,0,0,0,,From what you say, you're nothing more\Nthan Hadorra's underling!
+Dialogue: 0,0:14:53.99,0:14:57.75,Default,,0,0,0,,Even Hadorra turned tail and ran from us!
 Dialogue: 0,0:14:58.37,0:15:01.38,Default,,0,0,0,,We'll hardly break a sweat with you!
 Dialogue: 0,0:15:01.54,0:15:02.29,Default,,0,0,0,,Right, Dai?
 Dialogue: 0,0:15:02.46,0:15:03.29,Default,,0,0,0,,Huh?
@@ -263,9 +270,9 @@ Dialogue: 0,0:15:21.94,0:15:22.52,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Mera!{\i0}{
 Dialogue: 0,0:15:31.20,0:15:32.28,Default,,0,0,0,,With just his breath?!
 Dialogue: 0,0:15:32.45,0:15:36.54,Default,,0,0,0,,You couldn't kill a Slime with this spell.
 Dialogue: 0,0:15:36.87,0:15:39.87,Default,,0,0,0,,Now it's my turn!
-Dialogue: 0,0:15:53.55,0:15:56.81,Default,,0,0,0,,{\i1}Wow! In terms of raw power,\Nhe's stronger than Hadlar!{\i0}
+Dialogue: 0,0:15:53.55,0:15:56.81,Default,,0,0,0,,{\i1}Wow! In terms of raw power,\Nhe's stronger than Hadorra!{\i0}
 Dialogue: 0,0:15:58.81,0:16:01.73,Default,,0,0,0,,Don't underestimate us Legion Commanders.
-Dialogue: 0,0:16:01.89,0:16:08.11,Default,,0,0,0,,In terms of our specialties,\Nwe all surpass Hadlar.
+Dialogue: 0,0:16:01.89,0:16:08.11,Default,,0,0,0,,In terms of our specialties,\Nwe all surpass Hadorra.
 Dialogue: 0,0:16:08.28,0:16:11.11,Default,,0,0,0,,That is why we were chosen\Nas Legion Commanders.
 Dialogue: 0,0:16:11.28,0:16:15.24,Default,,0,0,0,,Popp, we can't beat him head-on.
 Dialogue: 0,0:16:15.74,0:16:19.75,Default,,0,0,0,,I'll hit him when he's distracted,\Nso give me some cover with spells.
@@ -282,16 +289,16 @@ Dialogue: 0,0:17:12.76,0:17:15.72,Default,,0,0,0,,{\i1}He's a lot faster than I 
 Dialogue: 0,0:17:15.88,0:17:20.56,Default,,0,0,0,,What's wrong?\NStop running and fight me!
 Dialogue: 0,0:17:20.93,0:17:23.27,Default,,0,0,0,,All right! Here goes, Crocodine!
 Dialogue: 0,0:17:24.52,0:17:25.73,Default,,0,0,0,,What's that stance?
-Dialogue: 0,0:17:26.10,0:17:27.60,Default,,0,0,0,,Avan Style Sword Technique!
-Dialogue: 0,0:17:27.77,0:17:33.86,Default,,0,0,0,,Avan? The legendary Hero\Nwho defeated Hadlar.
-Dialogue: 0,0:17:34.24,0:17:36.49,Default,,0,0,0,,Avan was my master!
-Dialogue: 0,0:17:36.66,0:17:41.66,Default,,0,0,0,,I see.\NYou carry on the will of Avan.
-Dialogue: 0,0:17:42.20,0:17:44.50,Default,,0,0,0,,So you're a Disciple of Avan!
-Dialogue: 0,0:17:44.66,0:17:45.96,Default,,0,0,0,,A Disciple of Avan?
+Dialogue: 0,0:17:26.10,0:17:27.60,Default,,0,0,0,,Aban Style Sword Technique!
+Dialogue: 0,0:17:27.77,0:17:33.86,Default,,0,0,0,,Aban? The legendary Hero\Nwho defeated Hadorra.
+Dialogue: 0,0:17:34.24,0:17:36.49,Default,,0,0,0,,Aban was my master!
+Dialogue: 0,0:17:36.66,0:17:41.66,Default,,0,0,0,,I see.\NYou carry on the will of Aban.
+Dialogue: 0,0:17:42.20,0:17:44.50,Default,,0,0,0,,So you're a Disciple of Aban!
+Dialogue: 0,0:17:44.66,0:17:45.96,Default,,0,0,0,,A Disciple of Aban?
 Dialogue: 0,0:17:46.12,0:17:47.21,Default,,0,0,0,,That's right!
-Dialogue: 0,0:17:47.75,0:17:49.17,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Earth Slash!{\\i0}{\\3c&H00000000&}
+Dialogue: 0,0:17:47.75,0:17:49.17,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}{\i1}{\3c&H1717E4&}{\i1}{\3c&H1717E4&}{\i1}{\3c&H1717E4&}Earth Slash!{\i0}{\3c&H00000000&}{\i0}{\3c&H00000000&}{\i0}{\3c&H00000000&}{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:17:49.92,0:17:50.88,Default,,0,0,0,,{\i1}It didn't work?!{\i0}
-Dialogue: 0,0:17:51.75,0:17:54.09,Default,,0,0,0,,{\i1}I couldn't even scratch him\Nwith Earth Slash!{\i0}
+Dialogue: 0,0:17:51.75,0:17:54.09,Default,,0,0,0,,{\i1}I couldn't even scratch him\Nwith Earth Slash!
 Dialogue: 0,0:17:56.97,0:17:59.39,Default,,0,0,0,,{\i1}His hide is like steel!{\i0}
 Dialogue: 0,0:18:00.85,0:18:06.02,Default,,0,0,0,,Not bad. But it'll take\Nmore than a knife to hurt me.
 Dialogue: 0,0:18:06.19,0:18:10.11,Default,,0,0,0,,Now see the might\Nof a true warrior's weapon!
@@ -303,7 +310,7 @@ Dialogue: 0,0:18:27.00,0:18:31.84,Default,,0,0,0,,{\i1}Legendary weapons that ca
 Dialogue: 0,0:18:32.00,0:18:34.38,Default,,0,0,0,,Howl! {\\i1}{\\3c&H1717E4&}Vortex Axe!{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:18:38.38,0:18:39.59,Default,,0,0,0,,Got you!
 Dialogue: 0,0:18:40.64,0:18:43.64,Default,,0,0,0,,{\i1}It's no good!\NI can't beat him with strength!{\i0}
-Dialogue: 0,0:18:43.81,0:18:48.39,Default,,0,0,0,,{\i1}Speed! I'll dodge with speed\Nand hit him with Wave Slash!{\i0}
+Dialogue: 0,0:18:43.81,0:18:48.39,Default,,0,0,0,,{\i1}Speed! I'll dodge with speed\Nand hit him with Wave Slash!
 Dialogue: 0,0:18:48.56,0:18:49.73,Default,,0,0,0,,Die!
 Dialogue: 0,0:18:52.48,0:18:53.36,Default,,0,0,0,,What?!
 Dialogue: 0,0:19:00.70,0:19:02.24,Default,,0,0,0,,C-Curse you!
@@ -328,13 +335,13 @@ Dialogue: 0,0:19:52.46,0:19:53.42,Default,,0,0,0,,Huh?
 Dialogue: 0,0:20:07.56,0:20:09.31,Default,,0,0,0,,It's like a Mera spell!
 Dialogue: 0,0:20:09.68,0:20:13.85,Default,,0,0,0,,{\i1}With a weapon like this,\Nshe's no ordinary girl!{\i0}
 Dialogue: 0,0:20:14.86,0:20:15.81,Default,,0,0,0,,Huh?
-Dialogue: 0,0:20:20.61,0:20:24.37,Default,,0,0,0,,This is a graduation certificate!\NAn Insignia of Avan!
+Dialogue: 0,0:20:20.61,0:20:24.37,Default,,0,0,0,,This is a graduation certificate!\NAn Insignia of Aban!
 Dialogue: 0,0:20:25.70,0:20:27.28,Default,,0,0,0,,Then you're also...
 Dialogue: 0,0:20:28.08,0:20:29.66,Default,,0,0,0,,Uh, er, listen, this is...
 Dialogue: 0,0:20:39.71,0:20:40.63,Default,,0,0,0,,Bothersome gnat!
 Dialogue: 0,0:20:41.13,0:20:43.05,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Vortex Axe!{\\i0}{\\3c&H00000000&}
-Dialogue: 0,0:20:43.22,0:20:45.84,Default,,0,0,0,,Now!\NAvan Style Sword Technique!
-Dialogue: 0,0:20:46.01,0:20:47.22,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Wave Slash!{\\i0}{\\3c&H00000000&}
+Dialogue: 0,0:20:43.22,0:20:45.84,Default,,0,0,0,,Now!\NAban Style Sword Technique!
+Dialogue: 0,0:20:46.01,0:20:47.22,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}{\i1}{\3c&H1717E4&}{\i1}{\3c&H1717E4&}{\i1}{\3c&H1717E4&}Wave Slash!{\i0}{\3c&H00000000&}{\i0}{\3c&H00000000&}{\i0}{\3c&H00000000&}{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:20:54.19,0:20:55.44,Default,,0,0,0,,It burns!
 Dialogue: 0,0:20:55.60,0:20:58.69,Default,,0,0,0,,Heat Breath. My secret attack.
 Dialogue: 0,0:20:59.36,0:21:02.78,Default,,0,0,0,,I'm impressed that\Nyou managed to wound me.
@@ -375,7 +382,7 @@ Dialogue: 0,0:23:08.36,0:23:14.03,On Top,,0,0,0,,{\i1}sagashite ita kyou to chig
 Dialogue: 0,0:23:14.20,0:23:19.33,Default,,0,0,0,,{\i1}I'm sure you'd laugh at my disappointment{\i0}
 Dialogue: 0,0:23:14.20,0:23:19.33,On Top,,0,0,0,,{\i1}ochikonnde shimau boku wo warau no darou{\i0}
 Dialogue: 0,0:23:34.10,0:23:38.10,Default,,0,0,0,,{\i1}Dai and Crocodine's battle continues\Nin the Dark Forest.{\i0}
-Dialogue: 0,0:23:38.77,0:23:44.15,Default,,0,0,0,,{\i1}Watching them fight, Maam remembers\Nwhat Avan told her when she was young.{\i0}
+Dialogue: 0,0:23:38.77,0:23:44.15,Default,,0,0,0,,{\i1}Watching them fight, Maam remembers\Nwhat Aban told her when she was young.{\i0}
 Dialogue: 0,0:23:44.73,0:23:51.28,Default,,0,0,0,,{\i1}As Dai and Popp head out again to fight,\NMaam makes a decision.{\i0}
 Dialogue: 0,0:23:52.24,0:23:55.74,Default,,0,0,0,,{\i1}Next time on{\i0}\NDRAGON QUEST The Adventure of Dai{\i1},{\i0}
 Dialogue: 0,0:23:55.91,0:23:57.41,Default,,0,0,0,,{\i1}"Maam's Turmoil"{\i0}

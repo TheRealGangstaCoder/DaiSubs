@@ -58,9 +58,9 @@ Dialogue: 0,0:01:27.98,0:01:31.57,On Top,,0,0,0,,{\i1}yume wo miru{\i0}
 Dialogue: 0,0:01:27.98,0:01:31.57,Default,,0,0,0,,{\i1}And dream my dream{\i0}
 Dialogue: 0,0:01:31.73,0:01:33.90,On Top,,0,0,0,,{\i1}yume wo shiru{\i0}
 Dialogue: 0,0:01:31.73,0:01:33.90,Default,,0,0,0,,{\i1}And know my dream{\i0}
-Dialogue: 0,0:01:42.28,0:01:50.58,Default,,0,0,0,,THE INSIGNIA OF AVAN
+Dialogue: 0,0:01:42.28,0:01:50.58,Default,,0,0,0,,THE INSIGNIA OF ABAN
 Dialogue: 0,0:01:52.13,0:01:53.46,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Begirama!{\i0}{\3c&H00000000&}
-Dialogue: 0,0:02:06.68,0:02:07.85,Default,,0,0,0,,Sir Avan!
+Dialogue: 0,0:02:06.68,0:02:07.85,Default,,0,0,0,,Sir Aban!
 Dialogue: 0,0:02:12.19,0:02:14.32,Default,,0,0,0,,Is everyone alright?
 Dialogue: 0,0:02:16.19,0:02:20.07,Default,,0,0,0,,Thank goodness.\NTalk about very nice timing.
 Dialogue: 0,0:02:20.99,0:02:21.78,Default,,0,0,0,,Master!
@@ -73,11 +73,11 @@ Dialogue: 0,0:02:45.39,0:02:49.27,Default,,0,0,0,,Our enemy is far beyond my exp
 Dialogue: 0,0:02:49.81,0:02:51.69,Default,,0,0,0,,With our current strength...
 Dialogue: 0,0:02:53.19,0:02:54.32,Default,,0,0,0,,we can't win.
 Dialogue: 0,0:02:54.65,0:02:55.40,Default,,0,0,0,,But...!
-Dialogue: 0,0:02:55.57,0:02:59.90,Default,,0,0,0,,That's why he...\NHadlar, the Dark Commander...
+Dialogue: 0,0:02:55.57,0:02:59.90,Default,,0,0,0,,That's why he...\NHadorra, the Dark Commander...
 Dialogue: 0,0:03:00.70,0:03:02.70,Default,,0,0,0,,must be brought down here.
 Dialogue: 0,0:03:03.49,0:03:06.41,Default,,0,0,0,,And Dai, Popp...
-Dialogue: 0,0:03:07.29,0:03:11.67,Default,,0,0,0,,I ask that someday you two\Ndefeat Vearn, the Dark King!
-Dialogue: 0,0:03:19.47,0:03:23.34,Default,,0,0,0,,I underestimated you.\NWell done, Avan, the Hero.
+Dialogue: 0,0:03:07.29,0:03:11.67,Default,,0,0,0,,I ask that someday you two\Ndefeat Ban, the Dark King!
+Dialogue: 0,0:03:19.47,0:03:23.34,Default,,0,0,0,,I underestimated you.\NWell done, Aban, the Hero.
 Dialogue: 0,0:03:23.68,0:03:24.76,Default,,0,0,0,,Wait...
 Dialogue: 0,0:03:25.43,0:03:26.97,Default,,0,0,0,,Master, do you intend to die?!
 Dialogue: 0,0:03:27.56,0:03:29.52,Default,,0,0,0,,Master, I'll fight with you!
@@ -93,16 +93,16 @@ Dialogue: 0,0:03:52.50,0:03:54.54,Default,,0,0,0,,You should all be safe now.
 Dialogue: 0,0:03:54.96,0:03:58.63,Default,,0,0,0,,You may watch my final battle from there.
 Dialogue: 0,0:03:59.00,0:04:01.22,Default,,0,0,0,,By "final," you mean...!
 Dialogue: 0,0:04:01.38,0:04:04.97,Default,,0,0,0,,Don't do this! I'll fight!\NTogether with you!
-Dialogue: 0,0:04:05.47,0:04:11.10,Default,,0,0,0,,How foolish, Avan. To spend your remaining\NMagic Power on your students.
+Dialogue: 0,0:04:05.47,0:04:11.10,Default,,0,0,0,,How foolish, Aban. To spend your remaining\NMagic Power on your students.
 Dialogue: 0,0:04:24.28,0:04:25.82,Default,,0,0,0,,Oh! Those are...!
-Dialogue: 0,0:04:26.78,0:04:29.58,Default,,0,0,0,,Insignias of Avan!\NCertificates of graduation!
+Dialogue: 0,0:04:26.78,0:04:29.58,Default,,0,0,0,,Insignias of Aban!\NCertificates of graduation!
 Dialogue: 0,0:04:29.74,0:04:30.95,Default,,0,0,0,,Graduation?!
 Dialogue: 0,0:04:31.12,0:04:35.08,Default,,0,0,0,,I give these to students\NI believe are fully trained.
 Dialogue: 0,0:04:35.21,0:04:39.34,Default,,0,0,0,,Dai, you possess outstanding potential.
 Dialogue: 0,0:04:43.42,0:04:46.80,Default,,0,0,0,,I regret our training was cut short\Nat three days.
 Dialogue: 0,0:04:47.18,0:04:49.47,Default,,0,0,0,,If we continued for the remaining four...
 Dialogue: 0,0:04:50.26,0:04:53.43,Default,,0,0,0,,I'm certain you could have become a Hero.
-Dialogue: 0,0:04:54.14,0:04:55.35,Default,,0,0,0,,Master Avan!
+Dialogue: 0,0:04:54.14,0:04:55.35,Default,,0,0,0,,Master Aban!
 Dialogue: 0,0:04:55.89,0:04:58.11,Default,,0,0,0,,That is why I give this to you.
 Dialogue: 0,0:04:58.27,0:05:02.40,Default,,0,0,0,,Continue with your training\Nand become a true Hero.
 Dialogue: 0,0:05:02.78,0:05:05.57,Default,,0,0,0,,Master, I...!
@@ -124,11 +124,11 @@ Dialogue: 0,0:06:02.42,0:06:03.92,Default,,0,0,0,,Master!
 Dialogue: 0,0:06:04.42,0:06:05.51,Default,,0,0,0,,Master!
 Dialogue: 0,0:06:05.67,0:06:11.22,Default,,0,0,0,,Oh my. You haven't officially graduated\Nand you're already so emotional.
 Dialogue: 0,0:06:12.39,0:06:18.81,Default,,0,0,0,,You'll need to work much, much harder\Nto become Heroes worthy of those.
-Dialogue: 0,0:06:20.73,0:06:24.61,Default,,0,0,0,,Mr. Brass and Gomechan,\Nthank you for everything.
-Dialogue: 0,0:06:25.19,0:06:27.61,Default,,0,0,0,,Sir Avan, don't do anything rash!
+Dialogue: 0,0:06:20.73,0:06:24.61,Default,,0,0,0,,Mr. Burasu and Gomechan,\Nthank you for everything.
+Dialogue: 0,0:06:25.19,0:06:27.61,Default,,0,0,0,,Sir Aban, don't do anything rash!
 Dialogue: 0,0:06:28.82,0:06:33.24,Default,,0,0,0,,Don't worry. I will not lose.
 Dialogue: 0,0:06:38.46,0:06:40.58,Default,,0,0,0,,Done saying goodbye to your students?
-Dialogue: 0,0:06:41.63,0:06:43.75,Default,,0,0,0,,Let us fight, Hadlar!
+Dialogue: 0,0:06:41.63,0:06:43.75,Default,,0,0,0,,Let us fight, Hadorra!
 Dialogue: 0,0:06:45.38,0:06:46.42,Default,,0,0,0,,Very well.
 Dialogue: 0,0:06:46.76,0:06:52.18,Default,,0,0,0,,But having used your last Magic Power\Nto cast Asutoron has sealed your fate.
 Dialogue: 0,0:06:52.34,0:06:56.31,Default,,0,0,0,,You've spent most of\Nyour Magic Power, too!
@@ -142,7 +142,7 @@ Dialogue: 0,0:07:34.89,0:07:37.72,Default,,0,0,0,,tear you...
 Dialogue: 0,0:07:37.89,0:07:40.43,Default,,0,0,0,,apart!
 Dialogue: 0,0:07:49.57,0:07:50.49,Default,,0,0,0,,Master!
 Dialogue: 0,0:07:50.69,0:07:52.61,Default,,0,0,0,,Move! Move!
-Dialogue: 0,0:08:10.46,0:08:12.34,Default,,0,0,0,,Die, Avan!
+Dialogue: 0,0:08:10.46,0:08:12.34,Default,,0,0,0,,Die, Aban!
 Dialogue: 0,0:08:19.52,0:08:20.18,Default,,0,0,0,,You...!
 Dialogue: 0,0:08:27.61,0:08:29.53,Default,,0,0,0,,A spell?! Impossible!
 Dialogue: 0,0:08:30.65,0:08:33.45,Default,,0,0,0,,You should be out of Magic Power!
@@ -150,31 +150,31 @@ Dialogue: 0,0:08:33.61,0:08:36.24,Default,,0,0,0,,This spell requires\Nvery litt
 Dialogue: 0,0:08:36.66,0:08:42.04,Default,,0,0,0,,Instead, it turns life energy\Ninto explosive power to defeat enemies!
 Dialogue: 0,0:08:43.62,0:08:46.00,Default,,0,0,0,,Wait! This spell is...!
 Dialogue: 0,0:08:48.63,0:08:51.26,Default,,0,0,0,,Stop! Don't do it!
-Dialogue: 0,0:08:53.05,0:08:55.68,Default,,0,0,0,,You'll die! It'll kill you too, Avan!
+Dialogue: 0,0:08:53.05,0:08:55.68,Default,,0,0,0,,You'll die! It'll kill you too, Aban!
 Dialogue: 0,0:08:56.05,0:08:57.72,Default,,0,0,0,,Do you want that?!
 Dialogue: 0,0:09:03.23,0:09:06.90,Default,,0,0,0,,Popp, Dai! I leave the rest to you!
 Dialogue: 0,0:09:07.40,0:09:10.02,Default,,0,0,0,,Stop!
 Dialogue: 0,0:09:15.36,0:09:16.53,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Megante!{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:09:48.31,0:09:49.44,Default,,0,0,0,,Master!
-Dialogue: 0,0:09:50.69,0:09:53.57,Default,,0,0,0,,Sir Avan used the spell Megante.
+Dialogue: 0,0:09:50.69,0:09:53.57,Default,,0,0,0,,Sir Aban used the spell Megante.
 Dialogue: 0,0:09:53.98,0:09:55.15,Default,,0,0,0,,Megante?
 Dialogue: 0,0:09:55.49,0:10:02.08,Default,,0,0,0,,He used the final destructive spell\Nthat uses his own life to save his allies.
-Dialogue: 0,0:10:02.58,0:10:05.58,Default,,0,0,0,,Sir Avan, you truly are...
+Dialogue: 0,0:10:02.58,0:10:05.58,Default,,0,0,0,,Sir Aban, you truly are...
 Dialogue: 0,0:10:05.75,0:10:10.25,Default,,0,0,0,,Master used his own life to protect us.
 Dialogue: 0,0:10:11.54,0:10:12.96,Default,,0,0,0,,Master...
 Dialogue: 0,0:10:16.09,0:10:18.55,DefaultLow,,0,0,0,,{\i1}{\3c&H1717E4&}BEGIRAMA{\i0}{\3c&H00000000&}\NHEAT-TYPE SPELL
 Dialogue: 0,0:10:21.05,0:10:23.56,DefaultLow,,0,0,0,,{\i1}{\3c&H1717E4&}IONAZUN{\i0}{\3c&H00000000&}\NEXPLOSION-TYPE SPELL
 Dialogue: 0,0:10:28.56,0:10:30.06,Default,,0,0,0,,Is that Master?!
-Dialogue: 0,0:10:37.15,0:10:38.24,Default,,0,0,0,,Hadlar?!
+Dialogue: 0,0:10:37.15,0:10:38.24,Default,,0,0,0,,Hadorra?!
 Dialogue: 0,0:10:41.99,0:10:43.91,Default,,0,0,0,,No! Where's Master?!
-Dialogue: 0,0:10:54.04,0:10:56.80,Default,,0,0,0,,You truly have grown weak, Avan!
+Dialogue: 0,0:10:54.04,0:10:56.80,Default,,0,0,0,,You truly have grown weak, Aban!
 Dialogue: 0,0:10:57.97,0:11:03.89,Default,,0,0,0,,You used your own life to cast Megante,\Nand you still couldn't defeat me!
 Dialogue: 0,0:11:05.68,0:11:10.27,Default,,0,0,0,,Now there is nothing left to fear!\NThe Dark Army is unopposed!
 Dialogue: 0,0:11:11.65,0:11:14.19,Default,,0,0,0,,He truly is a monster!
 Dialogue: 0,0:11:14.36,0:11:15.52,Default,,0,0,0,,No way...
-Dialogue: 0,0:11:20.40,0:11:22.66,Default,,0,0,0,,Curse you, Avan.
+Dialogue: 0,0:11:20.40,0:11:22.66,Default,,0,0,0,,Curse you, Aban.
 Dialogue: 0,0:11:30.16,0:11:36.00,Default,,0,0,0,,I need to wipe out your students\Nhere and now.
-Dialogue: 0,0:11:38.71,0:11:44.30,Default,,0,0,0,,Don't worry! The effects of\NSir Avan's Asutoron still remain!
+Dialogue: 0,0:11:38.71,0:11:44.30,Default,,0,0,0,,Don't worry! The effects of\NSir Aban's Asutoron still remain!
 Dialogue: 0,0:11:44.47,0:11:46.93,Default,,0,0,0,,It will repel any attack!
 Dialogue: 0,0:11:47.10,0:11:48.35,Default,,0,0,0,,Don't be so sure.
 Dialogue: 0,0:11:48.64,0:11:53.48,Default,,0,0,0,,Having you immobile is perfect.
@@ -214,7 +214,7 @@ Dialogue: 0,0:14:54.95,0:14:56.20,Default,,0,0,0,,You'll pay for that!
 Dialogue: 0,0:14:57.66,0:15:00.71,Default,,0,0,0,,Don't get cocky, boy!
 Dialogue: 0,0:15:10.43,0:15:11.43,Default,,0,0,0,,Yes!
 Dialogue: 0,0:15:12.01,0:15:17.18,Default,,0,0,0,,This is impossible! I may have\Nsustained damage from Megante...
-Dialogue: 0,0:15:17.73,0:15:20.69,Default,,0,0,0,,And he may be a student of Avan...
+Dialogue: 0,0:15:17.73,0:15:20.69,Default,,0,0,0,,And he may be a student of Aban...
 Dialogue: 0,0:15:20.85,0:15:26.19,Default,,0,0,0,,But how could I be overpowered\Nby a mere child?!
 Dialogue: 0,0:15:30.20,0:15:31.53,Default,,0,0,0,,Die!
 Dialogue: 0,0:15:35.20,0:15:36.70,Default,,0,0,0,,Die! Die!
@@ -232,19 +232,19 @@ Dialogue: 0,0:17:05.00,0:17:06.29,Default,,0,0,0,,Dai! Above you!
 Dialogue: 0,0:17:06.67,0:17:09.34,Default,,0,0,0,,Feel how powerful Master's attack is...
 Dialogue: 0,0:17:13.17,0:17:15.55,Default,,0,0,0,,for yourself!
 Dialogue: 0,0:17:18.05,0:17:18.93,Default,,0,0,0,,What?!
-Dialogue: 0,0:17:19.10,0:17:20.14,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Avan...{\\i0}{\\3c&H00000000&}
+Dialogue: 0,0:17:19.10,0:17:20.14,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Aban...{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:17:23.18,0:17:26.27,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Strash!{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:17:39.24,0:17:44.29,Default,,0,0,0,,Curse you, boy! I'll remember\Nthis humiliation and your name!
 Dialogue: 0,0:17:44.62,0:17:48.46,Default,,0,0,0,,I swear I will kill you! Dai!
 Dialogue: 0,0:18:15.19,0:18:17.11,Default,,0,0,0,,Dai, are you okay?!
 Dialogue: 0,0:18:18.49,0:18:20.37,Default,,0,0,0,,Grampa, Gomechan.
-Dialogue: 0,0:18:21.62,0:18:22.53,Default,,0,0,0,,Where's Hadlar?!
+Dialogue: 0,0:18:21.62,0:18:22.53,Default,,0,0,0,,Where's Hadorra?!
 Dialogue: 0,0:18:23.24,0:18:28.87,Default,,0,0,0,,Unfortunately, it seems he escaped.\NI saw him use a Chimaera Wing.
 Dialogue: 0,0:18:29.04,0:18:30.33,Default,,0,0,0,,Oh...
 Dialogue: 0,0:18:36.17,0:18:37.88,Default,,0,0,0,,Master...
 Dialogue: 0,0:18:38.30,0:18:39.59,Default,,0,0,0,,Master...
 Dialogue: 0,0:18:40.64,0:18:41.97,Default,,0,0,0,,Master!
-Dialogue: 0,0:18:58.74,0:19:04.99,Default,,0,0,0,,The magic circle of light remains\Neven after Sir Avan has gone.
+Dialogue: 0,0:18:58.74,0:19:04.99,Default,,0,0,0,,The magic circle of light remains\Neven after Sir Aban has gone.
 Dialogue: 0,0:19:05.16,0:19:07.62,Default,,0,0,0,,He still protects us even now.
 Dialogue: 0,0:19:08.12,0:19:10.92,Default,,0,0,0,,I told you Master is amazing.
 Dialogue: 0,0:19:11.08,0:19:12.21,Default,,0,0,0,,Popp...
@@ -253,27 +253,27 @@ Dialogue: 0,0:19:15.13,0:19:15.84,Default,,0,0,0,,Huh?
 Dialogue: 0,0:19:16.01,0:19:20.38,Default,,0,0,0,,Will you continue\Nyour magic training under me?
 Dialogue: 0,0:19:20.55,0:19:21.84,Default,,0,0,0,,Or...
 Dialogue: 0,0:19:22.76,0:19:23.72,Default,,0,0,0,,I...
-Dialogue: 0,0:19:27.60,0:19:32.94,Default,,0,0,0,,Master gave me a mission.\NTo one day defeat Vearn, the Dark King.
+Dialogue: 0,0:19:27.60,0:19:32.94,Default,,0,0,0,,Master gave me a mission.\NTo one day defeat Ban, the Dark King.
 Dialogue: 0,0:19:35.27,0:19:38.32,Default,,0,0,0,,That's why... I...
 Dialogue: 0,0:19:41.41,0:19:45.95,DefaultLow,,0,0,0,,SOVEREIGN ROCK CASTLE
-Dialogue: 0,0:19:51.96,0:19:55.25,Default,,0,0,0,,{\i1}I see you took quite the beating, Hadlar.{\i0}
+Dialogue: 0,0:19:51.96,0:19:55.25,Default,,0,0,0,,{\i1}I see you took quite the beating, Hadorra.{\i0}
 Dialogue: 0,0:19:55.75,0:20:01.68,Default,,0,0,0,,Forgive me, my Dark King,\Nfor making you see me in this condition.
 Dialogue: 0,0:20:01.84,0:20:03.97,Default,,0,0,0,,{\i1}It matters not.{\i0}
-Dialogue: 0,0:20:04.39,0:20:11.06,Default,,0,0,0,,{\i1}You have buried Avan, the Hero.\NConsider them wounds of honor.{\i0}
+Dialogue: 0,0:20:04.39,0:20:11.06,Default,,0,0,0,,{\i1}You have buried Aban, the Hero.\NConsider them wounds of honor.{\i0}
 Dialogue: 0,0:20:11.52,0:20:12.44,Default,,0,0,0,,My Lord.
 Dialogue: 0,0:20:12.94,0:20:16.27,Default,,0,0,0,,{\i1}I have placed all of my trust in you.{\i0}
-Dialogue: 0,0:20:16.73,0:20:22.03,Default,,0,0,0,,{\i1}With your rival Avan dead,\Nno one can stop my Dark Army.{\i0}
+Dialogue: 0,0:20:16.73,0:20:22.03,Default,,0,0,0,,{\i1}With your rival Aban dead,\Nno one can stop my Dark Army.{\i0}
 Dialogue: 0,0:20:22.20,0:20:27.03,Default,,0,0,0,,{\i1}Go forth and fulfill your dream\Nof overthrowing the world.{\i0}
 Dialogue: 0,0:20:27.20,0:20:27.91,Default,,0,0,0,,Yes, Sire!
-Dialogue: 0,0:20:32.58,0:20:34.88,Default,,0,0,0,,{\i1}It's true that Avan is dead.{\i0}
+Dialogue: 0,0:20:32.58,0:20:34.88,Default,,0,0,0,,{\i1}It's true that Aban is dead.{\i0}
 Dialogue: 0,0:20:35.25,0:20:40.05,Default,,0,0,0,,{\i1}But that boy Dai is a far greater threat.{\i0}
-Dialogue: 0,0:20:40.96,0:20:48.43,Default,,0,0,0,,{\i1}Wounded as I was, to overpower me,\NHadlar, the Dark Commander...{\i0}
+Dialogue: 0,0:20:40.96,0:20:48.43,Default,,0,0,0,,{\i1}Wounded as I was, to overpower me,\NHadorra, the Dark Commander...{\i0}
 Dialogue: 0,0:20:48.76,0:20:53.23,Default,,0,0,0,,{\i1}And that mark on his forehead.\NThe Dragon Crest.{\i0}
 Dialogue: 0,0:20:54.48,0:20:57.94,Default,,0,0,0,,{\i1}If he really is a Dragon Knight...{\i0}
-Dialogue: 0,0:20:58.11,0:21:03.57,Default,,0,0,0,,{\i1}And, with Avan's training,\Nif he manages to reach power of a Hero...{\i0}
-Dialogue: 0,0:21:04.36,0:21:09.16,Default,,0,0,0,,{\i1}he will become\Nfar more powerful than Avan!{\i0}
+Dialogue: 0,0:20:58.11,0:21:03.57,Default,,0,0,0,,{\i1}And, with Aban's training,\Nif he manages to reach power of a Hero...{\i0}
+Dialogue: 0,0:21:04.36,0:21:09.16,Default,,0,0,0,,{\i1}he will become\Nfar more powerful than Aban!{\i0}
 Dialogue: 0,0:21:09.74,0:21:13.25,Default,,0,0,0,,{\i1}The wounds I received from him\Nare proof of that.{\i0}
-Dialogue: 0,0:21:14.21,0:21:19.13,Default,,0,0,0,,{\i1}The wound from Dai heals slower\Nthan the wound from Avan.{\i0}
+Dialogue: 0,0:21:14.21,0:21:19.13,Default,,0,0,0,,{\i1}The wound from Dai heals slower\Nthan the wound from Aban.{\i0}
 Dialogue: 0,0:21:19.71,0:21:24.68,Default,,0,0,0,,{\i1}In that instant,\NDai's blade surpassed that of his master!{\i0}
 Dialogue: 0,0:21:29.39,0:21:36.15,Default,,0,0,0,,{\i1}If I let him live, he is sure to grow into\Na terrifying enemy.{\i0}
 Dialogue: 0,0:21:44.49,0:21:48.74,Default,,0,0,0,,I must crush him!\NWhile he still remains a fledgling!

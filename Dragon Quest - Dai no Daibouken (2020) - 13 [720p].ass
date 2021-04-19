@@ -95,9 +95,9 @@ Dialogue: 0,0:03:59.88,0:04:01.59,Default,,0,0,0,,Join him in the afterlife.
 Dialogue: 0,0:04:02.13,0:04:03.80,Default,,0,0,0,,Wait, Hyunckel!
 Dialogue: 0,0:04:07.18,0:04:08.85,Default,,0,0,0,,When did you get out?!
 Dialogue: 0,0:04:09.18,0:04:10.98,Default,,0,0,0,,Hyunckel, how could you?!
-Dialogue: 0,0:04:11.52,0:04:15.02,Default,,0,0,0,,You've struck a fellow Disciple of Avan!
+Dialogue: 0,0:04:11.52,0:04:15.02,Default,,0,0,0,,You've struck a fellow Disciple of Aban!
 Dialogue: 0,0:04:15.44,0:04:19.90,Default,,0,0,0,,Don't give me that.\NHe's a student of my father's killer!
-Dialogue: 0,0:04:20.03,0:04:24.20,Default,,0,0,0,,You're wrong!\NMaster Avan wasn't your father's killer!
+Dialogue: 0,0:04:20.03,0:04:24.20,Default,,0,0,0,,You're wrong!\NMaster Aban wasn't your father's killer!
 Dialogue: 0,0:04:24.36,0:04:25.53,Default,,0,0,0,,Spare me the lies!
 Dialogue: 0,0:04:25.70,0:04:27.24,Default,,0,0,0,,It's the truth!
 Dialogue: 0,0:04:28.16,0:04:30.62,Default,,0,0,0,,This was in a chest in a hidden room.
@@ -123,8 +123,8 @@ Dialogue: 0,0:05:47.07,0:05:47.82,Default,,0,0,0,,Dad?!
 Dialogue: 0,0:05:51.53,0:05:54.33,Default,,0,0,0,,{\i1}My dear son, Hyunckel.{\i0}
 Dialogue: 0,0:05:54.66,0:06:00.21,Default,,0,0,0,,{\i1}I leave this message\Nso that you will know the truth.{\i0}
 Dialogue: 0,0:06:00.83,0:06:04.25,Default,,0,0,0,,{\i1}The day the hero's party\Nattacked the Underground Palace,{\i0}
-Dialogue: 0,0:06:04.42,0:06:08.22,Default,,0,0,0,,{\i1}I fought Avan, the Hero\Nas keeper of the Hell Gate!{\i0}
-Dialogue: 0,0:06:09.47,0:06:11.85,Default,,0,0,0,,{\i1}But Avan was strong.{\i0}
+Dialogue: 0,0:06:04.42,0:06:08.22,Default,,0,0,0,,{\i1}I fought Aban, the Hero\Nas keeper of the Hell Gate!{\i0}
+Dialogue: 0,0:06:09.47,0:06:11.85,Default,,0,0,0,,{\i1}But Aban was strong.{\i0}
 Dialogue: 0,0:06:20.02,0:06:22.15,Default,,0,0,0,,{\i1}I prepared for my death.{\i0}
 Dialogue: 0,0:06:22.48,0:06:23.65,Default,,0,0,0,,{\i1}And then...{\i0}
 Dialogue: 0,0:06:26.90,0:06:29.15,Default,,0,0,0,,What's wrong?! Strike me down!
@@ -135,25 +135,25 @@ Dialogue: 0,0:06:40.50,0:06:44.84,Default,,0,0,0,,It seems unlikely, but you hav
 Dialogue: 0,0:06:46.09,0:06:50.18,Default,,0,0,0,,When I realized that, I couldn't kill you.
 Dialogue: 0,0:06:53.30,0:06:57.60,Default,,0,0,0,,You've beaten me. Not just in strength,\Nbut in heart as well!
 Dialogue: 0,0:06:58.06,0:07:00.52,Default,,0,0,0,,Now please open the gate.
-Dialogue: 0,0:07:00.69,0:07:03.90,Default,,0,0,0,,The only one I'm here for is Hadlar.
+Dialogue: 0,0:07:00.69,0:07:03.90,Default,,0,0,0,,The only one I'm here for is Hadorra.
 Dialogue: 0,0:07:05.15,0:07:08.86,Default,,0,0,0,,Sir Hero! I have something I must ask you!
 Dialogue: 0,0:07:10.49,0:07:12.03,Default,,0,0,0,,{\i1}And so I told him.{\i0}
 Dialogue: 0,0:07:12.41,0:07:15.78,Default,,0,0,0,,{\i1}How I found and raised a human child.{\i0}
-Dialogue: 0,0:07:16.29,0:07:21.83,Default,,0,0,0,,{\i1}And that, even if he spared me,\Nshould Hadlar die, I would cease to be.{\i0}
-Dialogue: 0,0:07:22.58,0:07:26.38,Default,,0,0,0,,Hero Avan! Please look after my son!
+Dialogue: 0,0:07:16.29,0:07:21.83,Default,,0,0,0,,{\i1}And that, even if he spared me,\Nshould Hadorra die, I would cease to be.{\i0}
+Dialogue: 0,0:07:22.58,0:07:26.38,Default,,0,0,0,,Hero Aban! Please look after my son!
 Dialogue: 0,0:07:26.55,0:07:29.76,Default,,0,0,0,,Raise him to be a strong,\Nrighteous warrior!
 Dialogue: 0,0:07:29.92,0:07:34.76,Default,,0,0,0,,I ask that you show him real human warmth!
 Dialogue: 0,0:07:35.26,0:07:36.18,Default,,0,0,0,,Yes.
-Dialogue: 0,0:07:37.81,0:07:41.19,Default,,0,0,0,,{\i1}Sir Avan gracefully accepted.{\i0}
-Dialogue: 0,0:07:42.19,0:07:46.02,Default,,0,0,0,,{\i1}And then Sir Avan went to face Hadlar.{\i0}
+Dialogue: 0,0:07:37.81,0:07:41.19,Default,,0,0,0,,{\i1}Sir Aban gracefully accepted.{\i0}
+Dialogue: 0,0:07:42.19,0:07:46.02,Default,,0,0,0,,{\i1}And then Sir Aban went to face Hadorra.{\i0}
 Dialogue: 0,0:07:51.03,0:07:52.61,Default,,0,0,0,,{\i1}Soon after...{\i0}
-Dialogue: 0,0:07:55.57,0:07:58.83,Default,,0,0,0,,{\i1}Hadlar's death cry\Nechoed through the palace!{\i0}
+Dialogue: 0,0:07:55.57,0:07:58.83,Default,,0,0,0,,{\i1}Hadorra's death cry\Nechoed through the palace!{\i0}
 Dialogue: 0,0:08:00.70,0:08:04.21,Default,,0,0,0,,{\i1}And yet... I still lived.{\i0}
-Dialogue: 0,0:08:12.30,0:08:13.76,Default,,0,0,0,,Lord Hadlar!
+Dialogue: 0,0:08:12.30,0:08:13.76,Default,,0,0,0,,Lord Hadorra!
 Dialogue: 0,0:08:13.93,0:08:15.68,Default,,0,0,0,,You survived?!
 Dialogue: 0,0:08:15.84,0:08:17.43,Default,,0,0,0,,At my moment of death,
-Dialogue: 0,0:08:17.60,0:08:21.48,Default,,0,0,0,,I was saved by the dark powers\Nof the Underworld god, Vearn!
-Dialogue: 0,0:08:21.81,0:08:24.23,Default,,0,0,0,,The Underworld god, Vearn?!
+Dialogue: 0,0:08:17.60,0:08:21.48,Default,,0,0,0,,I was saved by the dark powers\Nof the Underworld god, Ban!
+Dialogue: 0,0:08:21.81,0:08:24.23,Default,,0,0,0,,The Underworld god, Ban?!
 Dialogue: 0,0:08:24.40,0:08:30.94,Default,,0,0,0,,I must now sleep for 13 years to build up\Nmy power and create a new Dark Army!
 Dialogue: 0,0:08:31.11,0:08:35.57,Default,,0,0,0,,An army far greater\Nthan the current Dark Army!
 Dialogue: 0,0:08:35.95,0:08:40.29,Default,,0,0,0,,But, before I do that,\NI need to execute you!
@@ -161,10 +161,10 @@ Dialogue: 0,0:08:40.79,0:08:42.16,Default,,0,0,0,,M-Me?!
 Dialogue: 0,0:08:42.66,0:08:45.12,Default,,0,0,0,,You're an absolute failure!
 Dialogue: 0,0:08:45.29,0:08:48.79,Default,,0,0,0,,With your pathetic sense of justice\Nand chivalry!
 Dialogue: 0,0:08:48.96,0:08:51.96,Default,,0,0,0,,Your human-like warmth makes you weak!
-Dialogue: 0,0:08:52.51,0:08:57.72,Default,,0,0,0,,And on top of that, you let Avan\Npass right through the Hell Gate!
+Dialogue: 0,0:08:52.51,0:08:57.72,Default,,0,0,0,,And on top of that, you let Aban\Npass right through the Hell Gate!
 Dialogue: 0,0:08:58.18,0:09:00.18,Default,,0,0,0,,When I create my new Dark Army,
 Dialogue: 0,0:09:00.35,0:09:04.81,Default,,0,0,0,,it will have no place\Nfor a mistake like you!
-Dialogue: 0,0:09:08.61,0:09:12.57,Default,,0,0,0,,Well, Avan, enjoy your moment of peace.
+Dialogue: 0,0:09:08.61,0:09:12.57,Default,,0,0,0,,Well, Aban, enjoy your moment of peace.
 Dialogue: 0,0:09:12.94,0:09:17.36,Default,,0,0,0,,When my new Dark Army is complete,\NI'll come for you first!
 Dialogue: 0,0:09:19.95,0:09:22.41,Default,,0,0,0,,H-Hyunckel...
 Dialogue: 0,0:09:26.50,0:09:27.62,Default,,0,0,0,,Dad?!
@@ -174,15 +174,15 @@ Dialogue: 0,0:09:36.97,0:09:41.01,Default,,0,0,0,,{\i1}I no longer had the stren
 Dialogue: 0,0:09:41.35,0:09:46.81,Default,,0,0,0,,{\i1}And so I hid this message in secret\Nwithin this Soul Shell.{\i0}
 Dialogue: 0,0:09:47.14,0:09:51.07,Default,,0,0,0,,{\i1}Hoping that one day, you would hear it.{\i0}
 Dialogue: 0,0:09:53.53,0:09:57.40,Default,,0,0,0,,{\i1}Hyunckel, I hope that\Nyou live like a human.{\i0}
-Dialogue: 0,0:09:57.57,0:10:00.53,Default,,0,0,0,,{\i1}And you must not hate Sir Avan!{\i0}
+Dialogue: 0,0:09:57.57,0:10:00.53,Default,,0,0,0,,{\i1}And you must not hate Sir Aban!{\i0}
 Dialogue: 0,0:10:00.70,0:10:06.75,Default,,0,0,0,,{\i1}If anything, hate this foolish monster\Nwho deemed to raise a human child.{\i0}
 Dialogue: 0,0:10:07.50,0:10:10.00,Default,,0,0,0,,{\i1}But know that I was happy.{\i0}
 Dialogue: 0,0:10:10.17,0:10:16.88,Default,,0,0,0,,{\i1}For a brief moment,\Nthis cold corpse of a body felt warmth.{\i0}
 Dialogue: 0,0:10:17.42,0:10:20.64,Default,,0,0,0,,{\i1}Please let me say this one more time...{\i0}
 Dialogue: 0,0:10:21.55,0:10:26.60,Default,,0,0,0,,{\i1}Hyunckel... thank you for the memories...{\i0}
 Dialogue: 0,0:10:26.77,0:10:28.73,Default,,0,0,0,,{\i1}Dad!{\i0}
-Dialogue: 0,0:10:30.69,0:10:34.86,Default,,0,0,0,,Then Hadlar was the one\Nwho killed my father?!
-Dialogue: 0,0:10:35.61,0:10:41.37,Default,,0,0,0,,And Avan knew I thought\Nhe killed my father...
+Dialogue: 0,0:10:30.69,0:10:34.86,Default,,0,0,0,,Then Hadorra was the one\Nwho killed my father?!
+Dialogue: 0,0:10:35.61,0:10:41.37,Default,,0,0,0,,And Aban knew I thought\Nhe killed my father...
 Dialogue: 0,0:10:41.74,0:10:44.62,Default,,0,0,0,,and still looked after me?!
 Dialogue: 0,0:10:46.37,0:10:47.25,Default,,0,0,0,,Lies...
 Dialogue: 0,0:10:48.33,0:10:50.04,Default,,0,0,0,,All lies!
@@ -196,14 +196,14 @@ Dialogue: 0,0:11:13.27,0:11:13.94,Default,,0,0,0,,Dai?!
 Dialogue: 0,0:11:14.11,0:11:18.44,Default,,0,0,0,,Impossible! A direct hit\Nwith Bloody Sukuraido! and he still lives?!
 Dialogue: 0,0:11:24.99,0:11:27.49,On Top,,0,0,0,,MAGIC BULLET GUN
 Dialogue: 0,0:11:30.00,0:11:32.50,On Top,,0,0,0,,{\i1}{\3c&H1717E4&}BLOODY SUKURAIDO!{\i0}{\3c&H00000000&}
-Dialogue: 0,0:11:35.29,0:11:38.26,Default,,0,0,0,,{\i1}I remember Master Avan mentioning this.{\i0}
+Dialogue: 0,0:11:35.29,0:11:38.26,Default,,0,0,0,,{\i1}I remember Master Aban mentioning this.{\i0}
 Dialogue: 0,0:11:38.42,0:11:44.93,Default,,0,0,0,,{\i1}Sometimes martial artists can keep on\Nfighting even after being knocked out.{\i0}
 Dialogue: 0,0:11:45.68,0:11:48.39,Default,,0,0,0,,{\i1}Like their battle instincts keep on going.{\i0}
 Dialogue: 0,0:11:49.18,0:11:51.69,Default,,0,0,0,,{\i1}That must be what's happening with Dai!{\i0}
 Dialogue: 0,0:11:51.85,0:11:55.44,Default,,0,0,0,,Dai, don't! He'll kill you!
 Dialogue: 0,0:11:56.23,0:11:59.44,Default,,0,0,0,,Curse you.\NI'll finish you for sure this time!
 Dialogue: 0,0:11:59.61,0:12:03.24,Default,,0,0,0,,Stop! You heard what your father said!
-Dialogue: 0,0:12:03.41,0:12:07.33,Default,,0,0,0,,The Dark Lord Hadlar is the one\Nyou should really hate!
+Dialogue: 0,0:12:03.41,0:12:07.33,Default,,0,0,0,,The Dark Lord Hadorra is the one\Nyou should really hate!
 Dialogue: 0,0:12:07.49,0:12:09.29,Default,,0,0,0,,Stop using your sword for evil!
 Dialogue: 0,0:12:09.45,0:12:10.79,Default,,0,0,0,,Enough!
 Dialogue: 0,0:12:12.67,0:12:15.04,Default,,0,0,0,,There's no turning back for me!
@@ -239,7 +239,7 @@ Dialogue: 0,0:14:36.02,0:14:36.81,Default,,0,0,0,,What?!
 Dialogue: 0,0:14:36.98,0:14:39.06,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Raiden...{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:14:41.40,0:14:43.69,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Strash!{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:14:55.37,0:14:57.00,Default,,0,0,0,,He did it!
-Dialogue: 0,0:14:57.16,0:15:01.46,Default,,0,0,0,,{\i1}Incomplete or not, it's an Avan Strash\Nand Raiden double whammy!{\i0}
+Dialogue: 0,0:14:57.16,0:15:01.46,Default,,0,0,0,,{\i1}Incomplete or not, it's an Aban Strash\Nand Raiden double whammy!{\i0}
 Dialogue: 0,0:15:01.63,0:15:04.34,Default,,0,0,0,,{\i1}Not even Hyunckel can withstand...{\i0}
 Dialogue: 0,0:15:10.43,0:15:12.43,Default,,0,0,0,,{\i1}Is he immortal?!{\i0}
 Dialogue: 0,0:15:23.52,0:15:25.77,Default,,0,0,0,,We won! We won!
@@ -247,7 +247,7 @@ Dialogue: 0,0:15:32.61,0:15:34.74,Default,,0,0,0,,{\i1}It's no good. I'm finishe
 Dialogue: 0,0:15:35.08,0:15:37.12,Default,,0,0,0,,Dai, that's enough!
 Dialogue: 0,0:15:38.45,0:15:39.71,Default,,0,0,0,,Maam?!
 Dialogue: 0,0:15:40.04,0:15:44.08,Default,,0,0,0,,Dai, it's all over! You've won!
-Dialogue: 0,0:15:44.92,0:15:50.13,Default,,0,0,0,,Please... I don't want to see\Nthe Disciples of Avan fighting each other.
+Dialogue: 0,0:15:44.92,0:15:50.13,Default,,0,0,0,,Please... I don't want to see\Nthe Disciples of Aban fighting each other.
 Dialogue: 0,0:15:53.18,0:15:54.30,Default,,0,0,0,,Tears?
 Dialogue: 0,0:16:07.57,0:16:09.49,Default,,0,0,0,,Maam? Hyunckel?!
 Dialogue: 0,0:16:09.86,0:16:11.28,Default,,0,0,0,,What was I doing?
@@ -355,7 +355,7 @@ Dialogue: 0,0:23:08.28,0:23:13.95,On Top,,0,0,0,,{\i1}sagashite ita kyou to chig
 Dialogue: 0,0:23:14.12,0:23:19.25,Default,,0,0,0,,{\i1}I'm sure you'd laugh at my disappointment{\i0}
 Dialogue: 0,0:23:14.12,0:23:19.25,On Top,,0,0,0,,{\i1}ochikonnde shimau boku wo warau no darou{\i0}
 Dialogue: 0,0:23:34.14,0:23:37.14,Default,,0,0,0,,{\i1}Having defeated Hyunckel, Dai and company{\i0}
-Dialogue: 0,0:23:37.31,0:23:41.81,Default,,0,0,0,,{\i1}along with Baduck, meet Amy,\None of the Papnica Troika.{\i0}
+Dialogue: 0,0:23:37.31,0:23:41.81,Default,,0,0,0,,{\i1}along with Baduck, meet Amy,\None of the Papunica Troika.{\i0}
 Dialogue: 0,0:23:42.15,0:23:45.61,Default,,0,0,0,,{\i1}Together, they head to Valge Island\Nwhere Leona awaits.{\i0}
 Dialogue: 0,0:23:45.77,0:23:51.24,Default,,0,0,0,,{\i1}But the island is already under siege by\Ntheir next enemy, the Blizzblaze Legion.{\i0}
 Dialogue: 0,0:23:52.36,0:23:54.99,Default,,0,0,0,,DRAGON QUEST The Adventure of Dai{\i1},{\i0}

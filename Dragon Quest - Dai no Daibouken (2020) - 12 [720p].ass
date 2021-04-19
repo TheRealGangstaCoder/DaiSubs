@@ -71,8 +71,8 @@ Dialogue: 0,0:02:18.24,0:02:21.16,Default,,0,0,0,,One wrong move and down you go
 Dialogue: 0,0:02:22.83,0:02:25.95,Default,,0,0,0,,We've imprisoned the girl in a cell.
 Dialogue: 0,0:02:26.12,0:02:27.00,Default,,0,0,0,,Good work.
 Dialogue: 0,0:02:27.33,0:02:31.29,Default,,0,0,0,,And a message just arrived from a Heyedra.
-Dialogue: 0,0:02:31.46,0:02:35.59,Default,,0,0,0,,Hadlar, the Dark Commander,\Nwill be here shortly.
-Dialogue: 0,0:02:35.75,0:02:37.17,Default,,0,0,0,,Hadlar?
+Dialogue: 0,0:02:31.46,0:02:35.59,Default,,0,0,0,,Hadorra, the Dark Commander,\Nwill be here shortly.
+Dialogue: 0,0:02:35.75,0:02:37.17,Default,,0,0,0,,Hadorra?
 Dialogue: 0,0:02:40.72,0:02:44.85,Default,,0,0,0,,My name is Baduck.\NI'm a swordsman for Princess Leona.
 Dialogue: 0,0:02:45.01,0:02:46.02,Default,,0,0,0,,For Leona?!
 Dialogue: 0,0:02:46.18,0:02:48.73,Default,,0,0,0,,Well, I'm just\Na wandering soldier for now.
@@ -84,7 +84,7 @@ Dialogue: 0,0:02:59.95,0:03:00.78,Default,,0,0,0,,Huh?
 Dialogue: 0,0:03:02.24,0:03:04.87,Default,,0,0,0,,So where's the Princess now?
 Dialogue: 0,0:03:07.33,0:03:12.92,Default,,0,0,0,,I was separated from everybody when\Nthe Undead Legion destroyed the temple.
 Dialogue: 0,0:03:13.67,0:03:15.09,Default,,0,0,0,,I see.
-Dialogue: 0,0:03:15.67,0:03:21.22,Default,,0,0,0,,But, the three most powerful Sages\Nin Papnica are always with her.
+Dialogue: 0,0:03:15.67,0:03:21.22,Default,,0,0,0,,But, the three most powerful Sages\Nin Papunica are always with her.
 Dialogue: 0,0:03:21.38,0:03:24.35,Default,,0,0,0,,I'm sure they're alive\Nout there somewhere.
 Dialogue: 0,0:03:26.01,0:03:31.31,Default,,0,0,0,,We got split up with Gomechan,\Nso I guess it's just us now.
 Dialogue: 0,0:03:31.48,0:03:37.19,Default,,0,0,0,,That old man's going to be disappointed\Nwhen he hears Hyunckel kicked our butts.
@@ -92,7 +92,7 @@ Dialogue: 0,0:03:38.90,0:03:42.57,Default,,0,0,0,,Why didn't you use\Nthe power 
 Dialogue: 0,0:03:44.49,0:03:49.12,Default,,0,0,0,,Listening to Hyunckel,\NI understood how he felt.
 Dialogue: 0,0:03:49.91,0:03:50.79,Default,,0,0,0,,You understood?
 Dialogue: 0,0:03:51.75,0:03:54.46,Default,,0,0,0,,I was raised by monsters, too.
-Dialogue: 0,0:03:55.08,0:04:01.26,Default,,0,0,0,,If somebody ever killed Grampa Brass,\NI'd probably hate them.
+Dialogue: 0,0:03:55.08,0:04:01.26,Default,,0,0,0,,If somebody ever killed Grampa Burasu,\NI'd probably hate them.
 Dialogue: 0,0:04:01.55,0:04:04.59,Default,,0,0,0,,I couldn't get mad\Nwhen I thought about that.
 Dialogue: 0,0:04:04.76,0:04:09.81,Default,,0,0,0,,You moron! If we don't beat him,\Nwe can't save Maam or the Princess!
 Dialogue: 0,0:04:11.43,0:04:15.44,Default,,0,0,0,,We fight! Once more, together!
@@ -107,11 +107,11 @@ Dialogue: 0,0:04:45.22,0:04:47.89,Default,,0,0,0,,Your concerns are unnecessary.
 Dialogue: 0,0:04:48.05,0:04:52.02,Default,,0,0,0,,I've already fought him. He was nothing.
 Dialogue: 0,0:04:52.73,0:04:55.19,Default,,0,0,0,,Next time, I'll kill him for sure.
 Dialogue: 0,0:04:55.35,0:04:58.73,Default,,0,0,0,,Strength-wise, an obvious result.
-Dialogue: 0,0:04:58.90,0:05:03.78,Default,,0,0,0,,However, you're a human,\Nand a former student of Avan.
+Dialogue: 0,0:04:58.90,0:05:03.78,Default,,0,0,0,,However, you're a human,\Nand a former student of Aban.
 Dialogue: 0,0:05:03.94,0:05:10.03,Default,,0,0,0,,Flazzard voiced his doubts\Nthat you might somehow fail.
 Dialogue: 0,0:05:11.16,0:05:14.29,Default,,0,0,0,,Just let the stupid general whine.
 Dialogue: 0,0:05:14.46,0:05:15.83,Default,,0,0,0,,How dare you!
-Dialogue: 0,0:05:16.00,0:05:21.88,Default,,0,0,0,,Listen! My orders come directly\Nfrom Vearn, the Dark King, himself!
+Dialogue: 0,0:05:16.00,0:05:21.88,Default,,0,0,0,,Listen! My orders come directly\Nfrom Ban, the Dark King, himself!
 Dialogue: 0,0:05:22.05,0:05:24.88,Default,,0,0,0,,No one, no matter who, may question them!
 Dialogue: 0,0:05:27.80,0:05:29.22,Default,,0,0,0,,Very well.
 Dialogue: 0,0:05:29.47,0:05:31.51,Default,,0,0,0,,Just one more thing.
@@ -126,12 +126,12 @@ Dialogue: 0,0:05:57.08,0:05:59.08,Default,,0,0,0,,{\i1}"Dark Commander." Hah!{\i
 Dialogue: 0,0:05:59.25,0:06:04.88,Default,,0,0,0,,{\i1}If you'd been strong enough,\Nmy father wouldn't have died.{\i0}
 Dialogue: 0,0:06:05.55,0:06:09.76,Default,,0,0,0,,{\i1}Just wait and I'll show you\Njust how weak you really are.{\i0}
 Dialogue: 0,0:06:10.51,0:06:13.26,Default,,0,0,0,,That insolent brat!
-Dialogue: 0,0:06:13.47,0:06:18.06,Default,,0,0,0,,What does Dark King Vearn even see in him?
+Dialogue: 0,0:06:13.47,0:06:18.06,Default,,0,0,0,,What does Dark King Ban even see in him?
 Dialogue: 0,0:06:18.27,0:06:22.15,Default,,0,0,0,,Perhaps he picked him on whim.\NOr perhaps...
-Dialogue: 0,0:06:23.15,0:06:28.40,Default,,0,0,0,,{\i1}It was back when Dark King Vearn\Nchose the Six Legion Commanders.{\i0}
+Dialogue: 0,0:06:23.15,0:06:28.40,Default,,0,0,0,,{\i1}It was back when Dark King Ban\Nchose the Six Legion Commanders.{\i0}
 Dialogue: 0,0:06:28.78,0:06:34.37,Default,,0,0,0,,My Dark King, I cannot agree\Nwith making Hyunckel a Legion Commander!
-Dialogue: 0,0:06:34.54,0:06:37.96,Default,,0,0,0,,He is a human! And a student of Avan!
-Dialogue: 0,0:06:38.50,0:06:43.09,Default,,0,0,0,,Hyunckel learned from Avan\Nin order to kill him.
+Dialogue: 0,0:06:34.54,0:06:37.96,Default,,0,0,0,,He is a human! And a student of Aban!
+Dialogue: 0,0:06:38.50,0:06:43.09,Default,,0,0,0,,Hyunckel learned from Aban\Nin order to kill him.
 Dialogue: 0,0:06:43.29,0:06:45.46,Default,,0,0,0,,Quite audacious, wouldn't you say?
 Dialogue: 0,0:06:46.26,0:06:52.01,Default,,0,0,0,,Furthermore, should something happen to\Nmy power, the Undead Legion will suffer.
 Dialogue: 0,0:06:52.18,0:06:57.14,Default,,0,0,0,,A living human is the best candidate\Nto comfortably control the Legion.
@@ -141,7 +141,7 @@ Dialogue: 0,0:07:02.27,0:07:02.86,Default,,0,0,0,,His eyes?
 Dialogue: 0,0:07:03.02,0:07:04.94,Default,,0,0,0,,Those eyes are magnificent.
 Dialogue: 0,0:07:05.44,0:07:10.70,Default,,0,0,0,,Eyes that curse all around them\Nand burn with aggravated rage.
 Dialogue: 0,0:07:10.86,0:07:17.16,Default,,0,0,0,,They are what I seek.\NTruly the eyes of an Underworld warrior.
-Dialogue: 0,0:07:20.71,0:07:26.38,Default,,0,0,0,,Dark King Vearn is great,\Nbut his motives can be unfathomable.
+Dialogue: 0,0:07:20.71,0:07:26.38,Default,,0,0,0,,Dark King Ban is great,\Nbut his motives can be unfathomable.
 Dialogue: 0,0:07:26.55,0:07:30.80,Default,,0,0,0,,Regardless, if Dai is killed, so be it.
 Dialogue: 0,0:07:30.97,0:07:36.22,Default,,0,0,0,,If Hyunckel fails,\Nit gives us reason to punish him.
 Dialogue: 0,0:07:37.85,0:07:39.64,Default,,0,0,0,,Ah, good morning, Dai!
@@ -199,9 +199,9 @@ Dialogue: 0,0:11:20.45,0:11:25.45,Default,,0,0,0,,It's the basic code of a warri
 Dialogue: 0,0:11:26.45,0:11:31.21,Default,,0,0,0,,My father was the model warrior.\NI still believe that.
 Dialogue: 0,0:11:33.38,0:11:35.75,Default,,0,0,0,,You respected your father.
 Dialogue: 0,0:11:35.92,0:11:37.21,Default,,0,0,0,,Of course.
-Dialogue: 0,0:11:38.13,0:11:42.76,Default,,0,0,0,,That's why you hate Master Avan\Nfor taking his life.
+Dialogue: 0,0:11:38.13,0:11:42.76,Default,,0,0,0,,That's why you hate Master Aban\Nfor taking his life.
 Dialogue: 0,0:11:42.93,0:11:44.60,Default,,0,0,0,,That's right!
-Dialogue: 0,0:11:44.76,0:11:50.77,Default,,0,0,0,,How could I forgive Avan for killing him\Nfor that justice and peace nonsense?!
+Dialogue: 0,0:11:44.76,0:11:50.77,Default,,0,0,0,,How could I forgive Aban for killing him\Nfor that justice and peace nonsense?!
 Dialogue: 0,0:11:54.56,0:11:57.36,Default,,0,0,0,,Hyunckel, you poor soul.
 Dialogue: 0,0:11:57.73,0:12:03.53,Default,,0,0,0,,Your pain of losing your father\Nwas so great, you had to blame someone.
 Dialogue: 0,0:12:03.70,0:12:06.70,Default,,0,0,0,,But that doesn't mean\Nyou should hate justice!
@@ -256,7 +256,7 @@ Dialogue: 0,0:15:27.07,0:15:27.74,Default,,0,0,0,,Right!
 Dialogue: 0,0:15:27.90,0:15:29.28,Default,,0,0,0,,-Okay!\N-Huh?!
 Dialogue: 0,0:15:29.45,0:15:30.40,Default,,0,0,0,,With my mighty sword...
 Dialogue: 0,0:15:30.57,0:15:32.87,Default,,0,0,0,,Wait, you don't have to, old timer!
-Dialogue: 0,0:15:33.03,0:15:36.70,Default,,0,0,0,,They called me\Nthe greatest swordsman in Papnica!
+Dialogue: 0,0:15:33.03,0:15:36.70,Default,,0,0,0,,They called me\Nthe greatest swordsman in Papunica!
 Dialogue: 0,0:15:36.87,0:15:40.16,Default,,0,0,0,,We need you here\Nto keep watch just in case!
 Dialogue: 0,0:15:41.08,0:15:43.79,Default,,0,0,0,,In that case, I suppose...
 Dialogue: 0,0:15:43.96,0:15:45.04,Default,,0,0,0,,We're off then.
@@ -270,7 +270,7 @@ Dialogue: 0,0:16:02.31,0:16:04.40,Default,,0,0,0,,Hyunckel will be tough to beat
 Dialogue: 0,0:16:04.56,0:16:07.19,Default,,0,0,0,,Dai, I've been thinking.
 Dialogue: 0,0:16:07.36,0:16:09.69,Default,,0,0,0,,Hyunckel is in the wrong here.
 Dialogue: 0,0:16:10.11,0:16:12.24,Default,,0,0,0,,I get he has his motives...
-Dialogue: 0,0:16:13.07,0:16:16.62,Default,,0,0,0,,but that doesn't excuse\Ndestroying Papnica Kingdom!
+Dialogue: 0,0:16:13.07,0:16:16.62,Default,,0,0,0,,but that doesn't excuse\Ndestroying Papunica Kingdom!
 Dialogue: 0,0:16:17.24,0:16:18.08,Default,,0,0,0,,Popp...
 Dialogue: 0,0:16:19.08,0:16:19.79,Default,,0,0,0,,Listen...
 Dialogue: 0,0:16:20.83,0:16:23.83,Default,,0,0,0,,{\i1}when I fought him, I was terrified.{\i0}
@@ -291,7 +291,7 @@ Dialogue: 0,0:17:15.05,0:17:18.89,Default,,0,0,0,,Oh, you were worried about me\
 Dialogue: 0,0:17:20.35,0:17:21.43,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:17:22.18,0:17:24.14,Default,,0,0,0,,Gomechan, can you get those?
 Dialogue: 0,0:17:26.94,0:17:31.28,Default,,0,0,0,,This place is huge.\NWe can't find the prison at all.
-Dialogue: 0,0:17:31.44,0:17:34.70,Default,,0,0,0,,This used to be Hadlar's Dark Palace.
+Dialogue: 0,0:17:31.44,0:17:34.70,Default,,0,0,0,,This used to be Hadorra's Dark Palace.
 Dialogue: 0,0:17:36.45,0:17:37.32,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Merami!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:17:41.12,0:17:43.08,Default,,0,0,0,,The hostage has escaped!
 Dialogue: 0,0:17:43.91,0:17:44.96,Default,,0,0,0,,Run!
@@ -303,7 +303,7 @@ Dialogue: 0,0:18:07.65,0:18:09.36,Default,,0,0,0,,There! An exit!
 Dialogue: 0,0:18:11.73,0:18:13.28,Default,,0,0,0,,What is this place?!
 Dialogue: 0,0:18:15.11,0:18:18.11,Default,,0,0,0,,This is the Colosseum\Nof the Underground Palace.
 Dialogue: 0,0:18:19.66,0:18:21.45,Default,,0,0,0,,Oh crap! It's a trap!
-Dialogue: 0,0:18:21.62,0:18:26.16,Default,,0,0,0,,The Dark Lord Hadlar used to have\Nprisoners fight monsters,
+Dialogue: 0,0:18:21.62,0:18:26.16,Default,,0,0,0,,The Dark Lord Hadorra used to have\Nprisoners fight monsters,
 Dialogue: 0,0:18:26.33,0:18:29.79,Default,,0,0,0,,and he enjoyed watching\Nthe death in this bloody place.
 Dialogue: 0,0:18:30.33,0:18:34.00,Default,,0,0,0,,I chose it as the perfect place for you!
 Dialogue: 0,0:18:34.17,0:18:36.34,Default,,0,0,0,,He's already fully armoured!

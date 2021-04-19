@@ -11,7 +11,14 @@ WrapStyle: 0
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-
+Audio File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 21 [720p].mkv
+Video File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 21 [720p].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 168
+Active Line: 195
+Video Position: 17475
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -83,24 +90,24 @@ Dialogue: 0,0:02:52.02,0:02:56.57,Default,,0,0,0,,Obviously.\NShe's a Sage in tr
 Dialogue: 0,0:02:56.57,0:03:00.57,Default,,0,0,0,,She can even use attack spells,\Nthough not as strong as the Troika.
 Dialogue: 0,0:03:00.57,0:03:03.70,Default,,0,0,0,,She's truly an all-around spell caster!
 Dialogue: 0,0:03:04.70,0:03:05.95,Default,,0,0,0,,What's wrong, Maam?
-Dialogue: 0,0:03:06.66,0:03:09.92,Default,,0,0,0,,I'm going to talk with Uncle Matoriv.
+Dialogue: 0,0:03:06.66,0:03:09.92,Default,,0,0,0,,I'm going to talk with Uncle Matorif.
 Dialogue: 0,0:03:09.92,0:03:12.67,Default,,0,0,0,,Maybe he can fix my Magic Bullet Gun.
 Dialogue: 0,0:03:12.67,0:03:13.83,Default,,0,0,0,,Hey! Maam?!
 Dialogue: 0,0:03:24.55,0:03:27.35,Default,,0,0,0,,Looks like your Magic Power's increased.
 Dialogue: 0,0:03:27.72,0:03:29.85,Default,,0,0,0,,Don't let that surprise you!
 Dialogue: 0,0:03:30.31,0:03:31.06,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Gira!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:03:35.40,0:03:37.11,Default,,0,0,0,,Popp! Hang in there!
-Dialogue: 0,0:03:39.86,0:03:41.03,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Hyado.{\i0}{\3c&H00000000&}
-Dialogue: 0,0:03:44.37,0:03:45.82,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Iora.{\i0}{\3c&H00000000&}
+Dialogue: 0,0:03:39.86,0:03:41.03,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Hyado!{\i0}{\3c&H00000000&}
+Dialogue: 0,0:03:44.37,0:03:45.82,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Iora!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:03:47.83,0:03:48.91,Default,,0,0,0,,Oh no!
 Dialogue: 0,0:03:57.29,0:04:00.92,Default,,0,0,0,,The Flight Spell, Toberura.\NWhen did you learn that?
 Dialogue: 0,0:04:01.92,0:04:04.56,Default,,0,0,0,,It's easy if you know Rura!
-Dialogue: 0,0:04:04.56,0:04:05.55,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Toberura.{\i0}{\3c&H00000000&}
+Dialogue: 0,0:04:04.56,0:04:05.55,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Toberura!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:04:13.02,0:04:14.61,Default,,0,0,0,,Don't get cocky.
 Dialogue: 0,0:04:14.61,0:04:17.98,Default,,0,0,0,,I may be old, but in a one-minute\None-on-one fight
 Dialogue: 0,0:04:17.98,0:04:23.40,Default,,0,0,0,,there isn't a being alive\Nwho can beat me at magic.
 Dialogue: 0,0:04:24.66,0:04:26.32,Default,,0,0,0,,Nasty old geezer!
-Dialogue: 0,0:04:26.32,0:04:30.66,Default,,0,0,0,,Hey, Matoriv, can't you teach me\Nsome amazing spells, too?
+Dialogue: 0,0:04:26.32,0:04:30.66,Default,,0,0,0,,Hey, Matorif, can't you teach me\Nsome amazing spells, too?
 Dialogue: 0,0:04:30.66,0:04:34.33,Default,,0,0,0,,I'm having you do basic meditation.
 Dialogue: 0,0:04:34.67,0:04:38.21,Default,,0,0,0,,But you're teaching Popp\Nand he's improving so much!
 Dialogue: 0,0:04:39.55,0:04:45.01,Default,,0,0,0,,Fool. You don't need to know\Nthe same spells as Popp.
@@ -126,7 +133,7 @@ Dialogue: 0,0:05:50.12,0:05:52.16,Default,,0,0,0,,Then I'll just hide my presenc
 Dialogue: 0,0:05:52.79,0:05:53.95,Default,,0,0,0,,Why you...!
 Dialogue: 0,0:05:56.62,0:06:01.13,Default,,0,0,0,,Honestly, the one thing you take after\Nyour father, Roka, is your strength.
 Dialogue: 0,0:06:02.88,0:06:06.97,Default,,0,0,0,,{\i1}Strength? My father's strength...{\i0}
-Dialogue: 0,0:06:09.01,0:06:12.77,Default,,0,0,0,,{\i1}Papnica Kingdom is gradually rebuilding.{\i0}
+Dialogue: 0,0:06:09.01,0:06:12.77,Default,,0,0,0,,{\i1}Papunica Kingdom is gradually rebuilding.{\i0}
 Dialogue: 0,0:06:12.77,0:06:15.69,Default,,0,0,0,,{\i1}Hearing Dai beat the Dark Army,{\i0}
 Dialogue: 0,0:06:15.69,0:06:17.64,Default,,0,0,0,,the citizens are returning.
 Dialogue: 0,0:06:17.98,0:06:20.40,Default,,0,0,0,,The temple repairs will soon be complete.
@@ -145,7 +152,7 @@ Dialogue: 0,0:06:59.18,0:07:03.48,Default,,0,0,0,,Listen, everyone. I've been th
 Dialogue: 0,0:07:05.61,0:07:08.99,Default,,0,0,0,,I think I should go\Nmy own way for a while.
 Dialogue: 0,0:07:10.40,0:07:14.33,Default,,0,0,0,,What?! How come?! Why so suddenly?!
 Dialogue: 0,0:07:14.33,0:07:18.37,Default,,0,0,0,,With my Magic Bullet Gun broken,\NI can't use spells to attack.
-Dialogue: 0,0:07:18.37,0:07:22.17,Default,,0,0,0,,Plus Leona is far better at Hoimi! Spells.
+Dialogue: 0,0:07:18.37,0:07:22.17,Default,,0,0,0,,Plus Leona is far better at Hoimi Spells.
 Dialogue: 0,0:07:22.71,0:07:26.67,Default,,0,0,0,,At this rate, I'm going to end up\Nbeing a burden.
 Dialogue: 0,0:07:27.46,0:07:29.26,Default,,0,0,0,,That's not true!
 Dialogue: 0,0:07:29.26,0:07:31.18,Default,,0,0,0,,Don't be so sure.
@@ -166,17 +173,17 @@ Dialogue: 0,0:08:23.81,0:08:27.73,Default,,0,0,0,,Hyunckel and Crocodine have be
 Dialogue: 0,0:08:27.73,0:08:34.24,Default,,0,0,0,,With the Six Legion Commanders\Nnow three, our forces are halved.
 Dialogue: 0,0:08:39.16,0:08:40.54,Default,,0,0,0,,What's that?
 Dialogue: 0,0:08:41.91,0:08:44.08,Default,,0,0,0,,This melody is the Reaper Flute!
-Dialogue: 0,0:08:51.76,0:08:56.81,Default,,0,0,0,,See, I told you!\NHadlar's army is falling apart!
+Dialogue: 0,0:08:51.76,0:08:56.81,Default,,0,0,0,,See, I told you!\NHadorra's army is falling apart!
 Dialogue: 0,0:08:56.81,0:09:01.18,Default,,0,0,0,,Good boy, Piroro.\NYou were wise to inform me.
 Dialogue: 0,0:09:06.40,0:09:08.81,Default,,0,0,0,,Good evening!
 Dialogue: 0,0:09:09.23,0:09:14.41,Default,,0,0,0,,Greetings, inhabitants of Sovereign\NRock Castle. Let me introduce myself.
-Dialogue: 0,0:09:14.11,0:09:17.28,On Top,,0,0,0,,KILLVEARN
-Dialogue: 0,0:09:14.41,0:09:16.41,Default,,0,0,0,,My name is Killvearn.
+Dialogue: 0,0:09:14.11,0:09:17.28,On Top,,0,0,0,,KILBAN
+Dialogue: 0,0:09:14.41,0:09:16.41,Default,,0,0,0,,My name is Kilban.
 Dialogue: 0,0:09:16.41,0:09:17.28,Default,,0,0,0,,I'm Piroro!
-Dialogue: 0,0:09:17.28,0:09:19.58,Default,,0,0,0,,Th-This is Killvearn?!
-Dialogue: 0,0:09:19.58,0:09:24.92,Default,,0,0,0,,Surely you've heard of him!\NThe personal assassin of Dark King Vearn!
+Dialogue: 0,0:09:17.28,0:09:19.58,Default,,0,0,0,,Th-This is Kilban?!
+Dialogue: 0,0:09:19.58,0:09:24.92,Default,,0,0,0,,Surely you've heard of him!\NThe personal assassin of Dark King Ban!
 Dialogue: 0,0:09:24.92,0:09:28.17,Default,,0,0,0,,The deadly reaper of the Dark Army\Nthat silently erases
-Dialogue: 0,0:09:28.17,0:09:30.75,Default,,0,0,0,,those who cross King Vearn!
+Dialogue: 0,0:09:28.17,0:09:30.75,Default,,0,0,0,,those who cross King Ban!
 Dialogue: 0,0:09:31.42,0:09:35.05,Default,,0,0,0,,And why is the reaper here\Nin Sovereign Rock Castle?!
 Dialogue: 0,0:09:35.05,0:09:38.05,Default,,0,0,0,,Has someone's incompetence\Nwarranted a visit?
 Dialogue: 0,0:09:38.43,0:09:44.52,Default,,0,0,0,,This is surprising, Mist.\NI haven't heard you speak in decades.
@@ -185,16 +192,16 @@ Dialogue: 0,0:09:46.15,0:09:53.32,Default,,0,0,0,,I've seen you remain silent fo
 Dialogue: 0,0:09:54.15,0:09:56.40,Default,,0,0,0,,You're the one who talks to much, Kill.
 Dialogue: 0,0:09:56.74,0:09:57.95,Default,,0,0,0,,Perhaps.
 Dialogue: 0,0:09:59.28,0:10:01.91,Default,,0,0,0,,{\i1}Do these two know each other?!{\i0}
-Dialogue: 0,0:10:01.91,0:10:08.09,Default,,0,0,0,,And now, Hadlar, I hear your performance\Nhas been slipping as of late.
+Dialogue: 0,0:10:01.91,0:10:08.09,Default,,0,0,0,,And now, Hadorra, I hear your performance\Nhas been slipping as of late.
 Dialogue: 0,0:10:08.09,0:10:10.29,Default,,0,0,0,,That's right!\NHe's been botching things up!
 Dialogue: 0,0:10:10.29,0:10:14.84,Default,,0,0,0,,Ever since he failed to kill Dai the Hero,\NLegion Commanders have fallen,
-Dialogue: 0,0:10:14.84,0:10:19.22,Default,,0,0,0,,Romos and Papnica were reclaimed.\NIt's a whole mess!
+Dialogue: 0,0:10:14.84,0:10:19.22,Default,,0,0,0,,Romos and Papunica were reclaimed.\NIt's a whole mess!
 Dialogue: 0,0:10:19.55,0:10:24.64,Default,,0,0,0,,And recently, he took the whole army\Nand was still beaten by Dai!
 Dialogue: 0,0:10:24.64,0:10:25.60,Default,,0,0,0,,Silence!
 Dialogue: 0,0:10:26.93,0:10:30.90,Default,,0,0,0,,Is it true you let\NDai and his friends beat you?
 Dialogue: 0,0:10:31.86,0:10:36.70,Default,,0,0,0,,The plan to kill him\Nis still ongoing! In time...
 Dialogue: 0,0:10:36.70,0:10:39.28,Default,,0,0,0,,Then you'd better hurry up.
-Dialogue: 0,0:10:39.28,0:10:43.58,Default,,0,0,0,,King Vearn is a patient man,\Nbut even he has his limits.
+Dialogue: 0,0:10:39.28,0:10:43.58,Default,,0,0,0,,King Ban is a patient man,\Nbut even he has his limits.
 Dialogue: 0,0:10:43.58,0:10:45.91,Default,,0,0,0,,If you should fail again...
 Dialogue: 0,0:10:46.62,0:10:49.58,Default,,0,0,0,,If I fail, then what?!
 Dialogue: 0,0:10:49.92,0:10:53.88,Default,,0,0,0,,Do I have to say it? This. Get it?
@@ -202,7 +209,7 @@ Dialogue: 0,0:10:55.71,0:11:00.43,Default,,0,0,0,,Then have no fear!\NI'll wipe 
 Dialogue: 0,0:11:00.43,0:11:01.89,Default,,0,0,0,,By my own hand!
 Dialogue: 0,0:11:01.89,0:11:03.18,Default,,0,0,0,,Not so fast!
 Dialogue: 0,0:11:04.64,0:11:09.73,Default,,0,0,0,,The next to fight Dai is me,\NDragon Master General Baran!
-Dialogue: 0,0:11:13.02,0:11:15.57,On Top,,0,0,0,,{\i1}{\3c&H1717E4&}FULLHEAL{\i0}{\3c&H00000000&}\NHEAL-TYPE SPELL
+Dialogue: 0,0:11:13.02,0:11:15.57,On Top,,0,0,0,,{\i1}{\3c&H1717E4&}BEHOMA{\i0}{\3c&H00000000&}\NHEAL-TYPE SPELL
 Dialogue: 0,0:11:18.07,0:11:20.57,Default,,0,0,0,,MAGIC BULLET GUN
 Dialogue: 0,0:11:20.99,0:11:21.99,Default,,0,0,0,,Baran?!
 Dialogue: 0,0:11:22.28,0:11:26.91,Default,,0,0,0,,{\i1}It's too soon!\NHas he already destroyed Carl Kingdom?!{\i0}
@@ -218,22 +225,22 @@ Dialogue: 0,0:11:56.44,0:11:58.48,Default,,0,0,0,,is a Dragon Knight, isn't he?!
 Dialogue: 0,0:11:59.86,0:12:03.53,Default,,0,0,0,,A Dragon Knight?! From the legends?!
 Dialogue: 0,0:12:03.53,0:12:06.24,Default,,0,0,0,,{\i1}He finally knows!{\i0}
 Dialogue: 0,0:12:06.24,0:12:08.83,Default,,0,0,0,,So, will you leave Dai to me?
-Dialogue: 0,0:12:08.83,0:12:11.50,Default,,0,0,0,,No! No, no!
+Dialogue: 0,0:12:08.83,0:12:11.50,Default,,0,0,0,,No! No, No!
 Dialogue: 0,0:12:11.50,0:12:15.55,Default,,0,0,0,,As Dark Commander, I order you!\NYou will do nothing!
 Dialogue: 0,0:12:15.55,0:12:19.55,Default,,0,0,0,,Besides, there is no proof\Nthat he's really a Dragon Knight!
 Dialogue: 0,0:12:19.55,0:12:21.84,Default,,0,0,0,,I merely need to see it for myself.
 Dialogue: 0,0:12:21.84,0:12:23.59,Default,,0,0,0,,And I said no!
 Dialogue: 0,0:12:24.13,0:12:25.60,Default,,0,0,0,,Stop!
 Dialogue: 0,0:12:25.60,0:12:27.14,Default,,0,0,0,,How dare you!
-Dialogue: 0,0:12:27.14,0:12:30.98,Default,,0,0,0,,I believe I know what's going on, Hadlar.
+Dialogue: 0,0:12:27.14,0:12:30.98,Default,,0,0,0,,I believe I know what's going on, Hadorra.
 Dialogue: 0,0:12:30.98,0:12:37.15,Default,,0,0,0,,If this Dai really is a Dragon Knight,\Nyou can't let Baran near him, right?
 Dialogue: 0,0:12:40.61,0:12:45.33,Default,,0,0,0,,Oh well, you can all squabble\Non your own time.
 Dialogue: 0,0:12:45.33,0:12:48.58,Default,,0,0,0,,I'd like to finish what I came here for.
 Dialogue: 0,0:12:48.58,0:12:49.66,Default,,0,0,0,,That's...
-Dialogue: 0,0:12:50.41,0:12:52.45,Default,,0,0,0,,the Key of Vearn!
+Dialogue: 0,0:12:50.41,0:12:52.45,Default,,0,0,0,,the Key of Ban!
 Dialogue: 0,0:12:52.45,0:12:55.34,Default,,0,0,0,,Crocodine and Hyunckel, was it?
 Dialogue: 0,0:12:55.34,0:12:59.55,Default,,0,0,0,,Those two know the location\Nof Sovereign Rock Castle.
-Dialogue: 0,0:12:59.55,0:13:03.76,Default,,0,0,0,,So King Vearn ordered me\Nto move it immediately.
+Dialogue: 0,0:12:59.55,0:13:03.76,Default,,0,0,0,,So King Ban ordered me\Nto move it immediately.
 Dialogue: 0,0:13:03.76,0:13:04.97,Default,,0,0,0,,Move it?!
 Dialogue: 0,0:13:04.97,0:13:06.22,Default,,0,0,0,,So that's why...
 Dialogue: 0,0:13:16.52,0:13:17.86,Default,,0,0,0,,It finally stands!
@@ -276,7 +283,7 @@ Dialogue: 0,0:15:58.22,0:15:59.43,Default,,0,0,0,,I'm sorry, Popp.
 Dialogue: 0,0:15:59.43,0:16:02.52,Default,,0,0,0,,Huh? You're not going to Nayle Village?
 Dialogue: 0,0:16:02.52,0:16:05.65,Default,,0,0,0,,You said Romos, so I thought...
 Dialogue: 0,0:16:05.65,0:16:08.28,Default,,0,0,0,,Our battle isn't over yet.
-Dialogue: 0,0:16:08.28,0:16:14.49,Default,,0,0,0,,I'm not returning there until we defeat\Nthe Dark Army and avenge Master Avan.
+Dialogue: 0,0:16:08.28,0:16:14.49,Default,,0,0,0,,I'm not returning there until we defeat\Nthe Dark Army and avenge Master Aban.
 Dialogue: 0,0:16:15.24,0:16:16.16,Default,,0,0,0,,Oh...
 Dialogue: 0,0:16:16.16,0:16:21.37,Default,,0,0,0,,Besides, the God of Martial Arts is\Nsaid to live deep in the Romos mountains.
 Dialogue: 0,0:16:21.75,0:16:25.09,Default,,0,0,0,,I trained in the Romos mountains\Nwith Mentor!
@@ -310,7 +317,7 @@ Dialogue: 0,0:18:00.64,0:18:01.47,Default,,0,0,0,,You know...
 Dialogue: 0,0:18:01.47,0:18:02.52,Default,,0,0,0,,Huh?
 Dialogue: 0,0:18:02.52,0:18:04.56,Default,,0,0,0,,You're amazing, Popp.
 Dialogue: 0,0:18:04.56,0:18:05.81,Default,,0,0,0,,How?
-Dialogue: 0,0:18:05.81,0:18:09.78,Default,,0,0,0,,I mean, it took us days by boat\Nfrom Romos to Papnica.
+Dialogue: 0,0:18:05.81,0:18:09.78,Default,,0,0,0,,I mean, it took us days by boat\Nfrom Romos to Papunica.
 Dialogue: 0,0:18:09.78,0:18:12.73,Default,,0,0,0,,Now you can come back in an instant.
 Dialogue: 0,0:18:13.23,0:18:15.32,Default,,0,0,0,,It's nothing impressive.
 Dialogue: 0,0:18:15.94,0:18:19.78,Default,,0,0,0,,When we first met, I couldn't imagine\Nyou doing something like this.
@@ -320,7 +327,7 @@ Dialogue: 0,0:18:29.88,0:18:35.88,Default,,0,0,0,,{\i1}But, through every battle
 Dialogue: 0,0:18:36.22,0:18:39.60,Default,,0,0,0,,{\i1}It made me realize\Nhow hard you were trying.{\i0}
 Dialogue: 0,0:18:39.60,0:18:43.85,Default,,0,0,0,,{\i1}You grew strong so fast\Nand learned new spells,{\i0}
 Dialogue: 0,0:18:44.43,0:18:47.44,Default,,0,0,0,,and saved me again and again.
-Dialogue: 0,0:18:47.44,0:18:49.85,Default,,0,0,0,,Even back when we fought Hadlar...
+Dialogue: 0,0:18:47.44,0:18:49.85,Default,,0,0,0,,Even back when we fought Hadorra...
 Dialogue: 0,0:18:49.85,0:18:51.15,Default,,0,0,0,,Maam...
 Dialogue: 0,0:18:51.48,0:18:57.90,Default,,0,0,0,,That's why, after that battle,\NI decided I wanted to catch up with you.
 Dialogue: 0,0:19:00.49,0:19:04.37,Default,,0,0,0,,I can't have you rescuing me\Nall the time, right?
@@ -357,7 +364,7 @@ Dialogue: 0,0:20:49.81,0:20:50.77,Default,,0,0,0,,Look there!
 Dialogue: 0,0:20:53.69,0:20:55.77,Default,,0,0,0,,Sovereign Rock Castle has moved!
 Dialogue: 0,0:20:55.77,0:20:59.53,Default,,0,0,0,,Are you saying the castle\Nsprouted legs and walked away?!
 Dialogue: 0,0:20:59.53,0:21:02.30,Default,,0,0,0,,It's not entirely impossible...
-Dialogue: 0,0:21:02.30,0:21:05.61,Default,,0,0,0,,considering Dark King Vearn's\NSupercharged Dark Energy.
+Dialogue: 0,0:21:02.30,0:21:05.61,Default,,0,0,0,,considering Dark King Ban's\NSupercharged Dark Energy.
 Dialogue: 0,0:21:07.45,0:21:11.83,Default,,0,0,0,,Crocodine, you need to inform\NDai and the others of this.
 Dialogue: 0,0:21:11.83,0:21:13.33,Default,,0,0,0,,And what about you?
 Dialogue: 0,0:21:14.29,0:21:16.75,Default,,0,0,0,,I'm going to follow\Nthose giant footprints.
@@ -391,7 +398,7 @@ Dialogue: 0,0:23:08.20,0:23:13.99,Default,,0,0,0,,{\i1}Unlike the today that I s
 Dialogue: 0,0:23:08.28,0:23:13.95,On Top,,0,0,0,,{\i1}sagashite ita kyou to chigatte{\i0}
 Dialogue: 0,0:23:13.99,0:23:19.29,Default,,0,0,0,,{\i1}I'm sure you'd laugh at my disappointment{\i0}
 Dialogue: 0,0:23:14.12,0:23:19.25,On Top,,0,0,0,,{\i1}ochikonnde shimau boku wo warau no darou{\i0}
-Dialogue: 0,0:23:34.30,0:23:38.43,Default,,0,0,0,,{\i1}Seeking new weapons, Dai and his friends\Nhead to Bengarna Kingdom.{\i0}
+Dialogue: 0,0:23:34.30,0:23:38.43,Default,,0,0,0,,{\i1}Seeking new weapons, Dai and his friends\Nhead to Bengana Kingdom.{\i0}
 Dialogue: 0,0:23:38.43,0:23:41.10,Default,,0,0,0,,{\i1}Their first time in a department store,{\i0}
 Dialogue: 0,0:23:41.10,0:23:46.44,Default,,0,0,0,,{\i1}Dai and Popp are excited\Nby all the unfamiliar foods and items.{\i0}
 Dialogue: 0,0:23:46.44,0:23:53.41,Default,,0,0,0,,{\i1}Little do they know\Nthat a new threat approaches.{\i0}

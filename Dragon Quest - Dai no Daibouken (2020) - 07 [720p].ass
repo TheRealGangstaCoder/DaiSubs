@@ -97,13 +97,13 @@ Dialogue: 0,0:04:15.66,0:04:16.48,Default,,0,0,0,,Popp...
 Dialogue: 0,0:04:17.02,0:04:19.54,Default,,0,0,0,,Popp, how could you ditch me?
 Dialogue: 0,0:04:19.54,0:04:21.05,Default,,0,0,0,,Um, that was...
 Dialogue: 0,0:04:21.05,0:04:23.45,Default,,0,0,0,,So you really did abandon him!
-Dialogue: 0,0:04:27.62,0:04:31.08,Default,,0,0,0,,This is my Magic Bullet Gun.\NIt was a gift from Master Avan.
+Dialogue: 0,0:04:27.62,0:04:31.08,Default,,0,0,0,,This is my Magic Bullet Gun.\NIt was a gift from Master Aban.
 Dialogue: 0,0:04:31.79,0:04:35.23,Default,,0,0,0,,You load spells\Ninto the Magic Bullets and fire them.
 Dialogue: 0,0:04:35.23,0:04:38.94,Default,,0,0,0,,Huh. So it's shoots\Nattack and heal spells.
-Dialogue: 0,0:04:38.94,0:04:42.07,Default,,0,0,0,,Oh, so you're\Na student of Master Avan, too.
+Dialogue: 0,0:04:38.94,0:04:42.07,Default,,0,0,0,,Oh, so you're\Na student of Master Aban, too.
 Dialogue: 0,0:04:42.07,0:04:43.48,Default,,0,0,0,,That explains your strength.
 Dialogue: 0,0:04:43.48,0:04:44.34,Default,,0,0,0,,How do you feel?
-Dialogue: 0,0:04:44.34,0:04:48.86,Default,,0,0,0,,Much better.\NYour Midheal is better than Grampa's.
+Dialogue: 0,0:04:44.34,0:04:48.86,Default,,0,0,0,,Much better.\NYour Behoimi is better than Grampa's.
 Dialogue: 0,0:04:48.86,0:04:52.31,Default,,0,0,0,,Hey, could I get a heal spell, too?
 Dialogue: 0,0:04:53.10,0:04:54.18,Default,,0,0,0,,Here! Medicinal herbs!
 Dialogue: 0,0:04:54.18,0:04:57.33,Default,,0,0,0,,What the hell!\NWhat's this difference in treatment?!
@@ -112,10 +112,10 @@ Dialogue: 0,0:04:59.58,0:05:01.07,Default,,0,0,0,,W-What?!
 Dialogue: 0,0:05:03.49,0:05:05.70,Default,,0,0,0,,These clouds bode ill tidings.
 Dialogue: 0,0:05:07.24,0:05:10.24,Default,,0,0,0,,I hope nothing's happened to Dai.
 Dialogue: 0,0:05:13.87,0:05:17.25,Default,,0,0,0,,What is this terrible presence?!
-Dialogue: 0,0:05:18.79,0:05:22.56,Default,,0,0,0,,{\i1}You must be Brass, the Lump Shaman.{\i0}
+Dialogue: 0,0:05:18.79,0:05:22.56,Default,,0,0,0,,{\i1}You must be Burasu, the Lump Shaman.{\i0}
 Dialogue: 0,0:05:22.56,0:05:25.13,Default,,0,0,0,,The Dark Army?! Impossible!
-Dialogue: 0,0:05:25.80,0:05:30.97,Default,,0,0,0,,This island is protected\Nby Sir Avan's Magic Circle!
-Dialogue: 0,0:05:31.56,0:05:36.37,Default,,0,0,0,,Even when Hadlar breached it,\Nthere was a huge tremor!
+Dialogue: 0,0:05:25.80,0:05:30.97,Default,,0,0,0,,This island is protected\Nby Sir Aban's Magic Circle!
+Dialogue: 0,0:05:31.56,0:05:36.37,Default,,0,0,0,,Even when Hadorra breached it,\Nthere was a huge tremor!
 Dialogue: 0,0:05:36.37,0:05:39.31,Default,,0,0,0,,How could anyone come in so easily?!
 Dialogue: 0,0:05:40.98,0:05:47.07,Default,,0,0,0,,{\i1}With my Mystic Magic Power\Nit's mere child's play.{\i0}
 Dialogue: 0,0:05:47.49,0:05:48.70,Default,,0,0,0,,Who are you?!
@@ -143,46 +143,46 @@ Dialogue: 0,0:06:51.32,0:06:53.05,Default,,0,0,0,,Oh, Mom!
 Dialogue: 0,0:06:54.22,0:06:55.10,Default,,0,0,0,,Huh?
 Dialogue: 0,0:06:55.76,0:06:58.45,Default,,0,0,0,,Allow me to introduce my mother, Leira.
 Dialogue: 0,0:06:58.45,0:06:59.97,Default,,0,0,0,,H-Hello.
-Dialogue: 0,0:06:59.97,0:07:04.21,Default,,0,0,0,,Mom, these two are\NMaster Avan's students, too.
-Dialogue: 0,0:07:04.21,0:07:06.53,Default,,0,0,0,,Oh, Sir Avan's?
-Dialogue: 0,0:07:07.40,0:07:09.76,Default,,0,0,0,,You know Master Avan?
+Dialogue: 0,0:06:59.97,0:07:04.21,Default,,0,0,0,,Mom, these two are\NMaster Aban's students, too.
+Dialogue: 0,0:07:04.21,0:07:06.53,Default,,0,0,0,,Oh, Sir Aban's?
+Dialogue: 0,0:07:07.40,0:07:09.76,Default,,0,0,0,,You know Master Aban?
 Dialogue: 0,0:07:09.76,0:07:11.11,Default,,0,0,0,,Of course she does.
-Dialogue: 0,0:07:11.61,0:07:16.89,Default,,0,0,0,,Mom and my late father\Nfought the Dark Lord with Master Avan.
+Dialogue: 0,0:07:11.61,0:07:16.89,Default,,0,0,0,,Mom and my late father\Nfought the Dark Lord with Master Aban.
 Dialogue: 0,0:07:16.89,0:07:17.95,Default,,0,0,0,,What?!
 Dialogue: 0,0:07:18.66,0:07:20.66,Default,,0,0,0,,It was a long time ago.
 Dialogue: 0,0:07:21.12,0:07:24.04,Default,,0,0,0,,My husband was a Warrior\Nand I was a Priest.
-Dialogue: 0,0:07:24.75,0:07:27.42,Default,,0,0,0,,{\i1}Together, we aided Sir Avan.{\i0}
+Dialogue: 0,0:07:24.75,0:07:27.42,Default,,0,0,0,,{\i1}Together, we aided Sir Aban.{\i0}
 Dialogue: 0,0:07:27.84,0:07:31.80,Default,,0,0,0,,{\i1}After the Dark Lord was vanquished\Nand peace was restored,{\i0}
-Dialogue: 0,0:07:31.80,0:07:36.45,Default,,0,0,0,,Sir Avan visited this village once.
+Dialogue: 0,0:07:31.80,0:07:36.45,Default,,0,0,0,,Sir Aban visited this village once.
 Dialogue: 0,0:07:36.45,0:07:40.14,Default,,0,0,0,,That's when he tutored Maam.
 Dialogue: 0,0:07:40.89,0:07:43.75,Default,,0,0,0,,That was four or five years ago.
 Dialogue: 0,0:07:43.75,0:07:46.67,Default,,0,0,0,,Wow, it's already been that long.
-Dialogue: 0,0:07:46.67,0:07:49.63,Default,,0,0,0,,So, is Sir Avan well?
+Dialogue: 0,0:07:46.67,0:07:49.63,Default,,0,0,0,,So, is Sir Aban well?
 Dialogue: 0,0:07:49.63,0:07:51.09,Default,,0,0,0,,Huh?! Uh, er...
 Dialogue: 0,0:07:51.09,0:07:52.20,Default,,0,0,0,,He's fine!
 Dialogue: 0,0:07:53.07,0:07:55.22,Default,,0,0,0,,He's as lively as ever!
 Dialogue: 0,0:07:55.22,0:07:55.97,Default,,0,0,0,,{\i1}Dai...{\i0}
 Dialogue: 0,0:07:55.97,0:07:59.91,Default,,0,0,0,,I see. That's good to hear.
 Dialogue: 0,0:08:00.33,0:08:03.08,Default,,0,0,0,,You should stay here a while after all.
-Dialogue: 0,0:08:03.46,0:08:06.48,Default,,0,0,0,,I'd love to hear about Master Avan.
+Dialogue: 0,0:08:03.46,0:08:06.48,Default,,0,0,0,,I'd love to hear about Master Aban.
 Dialogue: 0,0:08:06.48,0:08:08.63,Default,,0,0,0,,Uh, we wouldn't want to intrude.
 Dialogue: 0,0:08:08.63,0:08:11.78,Default,,0,0,0,,Good idea. Please, stay a while.
 Dialogue: 0,0:08:11.78,0:08:13.36,Default,,0,0,0,,We really shouldn't.
 Dialogue: 0,0:08:13.36,0:08:17.57,Default,,0,0,0,,Stay! Stay! That way\NI get to play with Gomechan again!
 Dialogue: 0,0:08:17.57,0:08:18.95,Default,,0,0,0,,I wanna play, too!
 Dialogue: 0,0:08:18.95,0:08:19.87,Default,,0,0,0,,Me too!
-Dialogue: 0,0:08:19.87,0:08:23.48,Default,,0,0,0,,The whole village welcomes\Nany student of Sir Avan.
+Dialogue: 0,0:08:19.87,0:08:23.48,Default,,0,0,0,,The whole village welcomes\Nany student of Sir Aban.
 Dialogue: 0,0:08:25.31,0:08:29.71,Default,,0,0,0,,Most of the men\Nhave gone to protect Romos Castle.
 Dialogue: 0,0:08:29.71,0:08:34.05,Default,,0,0,0,,So the rest of us\Nprotect the village together.
 Dialogue: 0,0:08:34.05,0:08:36.20,Default,,0,0,0,,With you in the lead.
 Dialogue: 0,0:08:36.66,0:08:41.75,Default,,0,0,0,,My father was a Warrior and my mother\Na Priest, so I guess I'm a Warrior Priest.
-Dialogue: 0,0:08:42.50,0:08:48.13,Default,,0,0,0,,Master Avan taught me Healing and\NSupport-type spells and some martial arts.
+Dialogue: 0,0:08:42.50,0:08:48.13,Default,,0,0,0,,Master Aban taught me Hoimi!ing and\NSupport-type spells and some martial arts.
 Dialogue: 0,0:08:48.75,0:08:51.96,Default,,0,0,0,,But I can't use attack spells...
 Dialogue: 0,0:08:52.84,0:08:54.84,Default,,0,0,0,,So he gave you the Magic Bullet Gun.
 Dialogue: 0,0:08:55.18,0:08:58.26,Default,,0,0,0,,Yes. At my graduation.
 Dialogue: 0,0:08:59.60,0:09:02.60,Default,,0,0,0,,I'll never forget that day.
 Dialogue: 0,0:09:05.94,0:09:06.81,Default,,0,0,0,,What's this?
-Dialogue: 0,0:09:07.23,0:09:10.36,Default,,0,0,0,,Your certificate of graduation.\NAn Insignia of Avan.
+Dialogue: 0,0:09:07.23,0:09:10.36,Default,,0,0,0,,Your certificate of graduation.\NAn Insignia of Aban.
 Dialogue: 0,0:09:10.73,0:09:14.95,Default,,0,0,0,,With this, anywhere you go,\Nyou're officially a protector of justice.
 Dialogue: 0,0:09:16.03,0:09:19.51,Default,,0,0,0,,And this is a present from me.
 Dialogue: 0,0:09:19.51,0:09:21.20,Default,,0,0,0,,A present?
@@ -201,12 +201,12 @@ Dialogue: 0,0:09:59.24,0:10:05.37,Default,,0,0,0,,there are times when love and 
 Dialogue: 0,0:10:06.04,0:10:09.53,Default,,0,0,0,,Just as strength without justice\Nis powerless,
 Dialogue: 0,0:10:09.53,0:10:13.50,Default,,0,0,0,,so too is justice without strength.
 Dialogue: 0,0:10:15.59,0:10:20.30,Default,,0,0,0,,Besides, not only will this weapon\Nboost your attack,
-Dialogue: 0,0:10:20.80,0:10:24.89,Default,,0,0,0,,but it can save people\Nwith Healing and Support-type spells.
+Dialogue: 0,0:10:20.80,0:10:24.89,Default,,0,0,0,,but it can save people\Nwith Hoimi!ing and Support-type spells.
 Dialogue: 0,0:10:26.68,0:10:28.52,Default,,0,0,0,,It's all in how you use it.
 Dialogue: 0,0:10:28.98,0:10:29.90,Default,,0,0,0,,Don't worry.
 Dialogue: 0,0:10:30.94,0:10:37.61,Default,,0,0,0,,In your hands, this will never\Nbecome power without justice.
 Dialogue: 0,0:10:39.24,0:10:41.45,Default,,0,0,0,,I guarantee it.
-Dialogue: 0,0:10:42.53,0:10:44.03,Default,,0,0,0,,Master Avan...
+Dialogue: 0,0:10:42.53,0:10:44.03,Default,,0,0,0,,Master Aban...
 Dialogue: 0,0:10:46.12,0:10:49.83,Default,,0,0,0,,He was a little silly,\Nbut strong and kind.
 Dialogue: 0,0:10:50.54,0:10:53.25,Default,,0,0,0,,He truly was a wonderful teacher.
 Dialogue: 0,0:10:54.80,0:10:58.38,Default,,0,0,0,,Oh man. I suddenly miss him.
@@ -214,7 +214,7 @@ Dialogue: 0,0:11:00.80,0:11:05.22,Default,,0,0,0,,{\i1}At first I thought she se
 Dialogue: 0,0:11:07.52,0:11:12.23,Default,,0,0,0,,{\i1}Now that I look at her, Maam's actually...{\i0}
 Dialogue: 0,0:11:15.02,0:11:17.53,DefaultLow,,0,0,0,,MAGIC BULLET GUN
 Dialogue: 0,0:11:19.99,0:11:22.53,DefaultLow,,0,0,0,,{\i1}{\3c&H1717E4&}IO{\i0}{\3c&H00000000&}\NEXPLOSION-TYPE SPELL
-Dialogue: 0,0:11:29.66,0:11:35.63,Default,,0,0,0,,Pathetic! Disciple of Avan or not,\NI let that child best me!
+Dialogue: 0,0:11:29.66,0:11:35.63,Default,,0,0,0,,Pathetic! Disciple of Aban or not,\NI let that child best me!
 Dialogue: 0,0:11:35.63,0:11:37.46,Default,,0,0,0,,Dammit!
 Dialogue: 0,0:11:37.96,0:11:40.57,Default,,0,0,0,,{\i1}I see you're in a bad mood, Crocodine.{\i0}
 Dialogue: 0,0:11:40.57,0:11:42.05,Default,,0,0,0,,Who dares?!
@@ -241,9 +241,9 @@ Dialogue: 0,0:12:52.16,0:12:53.72,Default,,0,0,0,,Congratulations, Maam.
 Dialogue: 0,0:12:53.72,0:12:57.31,Default,,0,0,0,,Popp hardly ever does anything for anyone.
 Dialogue: 0,0:12:57.31,0:12:59.25,Default,,0,0,0,,Back me up a little, you moron!
 Dialogue: 0,0:13:00.67,0:13:03.97,Default,,0,0,0,,Take care of that then.\NI'll go prepare dinner.
-Dialogue: 0,0:13:10.18,0:13:13.98,Default,,0,0,0,,We can't tell her that Master Avan died.
+Dialogue: 0,0:13:10.18,0:13:13.98,Default,,0,0,0,,We can't tell her that Master Aban died.
 Dialogue: 0,0:13:14.39,0:13:15.23,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:13:16.23,0:13:18.98,Default,,0,0,0,,But Master Avan really is amazing.
+Dialogue: 0,0:13:16.23,0:13:18.98,Default,,0,0,0,,But Master Aban really is amazing.
 Dialogue: 0,0:13:21.61,0:13:24.53,Default,,0,0,0,,So many people admire him.
 Dialogue: 0,0:13:25.03,0:13:25.74,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:13:26.82,0:13:28.70,Default,,0,0,0,,I should fill these up.
@@ -259,10 +259,10 @@ Dialogue: 0,0:13:49.61,0:13:52.39,Default,,0,0,0,,I don't need your dirty help!
 Dialogue: 0,0:13:52.97,0:13:57.12,Default,,0,0,0,,I'll fight him fair and square and win!
 Dialogue: 0,0:13:57.12,0:13:59.08,Default,,0,0,0,,Are you sure?
 Dialogue: 0,0:13:59.08,0:14:02.94,Default,,0,0,0,,That boy, Dai, cannot be underestimated.
-Dialogue: 0,0:14:03.32,0:14:07.11,Default,,0,0,0,,Apparently he cut off Lord Hadlar's hands.
+Dialogue: 0,0:14:03.32,0:14:07.11,Default,,0,0,0,,Apparently he cut off Lord Hadorra's hands.
 Dialogue: 0,0:14:09.82,0:14:13.93,Default,,0,0,0,,Besides, if you should happen to fail
 Dialogue: 0,0:14:13.93,0:14:18.00,Default,,0,0,0,,you won't have a seat left\Nin the Dark Army, Crocodine.
-Dialogue: 0,0:14:19.29,0:14:22.81,Default,,0,0,0,,Lord Hadlar may be aware of Dai's power,
+Dialogue: 0,0:14:19.29,0:14:22.81,Default,,0,0,0,,Lord Hadorra may be aware of Dai's power,
 Dialogue: 0,0:14:22.81,0:14:26.80,Default,,0,0,0,,but what will the other four\NLegion Commanders say?
 Dialogue: 0,0:14:27.59,0:14:29.45,Default,,0,0,0,,"So Crocodine, the Beast King,
 Dialogue: 0,0:14:29.45,0:14:34.72,Default,,0,0,0,,was a fool who\Ncouldn't even kill a child."
@@ -276,23 +276,23 @@ Dialogue: 0,0:15:01.67,0:15:02.60,Default,,0,0,0,,Dai?
 Dialogue: 0,0:15:02.60,0:15:05.46,Default,,0,0,0,,Please train me in magic!
 Dialogue: 0,0:15:06.09,0:15:11.28,Default,,0,0,0,,I can't be saying I'm no good at spells\Nwhen fighting the Dark Army!
 Dialogue: 0,0:15:11.28,0:15:15.85,Default,,0,0,0,,It's true that I am\Nthe best Mage in the village,
-Dialogue: 0,0:15:16.43,0:15:20.73,Default,,0,0,0,,but I'm not good enough\Nto teach a student of Sir Avan.
+Dialogue: 0,0:15:16.43,0:15:20.73,Default,,0,0,0,,but I'm not good enough\Nto teach a student of Sir Aban.
 Dialogue: 0,0:15:21.56,0:15:23.11,Default,,0,0,0,,{\i1}Magic training?{\i0}
-Dialogue: 0,0:15:24.48,0:15:29.32,Default,,0,0,0,,I was only trained by Master Avan\Nfor three days.
+Dialogue: 0,0:15:24.48,0:15:29.32,Default,,0,0,0,,I was only trained by Master Aban\Nfor three days.
 Dialogue: 0,0:15:29.82,0:15:31.07,Default,,0,0,0,,What do you mean?
 Dialogue: 0,0:15:31.74,0:15:36.91,Default,,0,0,0,,Elder, you can't let Maam\Nor her mother know.
 Dialogue: 0,0:15:37.70,0:15:39.22,Default,,0,0,0,,Master is...
-Dialogue: 0,0:15:39.22,0:15:40.96,Default,,0,0,0,,Master Avan...
+Dialogue: 0,0:15:39.22,0:15:40.96,Default,,0,0,0,,Master Aban...
 Dialogue: 0,0:15:41.37,0:15:42.75,Default,,0,0,0,,died.
 Dialogue: 0,0:15:42.75,0:15:44.14,Default,,0,0,0,,What?!
 Dialogue: 0,0:15:44.14,0:15:47.17,Default,,0,0,0,,He was protecting us from the Dark Army.
-Dialogue: 0,0:15:48.13,0:15:52.34,Default,,0,0,0,,I have to get stronger!\NTo avenge Master Avan!
-Dialogue: 0,0:15:52.89,0:15:55.51,Default,,0,0,0,,I'm a disciple of Avan!
+Dialogue: 0,0:15:48.13,0:15:52.34,Default,,0,0,0,,I have to get stronger!\NTo avenge Master Aban!
+Dialogue: 0,0:15:52.89,0:15:55.51,Default,,0,0,0,,I'm a disciple of Aban!
 Dialogue: 0,0:15:59.81,0:16:01.54,Default,,0,0,0,,You can use this room.
 Dialogue: 0,0:16:01.54,0:16:03.35,Default,,0,0,0,,-Okay.\N-Thank you.
 Dialogue: 0,0:16:03.73,0:16:08.57,Default,,0,0,0,,Maam's shut herself in her room.\NI wonder what's wrong.
 Dialogue: 0,0:16:09.86,0:16:11.32,Default,,0,0,0,,{\i1}Master...{\i0}
-Dialogue: 0,0:16:12.07,0:16:13.45,Default,,0,0,0,,{\i1}Master Avan...{\i0}
+Dialogue: 0,0:16:12.07,0:16:13.45,Default,,0,0,0,,{\i1}Master Aban...{\i0}
 Dialogue: 0,0:16:14.78,0:16:16.20,Default,,0,0,0,,{\i1}Master...{\i0}
 Dialogue: 0,0:16:22.96,0:16:24.73,Default,,0,0,0,,Oh! Looking good this time!
 Dialogue: 0,0:16:24.73,0:16:26.67,Default,,0,0,0,,Now cast it forth!
@@ -353,7 +353,7 @@ Dialogue: 0,0:19:25.32,0:19:27.43,Default,,0,0,0,,And I'll come, too!
 Dialogue: 0,0:19:28.52,0:19:30.41,Default,,0,0,0,,They're good boys.
 Dialogue: 0,0:19:30.41,0:19:34.77,Default,,0,0,0,,So young, yet they're\Nstanding up to the Dark Army.
 Dialogue: 0,0:19:36.44,0:19:38.15,Default,,0,0,0,,What's wrong, Maam?
-Dialogue: 0,0:19:38.78,0:19:43.72,Default,,0,0,0,,{\i1}They're both risking their lives\Nto avenge Master Avan, and yet...{\i0}
+Dialogue: 0,0:19:38.78,0:19:43.72,Default,,0,0,0,,{\i1}They're both risking their lives\Nto avenge Master Aban, and yet...{\i0}
 Dialogue: 0,0:19:43.72,0:19:45.08,Default,,0,0,0,,{\i1}I...{\i0}
 Dialogue: 0,0:19:45.58,0:19:46.83,Default,,0,0,0,,{\i1}I...{\i0}
 Dialogue: 0,0:19:47.41,0:19:49.75,Default,,0,0,0,,Maam, go on after them.
@@ -362,7 +362,7 @@ Dialogue: 0,0:19:52.58,0:19:55.96,Default,,0,0,0,,You want to help them, don't y
 Dialogue: 0,0:19:56.75,0:20:00.22,Default,,0,0,0,,Don't worry about us. Go on.
 Dialogue: 0,0:20:00.63,0:20:01.55,Default,,0,0,0,,But...
 Dialogue: 0,0:20:02.89,0:20:07.06,Default,,0,0,0,,I once left this village, too.
-Dialogue: 0,0:20:07.60,0:20:13.31,Default,,0,0,0,,After I saw Sir Avan and your father\Nfighting even when they were wounded.
+Dialogue: 0,0:20:07.60,0:20:13.31,Default,,0,0,0,,After I saw Sir Aban and your father\Nfighting even when they were wounded.
 Dialogue: 0,0:20:14.23,0:20:15.67,Default,,0,0,0,,That's right.
 Dialogue: 0,0:20:15.67,0:20:19.07,Default,,0,0,0,,You're my daughter. It's in your blood.
 Dialogue: 0,0:20:19.44,0:20:20.53,Default,,0,0,0,,Mom...
@@ -385,8 +385,8 @@ Dialogue: 0,0:21:07.91,0:21:09.74,Default,,0,0,0,,Good for you, Popp.
 Dialogue: 0,0:21:10.29,0:21:12.20,Default,,0,0,0,,W-What are you talking about?!
 Dialogue: 0,0:21:12.20,0:21:15.89,Default,,0,0,0,,I just figured she'd be useful in a fight!
 Dialogue: 0,0:21:15.89,0:21:17.71,Default,,0,0,0,,Dai, Popp...
-Dialogue: 0,0:21:18.38,0:21:23.38,Default,,0,0,0,,if you're both disciples of Avan,\Nthen I'm your senior.
-Dialogue: 0,0:21:24.13,0:21:28.47,Default,,0,0,0,,So I'm going to carry on\NMaster Avan's will and fight, too.
+Dialogue: 0,0:21:18.38,0:21:23.38,Default,,0,0,0,,if you're both disciples of Aban,\Nthen I'm your senior.
+Dialogue: 0,0:21:24.13,0:21:28.47,Default,,0,0,0,,So I'm going to carry on\NMaster Aban's will and fight, too.
 Dialogue: 0,0:21:30.10,0:21:31.02,Default,,0,0,0,,Maam?
 Dialogue: 0,0:21:31.60,0:21:32.93,Default,,0,0,0,,Did you...?
 Dialogue: 0,0:21:36.19,0:21:38.44,Default,,0,0,0,,You can tell me on the way.

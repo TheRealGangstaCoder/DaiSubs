@@ -11,7 +11,14 @@ WrapStyle: 0
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-
+Audio File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 19 [720p].mkv
+Video File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 19 [720p].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 302
+Active Line: 317
+Video Position: 30573
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -59,7 +66,7 @@ Dialogue: 0,0:01:27.94,0:01:31.52,Default,,0,0,0,,{\i1}And dream my dream{\i}
 Dialogue: 0,0:01:27.94,0:01:31.52,On Top,,0,0,0,,{\i1}yume wo miru{\i}
 Dialogue: 0,0:01:31.69,0:01:33.86,Default,,0,0,0,,{\i1}And know my dream{\i}
 Dialogue: 0,0:01:31.69,0:01:33.86,On Top,,0,0,0,,{\i1}yume wo shiru{\i}
-Dialogue: 0,0:01:42.24,0:01:50.58,Default,,0,0,0,,THE FINAL AVAN STYLE TECHNIQUE
+Dialogue: 0,0:01:42.24,0:01:50.58,Default,,0,0,0,,THE FINAL ABAN STYLE TECHNIQUE
 Dialogue: 0,0:01:59.38,0:02:00.93,Default,,0,0,0,,Zaboera!
 Dialogue: 0,0:02:04.77,0:02:07.16,Default,,0,0,0,,Wait a minute! I'm not...!
 Dialogue: 0,0:02:07.16,0:02:08.77,Default,,0,0,0,,Take this!
@@ -68,9 +75,9 @@ Dialogue: 0,0:02:14.57,0:02:16.49,Default,,0,0,0,,A Morph spell?!
 Dialogue: 0,0:02:18.90,0:02:22.18,Default,,0,0,0,,It's too bad that\Nthat wasn't the real me.
 Dialogue: 0,0:02:22.18,0:02:27.62,Default,,0,0,0,,I'll eventually show you dimwits\Nthat I'm on a different level up here.
 Dialogue: 0,0:02:29.96,0:02:31.75,Default,,0,0,0,,Sneaky little imp.
-Dialogue: 0,0:02:33.88,0:02:36.00,Default,,0,0,0,,Mystvearn's gone, too.
+Dialogue: 0,0:02:33.88,0:02:36.00,Default,,0,0,0,,Mystban's gone, too.
 Dialogue: 0,0:02:38.92,0:02:40.72,Default,,0,0,0,,What did I...
-Dialogue: 0,0:02:41.30,0:02:42.78,Default,,0,0,0,,{\i1}Where's Hadlar?{\i}
+Dialogue: 0,0:02:41.30,0:02:42.78,Default,,0,0,0,,{\i1}Where's Hadorra?{\i}
 Dialogue: 0,0:02:42.78,0:02:45.81,Default,,0,0,0,,{\i1}I remember killing him...{\i}
 Dialogue: 0,0:02:48.81,0:02:51.60,Default,,0,0,0,,Valge tower. We're finally here.
 Dialogue: 0,0:02:51.98,0:02:55.63,Default,,0,0,0,,We have to hurry\Nor Leona won't make it! Let's charge in!
@@ -105,9 +112,9 @@ Dialogue: 0,0:04:31.97,0:04:34.83,Default,,0,0,0,,So you were helping them!
 Dialogue: 0,0:04:35.04,0:04:36.54,Default,,0,0,0,,It wasn't just me.
 Dialogue: 0,0:04:39.09,0:04:40.23,Default,,0,0,0,,Hyunckel!
 Dialogue: 0,0:04:40.23,0:04:45.35,Default,,0,0,0,,See? I told you.\NYou can't kill a guy like him.
-Dialogue: 0,0:04:45.35,0:04:49.10,Default,,0,0,0,,Wait. Does that mean he beat Hadlar?!
+Dialogue: 0,0:04:45.35,0:04:49.10,Default,,0,0,0,,Wait. Does that mean he beat Hadorra?!
 Dialogue: 0,0:04:49.72,0:04:51.12,Default,,0,0,0,,Bastard.
-Dialogue: 0,0:04:51.12,0:04:55.81,Default,,0,0,0,,I remembered I owed you\Nmuch like I did Hadlar.
+Dialogue: 0,0:04:51.12,0:04:55.81,Default,,0,0,0,,I remembered I owed you\Nmuch like I did Hadorra.
 Dialogue: 0,0:04:56.48,0:04:59.31,Default,,0,0,0,,So I came back from the depths of hell.
 Dialogue: 0,0:05:00.61,0:05:02.57,Default,,0,0,0,,There's no escape now.
 Dialogue: 0,0:05:08.03,0:05:10.72,Default,,0,0,0,,What's wrong?! You giving up?!
@@ -118,25 +125,25 @@ Dialogue: 0,0:05:16.50,0:05:22.31,Default,,0,0,0,,And with two Legion Commanders
 Dialogue: 0,0:05:22.31,0:05:25.61,Default,,0,0,0,,I guess it's time to face the fact.
 Dialogue: 0,0:05:25.61,0:05:28.01,Default,,0,0,0,,He's acting awfully well-behaved.
 Dialogue: 0,0:05:28.76,0:05:32.22,Default,,0,0,0,,{\i1}Flazzard's not one\Nto say something like that.{\i}
-Dialogue: 0,0:05:32.68,0:05:37.19,Default,,0,0,0,,So you'll admit defeat and release\Nthe Princess of Papnica?
+Dialogue: 0,0:05:32.68,0:05:37.19,Default,,0,0,0,,So you'll admit defeat and release\Nthe Princess of Papunica?
 Dialogue: 0,0:05:37.85,0:05:39.81,Default,,0,0,0,,Don't be stupid.
 Dialogue: 0,0:05:40.73,0:05:46.19,Default,,0,0,0,,Even if I lose everything,\NI'll never give up a chance at victory!
 Dialogue: 0,0:05:47.49,0:05:49.55,Default,,0,0,0,,Then what was that about facing the fact?!
 Dialogue: 0,0:05:49.55,0:05:52.93,Default,,0,0,0,,I meant the fact that\NI won't get through this unscathed.
 Dialogue: 0,0:05:52.93,0:05:58.79,Default,,0,0,0,,The final attack I'm about to use\Nhurts me real bad.
 Dialogue: 0,0:05:59.54,0:06:02.79,Default,,0,0,0,,I'd prefer not to use it, but...
-Dialogue: 0,0:06:04.80,0:06:09.09,Default,,0,0,0,,Dark King Vearn, grant me glory and victory.
+Dialogue: 0,0:06:04.80,0:06:09.09,Default,,0,0,0,,Dark King Ban, grant me glory and victory.
 Dialogue: 0,0:06:14.22,0:06:15.10,Default,,0,0,0,,What?!
 Dialogue: 0,0:06:15.43,0:06:18.61,Default,,0,0,0,,You're throwing away your medal?!
 Dialogue: 0,0:06:18.61,0:06:20.94,Default,,0,0,0,,What's so important about that?
 Dialogue: 0,0:06:22.81,0:06:26.07,Default,,0,0,0,,The day Sovereign Rock Castle\Nwas completed...
 Dialogue: 0,0:06:29.36,0:06:30.70,Default,,0,0,0,,{\i1}That's right.{\i}
 Dialogue: 0,0:06:30.99,0:06:36.62,Default,,0,0,0,,{\i1}It was the first time we\NSix Legion Commanders had gathered.{\i}
-Dialogue: 0,0:06:37.58,0:06:40.39,Default,,0,0,0,,Oh great Dark King Vearn,
+Dialogue: 0,0:06:37.58,0:06:40.39,Default,,0,0,0,,Oh great Dark King Ban,
 Dialogue: 0,0:06:40.39,0:06:46.02,Default,,0,0,0,,the Six Legion Commanders to lead\Nthe Dark Army are before you now.
 Dialogue: 0,0:06:46.02,0:06:50.57,Default,,0,0,0,,This Sovereign Rock Castle shall be our\Nbase as we plunge the world into darkness,
-Dialogue: 0,0:06:50.57,0:06:54.03,Default,,0,0,0,,and offer it to you, King Vearn.
-Dialogue: 0,0:06:54.03,0:06:58.77,Default,,0,0,0,,Well done, Hadlar. I am most pleased.
+Dialogue: 0,0:06:50.57,0:06:54.03,Default,,0,0,0,,and offer it to you, King Ban.
+Dialogue: 0,0:06:54.03,0:06:58.77,Default,,0,0,0,,Well done, Hadorra. I am most pleased.
 Dialogue: 0,0:06:59.14,0:07:00.14,Default,,0,0,0,,My king.
 Dialogue: 0,0:07:00.60,0:07:06.98,Default,,0,0,0,,To celebrate the Six Legion Commanders,\NI shall grant a gift.
 Dialogue: 0,0:07:07.15,0:07:08.28,Default,,0,0,0,,A gift?
@@ -146,7 +153,7 @@ Dialogue: 0,0:07:14.83,0:07:16.45,Default,,0,0,0,,What's that?
 Dialogue: 0,0:07:16.79,0:07:23.29,Default,,0,0,0,,That is the Infernal Emblem. Consider it\Nthe greatest symbol of loyalty to me.
 Dialogue: 0,0:07:23.67,0:07:28.15,Default,,0,0,0,,Now, whoever believes\Nthemself worthy may take it.
 Dialogue: 0,0:07:28.15,0:07:30.53,Default,,0,0,0,,What intense flames!
-Dialogue: 0,0:07:30.53,0:07:34.97,Default,,0,0,0,,But we must prove our loyalty\Nto King Vearn!
+Dialogue: 0,0:07:30.53,0:07:34.97,Default,,0,0,0,,But we must prove our loyalty\Nto King Ban!
 Dialogue: 0,0:07:53.82,0:07:57.37,Default,,0,0,0,,Well done, Flazzard.
 Dialogue: 0,0:07:59.58,0:08:05.54,Default,,0,0,0,,That's when he gained the title\N"Blitz Captain of the Dark Army."
 Dialogue: 0,0:08:06.13,0:08:10.13,Default,,0,0,0,,That medal is a symbol of his glory.
@@ -175,7 +182,7 @@ Dialogue: 0,0:09:31.59,0:09:32.71,Default,,0,0,0,,Crocodine!
 Dialogue: 0,0:09:33.80,0:09:36.38,Default,,0,0,0,,What do you think you're doing?!
 Dialogue: 0,0:09:37.05,0:09:40.89,Default,,0,0,0,,It doesn't matter how strong you are!
 Dialogue: 0,0:09:41.30,0:09:45.02,Default,,0,0,0,,The more you break,\Nthe more of me there is!
-Dialogue: 0,0:09:46.23,0:09:51.44,Default,,0,0,0,,This is my final attack method,\N{\\i1}{\\3c&H1717E4&}Rock Bullet Shrapnel Detonation!{\\i0}{\\3c&H00000000&}
+Dialogue: 0,0:09:46.23,0:09:51.44,Default,,0,0,0,,This is my final attack method,\N{\\i1}{\\3c&H1717E4&}Rock Bullet Shrapnel Detonation!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:09:51.61,0:09:53.79,Default,,0,0,0,,Then I'll just freeze them all!
 Dialogue: 0,0:09:53.79,0:09:54.86,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Hyadaruko!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:10:01.87,0:10:03.49,Default,,0,0,0,,Ow, ow, ow, ow!
@@ -183,7 +190,7 @@ Dialogue: 0,0:10:04.58,0:10:08.21,Default,,0,0,0,,Whoops. He has ice rocks.
 Dialogue: 0,0:10:08.87,0:10:09.92,Default,,0,0,0,,Popp!
 Dialogue: 0,0:10:10.54,0:10:11.44,Default,,0,0,0,,Don't, Dai!
 Dialogue: 0,0:10:11.44,0:10:14.59,Default,,0,0,0,,Looks like you're up, big Hero!
-Dialogue: 0,0:10:15.55,0:10:16.92,Default,,0,0,0,,Earth Slash!
+Dialogue: 0,0:10:15.55,0:10:16.92,Default,,0,0,0,,{\3c&H1717E4&}{\i1}{\3c&H1717E4&}Earth Slash!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:10:27.35,0:10:28.94,Default,,0,0,0,,Die!
 Dialogue: 0,0:10:30.90,0:10:32.06,Default,,0,0,0,,Dai!
 Dialogue: 0,0:10:38.03,0:10:40.57,DefaultLow,,0,0,0,,MAGIC BULLET GUN
@@ -194,7 +201,7 @@ Dialogue: 0,0:10:56.00,0:10:57.59,Default,,0,0,0,,Bastard!
 Dialogue: 0,0:10:59.01,0:11:01.49,Default,,0,0,0,,Dai, aim for his core!
 Dialogue: 0,0:11:01.49,0:11:02.31,Default,,0,0,0,,His core?
 Dialogue: 0,0:11:02.31,0:11:07.39,Default,,0,0,0,,That's right. He said all of these rocks\Nare him, but that's not true.
-Dialogue: 0,0:11:07.93,0:11:12.56,Default,,0,0,0,,{\i1}He's an energy rock life-form created by\NHadlar using Forbidden Magic.{\i}
+Dialogue: 0,0:11:07.93,0:11:12.56,Default,,0,0,0,,{\i1}He's an energy rock life-form created by\NHadorra using Forbidden Magic.{\i}
 Dialogue: 0,0:11:13.10,0:11:16.90,Default,,0,0,0,,{\i1}There should only be one core rock\Nthat's the source of his life.{\i}
 Dialogue: 0,0:11:17.28,0:11:19.53,Default,,0,0,0,,{\i1}You have to find it and break it!{\i}
 Dialogue: 0,0:11:20.07,0:11:21.40,Default,,0,0,0,,His core...
@@ -221,7 +228,7 @@ Dialogue: 0,0:12:46.67,0:12:50.09,Default,,0,0,0,,I look pathetic to you, don't 
 Dialogue: 0,0:12:50.09,0:12:54.83,Default,,0,0,0,,This final attack method\Ndrains my life drastically.
 Dialogue: 0,0:12:55.54,0:12:58.59,Default,,0,0,0,,Why do you risk death just to win?!
 Dialogue: 0,0:12:59.50,0:13:02.09,Default,,0,0,0,,My being has no history.
-Dialogue: 0,0:13:03.34,0:13:08.15,Default,,0,0,0,,It's been barely a year\Nsince Master Hadlar created me.
+Dialogue: 0,0:13:03.34,0:13:08.15,Default,,0,0,0,,It's been barely a year\Nsince Master Hadorra created me.
 Dialogue: 0,0:13:08.15,0:13:11.74,Default,,0,0,0,,That's why I want achievements!
 Dialogue: 0,0:13:11.74,0:13:18.16,Default,,0,0,0,,Achievements no one can beat whether\Nthey live to be a hundred or a thousand!
 Dialogue: 0,0:13:18.16,0:13:20.40,Default,,0,0,0,,You're so pitiful.
@@ -234,7 +241,7 @@ Dialogue: 0,0:13:41.56,0:13:42.71,Default,,0,0,0,,Wait!
 Dialogue: 0,0:13:46.22,0:13:47.18,Default,,0,0,0,,Dai!
 Dialogue: 0,0:13:48.30,0:13:52.18,Default,,0,0,0,,Don't you see that you can't win?
 Dialogue: 0,0:13:52.60,0:13:56.58,Default,,0,0,0,,I'm going to use my final attack now.
-Dialogue: 0,0:13:56.58,0:14:01.11,Default,,0,0,0,,It's the greatest technique of\Nmy master, Avan.
+Dialogue: 0,0:13:56.58,0:14:01.11,Default,,0,0,0,,It's the greatest technique of\Nmy master, Aban.
 Dialogue: 0,0:14:01.86,0:14:04.69,Default,,0,0,0,,I've never successfully done it before.
 Dialogue: 0,0:14:06.19,0:14:08.61,Default,,0,0,0,,If I fail, you win.
 Dialogue: 0,0:14:10.03,0:14:11.24,Default,,0,0,0,,But...
@@ -245,10 +252,10 @@ Dialogue: 0,0:14:20.75,0:14:22.09,Default,,0,0,0,,That attack...!
 Dialogue: 0,0:14:34.97,0:14:36.98,Default,,0,0,0,,Here goes, kid!
 Dialogue: 0,0:14:37.73,0:14:40.90,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Blizzblaze Shrapnel Detonation!{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:14:49.61,0:14:50.91,Default,,0,0,0,,He didn't dodge?!
-Dialogue: 0,0:14:52.07,0:14:54.33,Default,,0,0,0,,Avan Style Sword Technique...
-Dialogue: 0,0:14:55.91,0:14:57.12,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Air Slash!{\\i0}{\\3c&H00000000&}
+Dialogue: 0,0:14:52.07,0:14:54.33,Default,,0,0,0,,Aban Style Sword Technique...
+Dialogue: 0,0:14:55.91,0:14:57.12,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Air Slash!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:15:05.17,0:15:06.30,Default,,0,0,0,,Did it work?!
-Dialogue: 0,0:15:18.02,0:15:23.69,Default,,0,0,0,,If that pathetic attack is his greatest\Ntechnique, I guess Avan's not much, huh?
+Dialogue: 0,0:15:18.02,0:15:23.69,Default,,0,0,0,,If that pathetic attack is his greatest\Ntechnique, I guess Aban's not much, huh?
 Dialogue: 0,0:15:24.15,0:15:26.94,Default,,0,0,0,,{\i1}No... I failed.{\i}
 Dialogue: 0,0:15:27.40,0:15:28.40,Default,,0,0,0,,{\i1}Is it...{\i}
 Dialogue: 0,0:15:29.36,0:15:33.78,Default,,0,0,0,,{\i1}Is it really beyond me, Master?{\i}
@@ -290,8 +297,8 @@ Dialogue: 0,0:17:54.98,0:17:57.47,Default,,0,0,0,,You'll all die first!
 Dialogue: 0,0:17:57.80,0:18:03.60,Default,,0,0,0,,Besides, the risk of getting burned\Nis what makes gambling fun!
 Dialogue: 0,0:18:05.31,0:18:08.69,Default,,0,0,0,,He's blinded by the glory of victory!
 Dialogue: 0,0:18:09.06,0:18:13.98,Default,,0,0,0,,Here goes, Dai!\NIt's a showdown between our final attacks!
-Dialogue: 0,0:18:14.94,0:18:16.94,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Rock Bullet Shrapnel Detonation!{\\i0}{\\3c&H00000000&}
-Dialogue: 0,0:18:19.82,0:18:20.70,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Air Slash!{\\i0}{\\3c&H00000000&}
+Dialogue: 0,0:18:14.94,0:18:16.94,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Rock Bullet Shrapnel Detonation!{\i0}{\3c&H00000000&}
+Dialogue: 0,0:18:19.82,0:18:20.70,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Air Slash!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:18:40.76,0:18:42.30,Default,,0,0,0,,It's not working!
 Dialogue: 0,0:18:42.47,0:18:47.29,Default,,0,0,0,,Looks like with this many targets,\Nthere's no hope for any accidental hits!
 Dialogue: 0,0:18:47.29,0:18:51.15,Default,,0,0,0,,Looks like I win this fight!
@@ -317,7 +324,7 @@ Dialogue: 0,0:19:42.58,0:19:44.37,Default,,0,0,0,,It'll become a true Air Slash!
 Dialogue: 0,0:19:44.99,0:19:47.55,Default,,0,0,0,,Find him with... my inner eye!
 Dialogue: 0,0:19:47.55,0:19:53.43,Default,,0,0,0,,Air Slash strikes dark energy\Nwith light energy to destroy evil!
 Dialogue: 0,0:19:53.43,0:19:56.77,Default,,0,0,0,,That's why I could never master it!
-Dialogue: 0,0:19:56.77,0:20:02.38,Default,,0,0,0,,Now is the time for you to inherit\Nthe greatest Avan Style technique!
+Dialogue: 0,0:19:56.77,0:20:02.38,Default,,0,0,0,,Now is the time for you to inherit\Nthe greatest Aban Style technique!
 Dialogue: 0,0:20:02.55,0:20:03.61,Default,,0,0,0,,You morons!
 Dialogue: 0,0:20:03.61,0:20:10.31,Default,,0,0,0,,As if such a fantasy attack\Ncould defeat my ultimate attack!
 Dialogue: 0,0:20:11.39,0:20:12.25,Default,,0,0,0,,Dai!
@@ -340,7 +347,7 @@ Dialogue: 0,0:21:01.07,0:21:02.32,Default,,0,0,0,,{\i1}his core!{\i}
 Dialogue: 0,0:21:04.32,0:21:05.53,Default,,0,0,0,,{\i1}This is...{\i}
 Dialogue: 0,0:21:05.78,0:21:07.20,Default,,0,0,0,,{\i1}This is...{\i}
 Dialogue: 0,0:21:08.24,0:21:10.03,Default,,0,0,0,,{\i1}Flazzard!{\i}
-Dialogue: 0,0:21:15.12,0:21:17.25,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Air Slash!{\\i0}{\\3c&H00000000&}
+Dialogue: 0,0:21:15.12,0:21:17.25,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Air Slash!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:21:35.85,0:21:38.77,Default,,0,0,0,,Looks like another dud...
 Dialogue: 0,0:21:42.82,0:21:45.57,Default,,0,0,0,,That's my... My core!
 Dialogue: 0,0:21:46.49,0:21:47.91,Default,,0,0,0,,It's done.
@@ -369,7 +376,7 @@ Dialogue: 0,0:23:08.36,0:23:14.03,On Top,,0,0,0,,{\i1}sagashite ita kyou to chig
 Dialogue: 0,0:23:14.20,0:23:19.33,Default,,0,0,0,,{\i1}I'm sure you'd laugh at my disappointment{\i}
 Dialogue: 0,0:23:14.20,0:23:19.33,On Top,,0,0,0,,{\i1}ochikonnde shimau boku wo warau no darou{\i}
 Dialogue: 0,0:23:34.22,0:23:37.43,Default,,0,0,0,,{\i1}Dai's Air Slash struck Flazzard.{\i}
-Dialogue: 0,0:23:37.60,0:23:44.31,Default,,0,0,0,,{\i1}Just when victory is at hand, Mystvearn,\Nthe Shadow Vizier appears before Dai.{\i}
+Dialogue: 0,0:23:37.60,0:23:44.31,Default,,0,0,0,,{\i1}Just when victory is at hand, Mystban,\Nthe Shadow Vizier appears before Dai.{\i}
 Dialogue: 0,0:23:44.48,0:23:50.61,Default,,0,0,0,,{\i1}After turning into Dark Aura,\Na spiteful Flazzard attacks Dai again.{\i}
 Dialogue: 0,0:23:50.78,0:23:53.86,Default,,0,0,0,,{\i1}Dai and Flazzard's final showdown begins.{\i}
 Dialogue: 0,0:23:54.32,0:23:56.58,Default,,0,0,0,,{\i1}DRAGON QUEST The Adventure of Dai,{\i}

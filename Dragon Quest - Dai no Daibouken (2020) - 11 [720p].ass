@@ -11,7 +11,14 @@ WrapStyle: 0
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-
+Audio File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 11 [720p].mkv
+Video File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 11 [720p].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 306
+Active Line: 334
+Video Position: 32274
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -62,12 +69,12 @@ Dialogue: 0,0:01:31.69,0:01:33.86,On Top,,0,0,0,,{\i1}yume wo shiru{\i0}
 Dialogue: 0,0:01:42.20,0:01:50.58,Default,,0,0,0,,HYUNCKEL, THE DARK SWORDSMAN
 Dialogue: 0,0:01:53.25,0:01:54.19,Default,,0,0,0,,It's not over!
 Dialogue: 0,0:01:54.19,0:01:55.23,Default,,0,0,0,,That stance...!
-Dialogue: 0,0:01:55.23,0:01:56.84,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Avan Strash!{\i0}{\3c&H00000000&}
-Dialogue: 0,0:02:05.43,0:02:08.87,Default,,0,0,0,,You call this Avan Strash?\NDon't make me laugh!
+Dialogue: 0,0:01:55.23,0:01:56.84,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Aban Strash!{\i0}{\3c&H00000000&}
+Dialogue: 0,0:02:05.43,0:02:08.87,Default,,0,0,0,,You call this Aban Strash?\NDon't make me laugh!
 Dialogue: 0,0:02:08.87,0:02:10.77,Default,,0,0,0,,That was just a cheap imitation!
 Dialogue: 0,0:02:11.86,0:02:16.53,Default,,0,0,0,,You know the lesson, "Slice the earth,\Nslice the sea, slice the air.
-Dialogue: 0,0:02:17.03,0:02:20.20,Default,,0,0,0,,And what slices everything\Nis Avan Strash."
-Dialogue: 0,0:02:20.66,0:02:26.08,Default,,0,0,0,,Fighting you, I could tell you haven't\Nmastered the Avan Style Sword Technique!
+Dialogue: 0,0:02:17.03,0:02:20.20,Default,,0,0,0,,And what slices everything\Nis Aban Strash."
+Dialogue: 0,0:02:20.66,0:02:26.08,Default,,0,0,0,,Fighting you, I could tell you haven't\Nmastered the Aban Style Sword Technique!
 Dialogue: 0,0:02:26.41,0:02:30.77,Default,,0,0,0,,In other words,\Nthe third skill, Air Slash!
 Dialogue: 0,0:02:30.77,0:02:32.17,Default,,0,0,0,,Air Slash?!
 Dialogue: 0,0:02:33.25,0:02:34.56,Default,,0,0,0,,{\i1}That's right...{\i0}
@@ -76,21 +83,21 @@ Dialogue: 0,0:02:36.76,0:02:40.03,Default,,0,0,0,,Even if you complete\Nthe Spec
 Dialogue: 0,0:02:40.03,0:02:42.82,Default,,0,0,0,,you'll probably learn Air Slash\Non the seventh day.
 Dialogue: 0,0:02:42.82,0:02:43.61,Default,,0,0,0,,The last?
 Dialogue: 0,0:02:43.61,0:02:47.47,Default,,0,0,0,,Yes. It's that difficult\Nof a skill to learn.
-Dialogue: 0,0:02:48.35,0:02:53.75,Default,,0,0,0,,{\i1}But I only trained\Nwith Master Avan for three days.{\i0}
+Dialogue: 0,0:02:48.35,0:02:53.75,Default,,0,0,0,,{\i1}But I only trained\Nwith Master Aban for three days.{\i0}
 Dialogue: 0,0:02:53.75,0:02:56.25,Default,,0,0,0,,Even I can't use Air Slash.
-Dialogue: 0,0:02:56.25,0:02:59.51,Default,,0,0,0,,It's the greatest\NAvan Style Sword Technique.
+Dialogue: 0,0:02:56.25,0:02:59.51,Default,,0,0,0,,It's the greatest\NAban Style Sword Technique.
 Dialogue: 0,0:02:59.51,0:03:04.05,Default,,0,0,0,,When Earth, Wave, and Air are mastered,
-Dialogue: 0,0:03:04.05,0:03:07.68,Default,,0,0,0,,Avan Strash shows its true ultimate power!
+Dialogue: 0,0:03:04.05,0:03:07.68,Default,,0,0,0,,Aban Strash shows its true ultimate power!
 Dialogue: 0,0:03:07.68,0:03:12.43,Default,,0,0,0,,Basically, your attack now\Nis merely an incomplete imitation!
 Dialogue: 0,0:03:12.43,0:03:15.25,Default,,0,0,0,,Even I can use an imitation like that!
-Dialogue: 0,0:03:16.09,0:03:18.21,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Avan Strash!{\i0}{\3c&H00000000&}
+Dialogue: 0,0:03:16.09,0:03:18.21,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Aban Strash!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:03:23.84,0:03:25.10,Default,,0,0,0,,Dai!
 Dialogue: 0,0:03:28.14,0:03:31.04,Default,,0,0,0,,So you two are up next?
-Dialogue: 0,0:03:31.04,0:03:34.29,Default,,0,0,0,,We won't let you use\NMaster Avan's skills for evil!
+Dialogue: 0,0:03:31.04,0:03:34.29,Default,,0,0,0,,We won't let you use\NMaster Aban's skills for evil!
 Dialogue: 0,0:03:34.29,0:03:35.77,Default,,0,0,0,,Three against one...
 Dialogue: 0,0:03:36.15,0:03:39.49,Default,,0,0,0,,Then I'll have to use my secret weapon.
 Dialogue: 0,0:03:41.82,0:03:44.55,Default,,0,0,0,,As a warrior, I can't use spells.
-Dialogue: 0,0:03:44.55,0:03:49.56,Default,,0,0,0,,So Vearn, the Dark King,\Ngave me the ultimate armour.
+Dialogue: 0,0:03:44.55,0:03:49.56,Default,,0,0,0,,So Ban, the Dark King,\Ngave me the ultimate armour.
 Dialogue: 0,0:03:49.56,0:03:54.10,Default,,0,0,0,,A supreme armour that can repel\Nany and all attack spells!
 Dialogue: 0,0:03:54.10,0:03:57.27,Default,,0,0,0,,When I don it, I become unbeatable!
 Dialogue: 0,0:03:57.27,0:04:01.07,Default,,0,0,0,,A supreme armour?\NI don't see any armour anywhere!
@@ -113,26 +120,26 @@ Dialogue: 0,0:05:17.23,0:05:21.34,Default,,0,0,0,,And no one in the world\Ncan b
 Dialogue: 0,0:05:24.97,0:05:27.95,Default,,0,0,0,,Don't. I won't fight a woman.
 Dialogue: 0,0:05:27.95,0:05:31.95,Default,,0,0,0,,Don't underestimate me!\NEven women can risk their lives in battle!
 Dialogue: 0,0:05:31.95,0:05:34.28,Default,,0,0,0,,Even more so, if it's for justice!
-Dialogue: 0,0:05:34.28,0:05:37.12,Default,,0,0,0,,A likely lesson from Avan.
+Dialogue: 0,0:05:34.28,0:05:37.12,Default,,0,0,0,,A likely lesson from Aban.
 Dialogue: 0,0:05:37.12,0:05:39.27,Default,,0,0,0,,You learned it too, didn't you?!
-Dialogue: 0,0:05:39.61,0:05:44.07,Default,,0,0,0,,Master Avan would never grant\Nan Insignia of Avan to someone unworthy!
+Dialogue: 0,0:05:39.61,0:05:44.07,Default,,0,0,0,,Master Aban would never grant\Nan Insignia of Aban to someone unworthy!
 Dialogue: 0,0:05:44.61,0:05:46.36,Default,,0,0,0,,I know that deep down...
 Dialogue: 0,0:05:47.95,0:05:49.07,Default,,0,0,0,,This?
 Dialogue: 0,0:05:52.08,0:05:53.62,Default,,0,0,0,,How could you?!
 Dialogue: 0,0:05:54.24,0:05:55.93,Default,,0,0,0,,I don't need it.
-Dialogue: 0,0:05:55.93,0:06:01.96,Default,,0,0,0,,I only carried it around\Nto find Avan or his students...
+Dialogue: 0,0:05:55.93,0:06:01.96,Default,,0,0,0,,I only carried it around\Nto find Aban or his students...
 Dialogue: 0,0:06:02.46,0:06:05.67,Default,,0,0,0,,so I could kill them myself!
 Dialogue: 0,0:06:06.01,0:06:09.24,Default,,0,0,0,,Why?! Why do you hate him so much?!
-Dialogue: 0,0:06:09.24,0:06:13.74,Default,,0,0,0,,Because Avan is my father's killer!
+Dialogue: 0,0:06:09.24,0:06:13.74,Default,,0,0,0,,Because Aban is my father's killer!
 Dialogue: 0,0:06:13.74,0:06:14.93,Default,,0,0,0,,His killer?!
-Dialogue: 0,0:06:17.18,0:06:21.69,Default,,0,0,0,,This continent of Holkia\Nwas once the Dark Lord Hadlar's base.
+Dialogue: 0,0:06:17.18,0:06:21.69,Default,,0,0,0,,This continent of Holkia\Nwas once the Dark Lord Hadorra's base.
 Dialogue: 0,0:06:22.61,0:06:28.24,Default,,0,0,0,,{\i1}The old Dark Army razed towns\Nand was the cause of many casualties.{\i0}
 Dialogue: 0,0:06:36.08,0:06:37.39,Default,,0,0,0,,Poor thing...
 Dialogue: 0,0:06:37.39,0:06:39.12,Default,,0,0,0,,{\i1}That child was me.{\i0}
-Dialogue: 0,0:06:39.71,0:06:44.84,Default,,0,0,0,,{\i1}I was raised in Hadlar's Underground\NPalace by the Hell Knight Bartos.{\i0}
+Dialogue: 0,0:06:39.71,0:06:44.84,Default,,0,0,0,,{\i1}I was raised in Hadorra's Underground\NPalace by the Hell Knight Bartos.{\i0}
 Dialogue: 0,0:06:45.63,0:06:49.53,Default,,0,0,0,,{\i1}The only reason he was allowed to\Nraise a human child was because{\i0}
 Dialogue: 0,0:06:49.53,0:06:52.78,Default,,0,0,0,,{\i1}Bartos was the strongest knight\Nin the Dark Army.{\i0}
-Dialogue: 0,0:06:52.78,0:06:57.43,Default,,0,0,0,,{\i1}And he was the guardian of the Hell Gate\Nwhich led to Hadlar's chambers.{\i0}
+Dialogue: 0,0:06:52.78,0:06:57.43,Default,,0,0,0,,{\i1}And he was the guardian of the Hell Gate\Nwhich led to Hadorra's chambers.{\i0}
 Dialogue: 0,0:06:58.98,0:07:01.15,Default,,0,0,0,,I shall name you Hyunckel
 Dialogue: 0,0:07:01.60,0:07:05.32,Default,,0,0,0,,after a legendary swordsman\Nwho once ruled the Underworld.
 Dialogue: 0,0:07:09.40,0:07:16.04,Default,,0,0,0,,{\i1}I couldn't leave the Palace,\Nbut I grew up without questioning it.{\i0}
@@ -157,7 +164,7 @@ Dialogue: 0,0:08:30.44,0:08:31.69,Default,,0,0,0,,Dad?!
 Dialogue: 0,0:08:32.57,0:08:33.28,Default,,0,0,0,,Dad!
 Dialogue: 0,0:08:38.53,0:08:41.06,Default,,0,0,0,,{\i1}The Undead, unlike other monsters,{\i0}
 Dialogue: 0,0:08:41.06,0:08:44.58,Default,,0,0,0,,{\i1}cannot maintain themselves\Nwithout the Dark Lord's power.{\i0}
-Dialogue: 0,0:08:44.92,0:08:48.52,Default,,0,0,0,,{\i1}With Hadlar's death,\Nand the loss of his Dark Power,{\i0}
+Dialogue: 0,0:08:44.92,0:08:48.52,Default,,0,0,0,,{\i1}With Hadorra's death,\Nand the loss of his Dark Power,{\i0}
 Dialogue: 0,0:08:48.52,0:08:50.13,Default,,0,0,0,,{\i1}my father...{\i0}
 Dialogue: 0,0:08:50.75,0:08:53.55,Default,,0,0,0,,H-Hyunckel...
 Dialogue: 0,0:08:57.80,0:08:58.89,Default,,0,0,0,,Dad!
@@ -165,29 +172,29 @@ Dialogue: 0,0:09:00.14,0:09:04.89,Default,,0,0,0,,Hyunckel... thank you for the 
 Dialogue: 0,0:09:08.52,0:09:10.86,Default,,0,0,0,,{\i1}He crumbled to ashes.{\i0}
 Dialogue: 0,0:09:12.23,0:09:15.65,Default,,0,0,0,,Dad!
 Dialogue: 0,0:09:18.57,0:09:19.78,Default,,0,0,0,,{\i1}It's ironic.{\i0}
-Dialogue: 0,0:09:20.45,0:09:24.47,Default,,0,0,0,,{\i1}The man who happened to find me was Avan.{\i0}
+Dialogue: 0,0:09:20.45,0:09:24.47,Default,,0,0,0,,{\i1}The man who happened to find me was Aban.{\i0}
 Dialogue: 0,0:09:24.47,0:09:25.29,Default,,0,0,0,,You are...?
 Dialogue: 0,0:09:28.08,0:09:29.44,Default,,0,0,0,,Hyunckel.
 Dialogue: 0,0:09:29.44,0:09:33.11,Default,,0,0,0,,{\i1}He had no way of knowing who I was.{\i0}
 Dialogue: 0,0:09:33.11,0:09:37.26,Default,,0,0,0,,{\i1}He must have assumed I was a boy\Nkidnapped by monsters.{\i0}
 Dialogue: 0,0:09:37.63,0:09:44.52,Default,,0,0,0,,{\i1}But I knew immediately that\Nhe was the Hero, and my father's killer.{\i0}
 Dialogue: 0,0:09:45.39,0:09:51.36,Default,,0,0,0,,At that moment, I swore\Nthat I'd gain strength and kill him!
-Dialogue: 0,0:09:52.19,0:09:55.50,Default,,0,0,0,,That's why I became Avan's student\Nand learned to fight.
+Dialogue: 0,0:09:52.19,0:09:55.50,Default,,0,0,0,,That's why I became Aban's student\Nand learned to fight.
 Dialogue: 0,0:09:55.50,0:09:58.84,Default,,0,0,0,,So that I could kill him\Nwith what he taught me!
 Dialogue: 0,0:09:58.84,0:10:00.41,Default,,0,0,0,,Stop it!
-Dialogue: 0,0:10:01.12,0:10:04.22,Default,,0,0,0,,I know how you feel, but Master Avan...
+Dialogue: 0,0:10:01.12,0:10:04.22,Default,,0,0,0,,I know how you feel, but Master Aban...
 Dialogue: 0,0:10:04.22,0:10:07.12,Default,,0,0,0,,"Was just fighting for justice"?!
 Dialogue: 0,0:10:08.17,0:10:14.80,Default,,0,0,0,,Justice or not, it doesn't change\Nthe fact that he took my father's life!
 Dialogue: 0,0:10:15.26,0:10:17.86,Default,,0,0,0,,My father died as ashes.
 Dialogue: 0,0:10:17.86,0:10:19.76,Default,,0,0,0,,If that is justice...
 Dialogue: 0,0:10:20.34,0:10:23.10,Default,,0,0,0,,then justice itself is my enemy!
 Dialogue: 0,0:10:25.18,0:10:26.95,Default,,0,0,0,,Now to finish you off...
-Dialogue: 0,0:10:26.95,0:10:31.69,Default,,0,0,0,,My own special attack\Nthat I intended to use on Avan!
+Dialogue: 0,0:10:26.95,0:10:31.69,Default,,0,0,0,,My own special attack\Nthat I intended to use on Aban!
 Dialogue: 0,0:10:32.02,0:10:33.48,Default,,0,0,0,,A sword from his helmet?!
 Dialogue: 0,0:10:36.03,0:10:37.44,Default,,0,0,0,,Take this!
 Dialogue: 0,0:10:38.53,0:10:39.41,Default,,0,0,0,,Look out!
 Dialogue: 0,0:10:42.70,0:10:44.33,Default,,0,0,0,,Dai! Popp!
-Dialogue: 0,0:10:48.16,0:10:54.00,Default,,0,0,0,,This is the attack I developed to defeat\Nthe Avan Style Sword Technique...
+Dialogue: 0,0:10:48.16,0:10:54.00,Default,,0,0,0,,This is the attack I developed to defeat\Nthe Aban Style Sword Technique...
 Dialogue: 0,0:10:54.92,0:10:56.92,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Bloody Sukuraido!{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:10:58.47,0:11:04.22,Default,,0,0,0,,Hyunckel, you've gained the skills\Nof a full-fledged warrior.
 Dialogue: 0,0:11:04.47,0:11:07.35,Default,,0,0,0,,And so, I present you with this.
@@ -210,11 +217,11 @@ Dialogue: 0,0:12:04.95,0:12:09.18,Default,,0,0,0,,{\i1}But if I hadn't,\NI'm sur
 Dialogue: 0,0:12:09.18,0:12:13.33,Default,,0,0,0,,{\i1}What talent with a blade!\NIt was like a demon's sword!{\i0}
 Dialogue: 0,0:12:14.12,0:12:15.33,Default,,0,0,0,,Hyunckel!
 Dialogue: 0,0:12:16.46,0:12:18.00,Default,,0,0,0,,Hyunckel!
-Dialogue: 0,0:12:29.10,0:12:30.18,Default,,0,0,0,,Avan...!
+Dialogue: 0,0:12:29.10,0:12:30.18,Default,,0,0,0,,Aban...!
 Dialogue: 0,0:12:30.68,0:12:34.79,Default,,0,0,0,,{\i1}I failed, but I was rescued\Nby the Dark King's trusted servant,{\i0}
-Dialogue: 0,0:12:34.79,0:12:39.15,Default,,0,0,0,,{\i1}Mystvearn, the Shadow Vizier,\Nand survived.{\i0}
+Dialogue: 0,0:12:34.79,0:12:39.15,Default,,0,0,0,,{\i1}Mystban, the Shadow Vizier,\Nand survived.{\i0}
 Dialogue: 0,0:12:39.98,0:12:45.05,Default,,0,0,0,,Since then, I've continued to train\Nas a warrior of the Dark Army.
-Dialogue: 0,0:12:45.05,0:12:49.24,Default,,0,0,0,,This attack now far surpasses\Nthe power of Avan Strash!
+Dialogue: 0,0:12:45.05,0:12:49.24,Default,,0,0,0,,This attack now far surpasses\Nthe power of Aban Strash!
 Dialogue: 0,0:12:49.99,0:12:54.00,Default,,0,0,0,,Your ill-advised dodging\Nhas only increased your suffering.
 Dialogue: 0,0:12:54.33,0:12:56.29,Default,,0,0,0,,Let me end it for you!
 Dialogue: 0,0:13:00.96,0:13:03.47,DefaultLow,,0,0,0,,MAGIC BULLET GUN
@@ -244,7 +251,7 @@ Dialogue: 0,0:14:47.03,0:14:50.34,Default,,0,0,0,,You have no power,\Nyet you in
 Dialogue: 0,0:14:50.34,0:14:51.49,Default,,0,0,0,,Darn it!
 Dialogue: 0,0:14:57.62,0:15:01.33,Default,,0,0,0,,You have spirit.\NThat much is worth praise.
 Dialogue: 0,0:15:02.00,0:15:04.80,Default,,0,0,0,,{\i1}Is Dai really no match for him?!{\i0}
-Dialogue: 0,0:15:05.25,0:15:11.55,Default,,0,0,0,,{\i1}Sure he's a great swordsman,\Nbut Dai's beaten Hadlar and Crocodine!{\i0}
+Dialogue: 0,0:15:05.25,0:15:11.55,Default,,0,0,0,,{\i1}Sure he's a great swordsman,\Nbut Dai's beaten Hadorra and Crocodine!{\i0}
 Dialogue: 0,0:15:12.30,0:15:14.81,Default,,0,0,0,,{\i1}I know! It's that mark!{\i0}
 Dialogue: 0,0:15:15.22,0:15:20.27,Default,,0,0,0,,{\i1}That mark has always allowed Dai\Nto use extraordinary power!{\i0}
 Dialogue: 0,0:15:23.02,0:15:27.82,Default,,0,0,0,,Dai! Use that power!\NUse the power of that mark!
@@ -381,7 +388,7 @@ Dialogue: 0,0:23:37.10,0:23:41.48,Default,,0,0,0,,{\i1}Thanks to Crocodine's sac
 Dialogue: 0,0:23:41.65,0:23:46.40,Default,,0,0,0,,{\i1}They begin to form a plan to counter\NHyunckel's overwhelming strength.{\i0}
 Dialogue: 0,0:23:46.57,0:23:51.45,Default,,0,0,0,,{\i1}The battle to rescue Maam from her prison\Nin the Underground Palace begins!{\i0}
 Dialogue: 0,0:23:52.24,0:23:54.53,Default,,0,0,0,,DRAGON QUEST The Adventure of Dai{\i1},{\i0}
-Dialogue: 0,0:23:54.70,0:23:56.41,Default,,0,0,0,,{\i1}"The Collaborative Zapple"{\i0}
+Dialogue: 0,0:23:54.70,0:23:56.41,Default,,0,0,0,,{\i1}"The Collaborative Raiden"{\i0}
 Dialogue: 0,0:23:56.58,0:23:58.58,Default,,0,0,0,,{\i1}The adventure continues!{\i0}
 Dialogue: 0,0:23:58.58,0:24:00.58,Default,,0,0,0,,
 Dialogue: 0,0:24:00.58,0:24:02.58,On Top,,0,0,0,,

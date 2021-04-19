@@ -11,6 +11,14 @@ WrapStyle: 0
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
+Audio File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 02 [720p].mkv
+Video File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 02 [720p].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 270
+Active Line: 298
+Video Position: 32133
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -62,7 +70,7 @@ Dialogue: 0,0:01:42.16,0:01:50.58,Default,,0,0,0,,DAI AND PRINCESS LEONA
 Dialogue: 0,0:01:53.09,0:01:54.55,Default,,0,0,0,,Are you Dai, the Hero?
 Dialogue: 0,0:01:54.96,0:01:55.73,Default,,0,0,0,,Yep!
 Dialogue: 0,0:01:55.73,0:02:00.14,Default,,0,0,0,,Oh wow, you're so tiny!\NTalk about undependable!
-Dialogue: 0,0:02:02.22,0:02:07.29,Default,,0,0,0,,The royal family of our Papnica Kingdom\Nhas long served the gods.
+Dialogue: 0,0:02:02.22,0:02:07.29,Default,,0,0,0,,The royal family of our Papunica Kingdom\Nhas long served the gods.
 Dialogue: 0,0:02:07.29,0:02:12.61,Default,,0,0,0,,The latest successor, Princess Leona,\Nduring the month of her 14th birthday,
 Dialogue: 0,0:02:13.02,0:02:17.65,Default,,0,0,0,,must partake in a ritual to receive\Nthe blessing of the Earth God.
 Dialogue: 0,0:02:18.07,0:02:20.49,Default,,0,0,0,,This island has\Na cave into the earth, yes?
@@ -71,8 +79,8 @@ Dialogue: 0,0:02:24.49,0:02:26.54,Default,,0,0,0,,That is the Ritual Land we see
 Dialogue: 0,0:02:27.04,0:02:32.19,Default,,0,0,0,,But, as this island has long been feared\Nas an island of monsters,
 Dialogue: 0,0:02:32.19,0:02:34.31,Default,,0,0,0,,no one knows where it is.
 Dialogue: 0,0:02:34.31,0:02:39.11,Default,,0,0,0,,It's been 50 years since a member of\Nthe royal family has undergone the ritual.
-Dialogue: 0,0:02:39.11,0:02:42.91,Default,,0,0,0,,It just so happened,\Nwhen King Romos visited Papnica,
-Dialogue: 0,0:02:42.91,0:02:47.66,Default,,0,0,0,,he spoke of Dai the Future Hero\Nand Brass the Venerable.
+Dialogue: 0,0:02:39.11,0:02:42.91,Default,,0,0,0,,It just so happened,\Nwhen King Romos visited Papunica,
+Dialogue: 0,0:02:42.91,0:02:47.66,Default,,0,0,0,,he spoke of Dai the Future Hero\Nand Burasu the Venerable.
 Dialogue: 0,0:02:47.66,0:02:52.92,Default,,0,0,0,,I see. So you would like Dai\Nto take you to the Earth Cave.
 Dialogue: 0,0:02:52.92,0:02:53.62,Default,,0,0,0,,Huh?!
 Dialogue: 0,0:02:53.62,0:02:58.80,Default,,0,0,0,,The monsters of Dermline Island\Nwill obey Dai, will they not?
@@ -118,7 +126,7 @@ Dialogue: 0,0:05:16.06,0:05:16.93,Default,,0,0,0,,Yes, sir!
 Dialogue: 0,0:05:16.93,0:05:18.63,Default,,0,0,0,,I'm going to have a look around.
 Dialogue: 0,0:05:28.05,0:05:28.78,Default,,0,0,0,,What?!
 Dialogue: 0,0:05:28.78,0:05:31.20,Default,,0,0,0,,You can have this.
-Dialogue: 0,0:05:31.20,0:05:35.33,Default,,0,0,0,,It's a distinguished knife\Nof the Papnica royal family.
+Dialogue: 0,0:05:31.20,0:05:35.33,Default,,0,0,0,,It's a distinguished knife\Nof the Papunica royal family.
 Dialogue: 0,0:05:35.33,0:05:38.77,Default,,0,0,0,,But Temjin gets mad\Nwhen I carry it around.
 Dialogue: 0,0:05:43.86,0:05:45.69,Default,,0,0,0,,This is amazing!
 Dialogue: 0,0:05:49.28,0:05:54.08,Default,,0,0,0,,If you can't use magic,\Nyou might as well have a decent weapon.
@@ -129,7 +137,7 @@ Dialogue: 0,0:06:07.78,0:06:09.80,Default,,0,0,0,,Plus it makes me feel better.
 Dialogue: 0,0:06:12.64,0:06:15.33,Default,,0,0,0,,You didn't try to spare\Nmy feelings either.
 Dialogue: 0,0:06:15.33,0:06:17.27,Default,,0,0,0,,Huh? That was...
 Dialogue: 0,0:06:17.64,0:06:18.60,Default,,0,0,0,,I guess so.
-Dialogue: 0,0:06:22.27,0:06:23.19,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Iruru!{\i0}{\3c&H00000000&}
+Dialogue: 0,0:06:22.27,0:06:23.19,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Derupa!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:06:32.20,0:06:33.39,Default,,0,0,0,,An Evil Scorpion?!
 Dialogue: 0,0:06:33.39,0:06:36.47,Default,,0,0,0,,Isn't that your friend?! Get it to leave!
 Dialogue: 0,0:06:36.47,0:06:39.75,Default,,0,0,0,,No! That's not a creature\Nfrom this island!
@@ -147,12 +155,12 @@ Dialogue: 0,0:07:43.19,0:07:44.15,Default,,0,0,0,,right there!
 Dialogue: 0,0:08:00.45,0:08:01.50,Default,,0,0,0,,Princess Leona!
 Dialogue: 0,0:08:07.00,0:08:08.81,Default,,0,0,0,,It's the Evil Scorpion's poison!
 Dialogue: 0,0:08:08.81,0:08:11.88,Default,,0,0,0,,Grampa said even\Nan Antidotal Herb can't cure it!
-Dialogue: 0,0:08:13.05,0:08:17.07,Default,,0,0,0,,Gomechan! Hurry and call Grampa Brass!
+Dialogue: 0,0:08:13.05,0:08:17.07,Default,,0,0,0,,Gomechan! Hurry and call Grampa Burasu!
 Dialogue: 0,0:08:17.07,0:08:20.39,Default,,0,0,0,,Grampa can use\Nthe cure poison spell, Kiari!
 Dialogue: 0,0:08:29.32,0:08:31.24,Default,,0,0,0,,Hang in there Princess Leona!
 Dialogue: 0,0:08:32.49,0:08:34.32,Default,,0,0,0,,She's gonna die at this rate!
 Dialogue: 0,0:08:34.61,0:08:38.45,Default,,0,0,0,,Darn it! I should've worked on\Nlearning magic harder!
-Dialogue: 0,0:08:40.70,0:08:41.91,Default,,0,0,0,,Varon!
+Dialogue: 0,0:08:40.70,0:08:41.91,Default,,0,0,0,,Baron!
 Dialogue: 0,0:08:42.25,0:08:44.83,Default,,0,0,0,,Thank goodness!\NCast Kiari on the Princess!
 Dialogue: 0,0:08:46.75,0:08:48.02,Default,,0,0,0,,A Magic Cylinder!
 Dialogue: 0,0:08:48.02,0:08:49.80,Default,,0,0,0,,Princess Leona...
@@ -169,11 +177,11 @@ Dialogue: 0,0:09:38.47,0:09:39.66,Default,,0,0,0,,What's the meaning of this?!
 Dialogue: 0,0:09:39.66,0:09:45.39,Default,,0,0,0,,If you save the Princess,\Nall of my plans will have been for naught.
 Dialogue: 0,0:09:45.73,0:09:47.20,Default,,0,0,0,,What?!
 Dialogue: 0,0:09:47.20,0:09:49.62,Default,,0,0,0,,If Princess Leona dies,
-Dialogue: 0,0:09:49.62,0:09:54.94,Default,,0,0,0,,without a successor,\NPapnica Kingdom will be mine to rule!
+Dialogue: 0,0:09:49.62,0:09:54.94,Default,,0,0,0,,without a successor,\NPapunica Kingdom will be mine to rule!
 Dialogue: 0,0:09:55.32,0:09:58.32,Default,,0,0,0,,That's why I went ahead with this ritual!
 Dialogue: 0,0:10:00.12,0:10:05.29,Default,,0,0,0,,So I could say she was killed\Nby the monsters of Dermline Island!
 Dialogue: 0,0:10:07.67,0:10:10.42,Default,,0,0,0,,You were all in on this?!
-Dialogue: 0,0:10:11.54,0:10:17.38,Default,,0,0,0,,Only these seven of my trusted servants\Nand Varon know about this.
+Dialogue: 0,0:10:11.54,0:10:17.38,Default,,0,0,0,,Only these seven of my trusted servants\Nand Baron know about this.
 Dialogue: 0,0:10:18.68,0:10:19.53,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Mera!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:10:19.53,0:10:20.68,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Mera!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:10:21.43,0:10:26.43,Default,,0,0,0,,Gome, summon everyone!\NLet's drive them off of this island!
@@ -186,19 +194,19 @@ Dialogue: 0,0:11:23.37,0:11:25.26,Default,,0,0,0,,Ah! The Killing Machine!
 Dialogue: 0,0:11:25.26,0:11:32.23,Default,,0,0,0,,Impossible! The Dark Lord created\Nthe Killing Machine to kill the Hero!
 Dialogue: 0,0:11:32.23,0:11:34.79,Default,,0,0,0,,How can it move with the Dark Lord dead?!
 Dialogue: 0,0:11:35.34,0:11:38.34,Default,,0,0,0,,{\i1}Here's your answer, old man!{\i0}
-Dialogue: 0,0:11:41.26,0:11:44.32,Default,,0,0,0,,Varon's magic power is driving it?!
+Dialogue: 0,0:11:41.26,0:11:44.32,Default,,0,0,0,,Baron's magic power is driving it?!
 Dialogue: 0,0:11:44.32,0:11:45.61,Default,,0,0,0,,That's right.
 Dialogue: 0,0:11:45.61,0:11:51.83,Default,,0,0,0,,I modified this abomination after it was\Nnothing more than junk from the last war.
 Dialogue: 0,0:11:51.83,0:11:56.54,Default,,0,0,0,,So that it could be controlled\Nby a human's will!
 Dialogue: 0,0:11:56.54,0:11:58.15,Default,,0,0,0,,How could you?!
-Dialogue: 0,0:11:58.48,0:12:03.49,Default,,0,0,0,,You're now the ultimate creature!\NWipe them out, Varon!
+Dialogue: 0,0:11:58.48,0:12:03.49,Default,,0,0,0,,You're now the ultimate creature!\NWipe them out, Baron!
 Dialogue: 0,0:12:22.42,0:12:24.28,Default,,0,0,0,,Everyone get back!
 Dialogue: 0,0:12:24.28,0:12:25.72,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Merami!{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:12:28.85,0:12:29.97,Default,,0,0,0,,Did it work?!
 Dialogue: 0,0:12:33.94,0:12:34.90,Default,,0,0,0,,{\i1}Old fool!{\i0}
 Dialogue: 0,0:12:37.61,0:12:42.19,Default,,0,0,0,,This Killing Machine was created\Nto exterminate the Hero!
 Dialogue: 0,0:12:42.82,0:12:46.87,Default,,0,0,0,,Your pitiful magic can't harm it!
-Dialogue: 0,0:12:56.13,0:12:58.59,DefaultLow,,0,0,0,,{\\i1}{\\3c&H1717E4&}IRURUR{\\i0}{\\3c&H00000000&}/{\\i1}{\\3c&H1717E4&}DERUPA{\\i0}{\\3c&H00000000&}
+Dialogue: 0,0:12:56.13,0:12:58.59,DefaultLow,,0,0,0,,{\\i1}{\\3c&H1717E4&}IRURU{\\i0}{\\3c&H00000000&}/{\\i1}{\\3c&H1717E4&}DERUPA{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:13:01.09,0:13:03.59,DefaultLow,,0,0,0,,{\i1}{\3c&H1717E4&}IO{\i0}{\3c&H00000000&}\NEXPLOSION-TYPE SPELL
 Dialogue: 0,0:13:05.13,0:13:06.26,Default,,0,0,0,,Dai...
 Dialogue: 0,0:13:08.14,0:13:09.39,Default,,0,0,0,,Princess Leona!
@@ -228,7 +236,7 @@ Dialogue: 0,0:14:58.21,0:14:59.56,Default,,0,0,0,,This is goodbye!
 Dialogue: 0,0:14:59.56,0:15:00.71,Default,,0,0,0,,Stop!
 Dialogue: 0,0:15:01.79,0:15:02.92,Default,,0,0,0,,Grampa!
 Dialogue: 0,0:15:03.29,0:15:04.13,Default,,0,0,0,,Dai?!
-Dialogue: 0,0:15:07.01,0:15:09.74,Default,,0,0,0,,Varon, the Princess still lives!
+Dialogue: 0,0:15:07.01,0:15:09.74,Default,,0,0,0,,Baron, the Princess still lives!
 Dialogue: 0,0:15:09.74,0:15:10.80,Default,,0,0,0,,That little brat!
 Dialogue: 0,0:15:12.76,0:15:14.22,Default,,0,0,0,,What is that?!
 Dialogue: 0,0:15:14.51,0:15:15.93,Default,,0,0,0,,{\i1}Die!{\i0}
@@ -237,7 +245,7 @@ Dialogue: 0,0:15:26.04,0:15:27.54,Default,,0,0,0,,I can't Grampa!
 Dialogue: 0,0:15:27.54,0:15:31.17,Default,,0,0,0,,The poison has already\Nspread through her body!
 Dialogue: 0,0:15:31.17,0:15:34.03,Default,,0,0,0,,She needs a Kiari spell or she'll die!
 Dialogue: 0,0:15:34.33,0:15:35.47,Default,,0,0,0,,What?!
-Dialogue: 0,0:15:35.47,0:15:39.12,Default,,0,0,0,,Varon, hurry and kill that old man!
+Dialogue: 0,0:15:35.47,0:15:39.12,Default,,0,0,0,,Baron, hurry and kill that old man!
 Dialogue: 0,0:15:39.79,0:15:43.75,Default,,0,0,0,,That way no one will be able\Nto save the Princess!
 Dialogue: 0,0:15:46.96,0:15:47.92,Default,,0,0,0,,Grampa!
 Dialogue: 0,0:15:48.26,0:15:51.51,Default,,0,0,0,,The Princess is sure to die now!
@@ -265,22 +273,22 @@ Dialogue: 0,0:18:16.49,0:18:17.95,Default,,0,0,0,,Curse you!
 Dialogue: 0,0:18:26.21,0:18:27.62,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Begirama!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:18:42.97,0:18:47.23,Default,,0,0,0,,Why?! The Killing Machine\Nis immune to magic!
 Dialogue: 0,0:18:47.77,0:18:51.00,Default,,0,0,0,,There was a crack\Nin the Killing Machine's armour.
-Dialogue: 0,0:18:51.00,0:18:55.57,Default,,0,0,0,,The flames of the Begirama spell\Nleaked in and hit Varon.
+Dialogue: 0,0:18:51.00,0:18:55.57,Default,,0,0,0,,The flames of the Begirama spell\Nleaked in and hit Baron.
 Dialogue: 0,0:19:00.28,0:19:01.16,Default,,0,0,0,,Grampa!
 Dialogue: 0,0:19:01.49,0:19:02.22,Default,,0,0,0,,Help Leona!
 Dialogue: 0,0:19:02.22,0:19:03.33,Default,,0,0,0,,R-Right!
-Dialogue: 0,0:19:05.12,0:19:06.93,Default,,0,0,0,,Bishop Temjin!
+Dialogue: 0,0:19:05.12,0:19:06.93,Default,,0,0,0,,Bishop Temujin!
 Dialogue: 0,0:19:06.93,0:19:09.25,Default,,0,0,0,,What is going on?!
 Dialogue: 0,0:19:10.67,0:19:12.85,Default,,0,0,0,,Tell them the truth!
 Dialogue: 0,0:19:12.85,0:19:13.96,Default,,0,0,0,,You brat...
 Dialogue: 0,0:19:15.25,0:19:17.65,Default,,0,0,0,,Everyone! This boy took the Princess...
-Dialogue: 0,0:19:17.65,0:19:20.01,Default,,0,0,0,,What about me, Temjin?
+Dialogue: 0,0:19:17.65,0:19:20.01,Default,,0,0,0,,What about me, Temujin?
 Dialogue: 0,0:19:24.64,0:19:26.43,Default,,0,0,0,,Are you alright, Princess?!
 Dialogue: 0,0:19:29.27,0:19:32.75,Default,,0,0,0,,If you have something to say, say it.
 Dialogue: 0,0:19:32.75,0:19:35.11,Default,,0,0,0,,It'll make you feel better.
-Dialogue: 0,0:19:35.90,0:19:38.74,Default,,0,0,0,,Let a judge at Papnica hear it, too.
+Dialogue: 0,0:19:35.90,0:19:38.74,Default,,0,0,0,,Let a judge at Papunica hear it, too.
 Dialogue: 0,0:19:45.41,0:19:46.80,Default,,0,0,0,,Earth God,
-Dialogue: 0,0:19:46.80,0:19:51.02,Default,,0,0,0,,I, Leona, priestess\Nand successor of Papnica Kingdom
+Dialogue: 0,0:19:46.80,0:19:51.02,Default,,0,0,0,,I, Leona, priestess\Nand successor of Papunica Kingdom
 Dialogue: 0,0:19:51.02,0:19:53.64,Default,,0,0,0,,come before you to be purified.
 Dialogue: 0,0:19:53.64,0:19:56.81,Default,,0,0,0,,So Leona really is a Princess.
 Dialogue: 0,0:19:56.81,0:19:58.38,Default,,0,0,0,,Be quiet!
@@ -289,7 +297,7 @@ Dialogue: 0,0:20:13.10,0:20:16.42,Default,,0,0,0,,Thank you, Dai. You saved my l
 Dialogue: 0,0:20:16.42,0:20:19.38,Default,,0,0,0,,I'm glad you're okay, Princess Leona.
 Dialogue: 0,0:20:19.38,0:20:22.20,Default,,0,0,0,,Have you gained some confidence in magic?
 Dialogue: 0,0:20:23.32,0:20:24.20,Default,,0,0,0,,I guess so.
-Dialogue: 0,0:20:24.57,0:20:28.55,Default,,0,0,0,,When you eventually become a Hero,\Ncome to Papnica.
+Dialogue: 0,0:20:24.57,0:20:28.55,Default,,0,0,0,,When you eventually become a Hero,\Ncome to Papunica.
 Dialogue: 0,0:20:28.55,0:20:31.68,Default,,0,0,0,,I'll let you be my bodyguard or something.
 Dialogue: 0,0:20:31.68,0:20:34.46,Default,,0,0,0,,Uh... No thanks!
 Dialogue: 0,0:20:36.59,0:20:38.13,Default,,0,0,0,,Farewell, Princess!

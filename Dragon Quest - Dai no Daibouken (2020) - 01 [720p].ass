@@ -10,7 +10,14 @@ WrapStyle: 0
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-
+Audio File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 01 [720p].mkv
+Video File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 01 [720p].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Rura Percent: 0.500000
+Scroll Position: 279
+Active Line: 215
+Video Position: 25669
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,7 +29,7 @@ Style: DefaultLow,Arial,40,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:22.12,0:00:23.46,Default,,0,0,0,,Come on, Hadlar!
+Dialogue: 0,0:00:22.12,0:00:23.46,Default,,0,0,0,,Come on, Hadorra!
 Dialogue: 0,0:00:26.00,0:00:27.84,Default,,0,0,0,,This is the end!
 Dialogue: 0,0:00:38.51,0:00:41.31,Default,,0,0,0,,The Hero defeated the Dark Lord.
 Dialogue: 0,0:00:42.43,0:00:46.23,Default,,0,0,0,,There's no telling\Nwhat humans are capable of.
@@ -33,13 +40,13 @@ Dialogue: 0,0:03:42.36,0:03:46.05,Default,,0,0,0,,Dai, the Hero is here!\NYippee
 Dialogue: 0,0:03:46.05,0:03:48.54,Default,,0,0,0,,Defend the island's peace!
 Dialogue: 0,0:03:49.75,0:03:51.50,Default,,0,0,0,,You imbecile!
 Dialogue: 0,0:03:53.33,0:03:54.69,Default,,0,0,0,,Ouch.
-Dialogue: 0,0:03:54.69,0:03:57.29,Default,,0,0,0,,What was that for, Grampa Brass?
+Dialogue: 0,0:03:54.69,0:03:57.29,Default,,0,0,0,,What was that for, Grampa Burasu?
 Dialogue: 0,0:03:57.29,0:04:02.23,Default,,0,0,0,,If you have time to play Hero,\Nthen do your magic training!
 Dialogue: 0,0:04:02.23,0:04:03.47,Default,,0,0,0,,Aww...
 Dialogue: 0,0:04:03.80,0:04:06.95,Default,,0,0,0,,How many years has it been\Nsince I found you?
 Dialogue: 0,0:04:06.95,0:04:10.98,Default,,0,0,0,,What kind of Hero\Ncan't even learn a single spell?!
 Dialogue: 0,0:04:15.94,0:04:18.15,Default,,0,0,0,,It's so annoying, Gomechan.
-Dialogue: 0,0:04:18.65,0:04:21.82,Default,,0,0,0,,Grampa Brass is the one\Nwho told me about the Hero.
+Dialogue: 0,0:04:18.65,0:04:21.82,Default,,0,0,0,,Grampa Burasu is the one\Nwho told me about the Hero.
 Dialogue: 0,0:04:24.99,0:04:28.09,Default,,0,0,0,,There once was a swordman of justice,\Ncalled the Hero,
 Dialogue: 0,0:04:28.09,0:04:31.60,Default,,0,0,0,,who fought the Dark Lord,\Na tormentor of people.
 Dialogue: 0,0:04:31.60,0:04:36.38,Default,,0,0,0,,{\i1}The Hero, together with his companions,\Ndefeated the Dark Lord at last!{\i0}
@@ -158,8 +165,8 @@ Dialogue: 0,0:11:35.67,0:11:37.88,Default,,0,0,0,,Okay! That's Grampa for starte
 Dialogue: 0,0:11:38.42,0:11:39.26,Default,,0,0,0,,And now...
 Dialogue: 0,0:11:39.84,0:11:43.09,Default,,0,0,0,,Everyone who can still fight, come on!
 Dialogue: 0,0:11:53.44,0:11:54.40,Default,,0,0,0,,Okay!
-Dialogue: 0,0:11:58.15,0:12:00.61,DefaultLow,,0,0,0,,{\\i1}{\\3c&H1717E4&}GUSH{\\i0}{\\3c&H00000000&}/{\\i1}{\\3c&H1717E4&}GULP{\\i0}{\\3c&H00000000&}
-Dialogue: 0,0:12:03.16,0:12:05.62,DefaultLow,,0,0,0,,{\\i1}{\\3c&H1717E4&}FRIZZ{\\i0}{\\3c&H00000000&}\NFIRE-TYPE SPELL
+Dialogue: 0,0:11:58.15,0:12:00.61,DefaultLow,,0,0,0,,{\\i1}{\\3c&H1717E4&}{\i1}{\3c&H1717E4&}IRURU{\i0}{\3c&H00000000&}{\\i0}{\\3c&H00000000&}/{\\i1}{\\3c&H1717E4&}{\i1}{\3c&H1717E4&}DERUPA{\i0}{\3c&H00000000&}{\\i0}{\\3c&H00000000&}
+Dialogue: 0,0:12:03.16,0:12:05.62,DefaultLow,,0,0,0,,{\\i1}{\\3c&H1717E4&}{\i1}{\3c&H1717E4&}MERA{\i0}{\3c&H00000000&}{\\i0}{\\3c&H00000000&}\NFIRE-TYPE SPELL
 Dialogue: 0,0:12:06.28,0:12:09.41,Default,,0,0,0,,Deroline, the Hero. Raise your head.
 Dialogue: 0,0:12:09.41,0:12:10.70,Default,,0,0,0,,Your Majesty.
 Dialogue: 0,0:12:11.79,0:12:14.02,Default,,0,0,0,,So, how was Dermline Island?
@@ -256,7 +263,7 @@ Dialogue: 0,0:18:41.72,0:18:42.76,Default,,0,0,0,,Well...
 Dialogue: 0,0:18:46.85,0:18:49.81,Default,,0,0,0,,It seems as though my eyes were clouded.
 Dialogue: 0,0:18:50.23,0:18:55.78,Default,,0,0,0,,How could I let them go to Dermline Island\Nwithout realizing they were fakes?
 Dialogue: 0,0:18:55.78,0:19:01.41,Default,,0,0,0,,Dai's acts of violence were out of\Nhis wish to save his friend. Have mercy.
-Dialogue: 0,0:19:01.41,0:19:05.10,Default,,0,0,0,,Sir Brass, it is I who should\Nbeg for forgiveness.
+Dialogue: 0,0:19:01.41,0:19:05.10,Default,,0,0,0,,Sir Burasu, it is I who should\Nbeg for forgiveness.
 Dialogue: 0,0:19:05.10,0:19:06.54,Default,,0,0,0,,Bring it forward.
 Dialogue: 0,0:19:13.09,0:19:19.51,Default,,0,0,0,,Perhaps this brave child is the one truly\Nworthy of wearing this Crown of Champions.
 Dialogue: 0,0:19:22.55,0:19:25.97,Default,,0,0,0,,I bestow this to the future Hero.
@@ -290,9 +297,9 @@ Dialogue: 0,0:21:00.13,0:21:01.28,Default,,0,0,0,,Huh.
 Dialogue: 0,0:21:08.49,0:21:10.41,Default,,0,0,0,,Is that a Sage?
 Dialogue: 0,0:21:11.37,0:21:13.02,Default,,0,0,0,,Get your head down!
 Dialogue: 0,0:21:13.02,0:21:14.04,Default,,0,0,0,,Ow!
-Dialogue: 0,0:21:17.71,0:21:21.84,Default,,0,0,0,,You are Dai, the Future Hero\Nand Brass, the Venerable?
+Dialogue: 0,0:21:17.71,0:21:21.84,Default,,0,0,0,,You are Dai, the Future Hero\Nand Burasu, the Venerable?
 Dialogue: 0,0:21:22.21,0:21:23.53,Default,,0,0,0,,The Future Hero?!
-Dialogue: 0,0:21:23.53,0:21:25.13,Default,,0,0,0,,B-Brass, the Venerable?
+Dialogue: 0,0:21:23.53,0:21:25.13,Default,,0,0,0,,B-Burasu, the Venerable?
 Dialogue: 0,0:21:25.63,0:21:30.53,Default,,0,0,0,,I am Bishop Temjin of Papnica Kingdom,\Nand this is Varon, the Sage.
 Dialogue: 0,0:21:30.53,0:21:35.14,Default,,0,0,0,,We have come to this island with\NPrincess Leona of Papnica on a mission.
 Dialogue: 0,0:21:35.14,0:21:36.66,Default,,0,0,0,,The Princess?!

@@ -11,7 +11,14 @@ WrapStyle: 0
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-
+Audio File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 14 [720p].mkv
+Video File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 14 [720p].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 30
+Active Line: 45
+Video Position: 3723
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -25,9 +32,9 @@ Style: DefaultLow,Arial,40,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:13.15,0:00:19.66,Default,,0,0,0,,{\i1}A Hero. A bringer of peace\Nwho battles monsters and protects people.{\i0}
 Dialogue: 0,0:00:20.70,0:00:23.41,Default,,0,0,0,,{\i1}The young boy, Dai,\Nwas raised by monsters.{\i0}
-Dialogue: 0,0:00:23.58,0:00:28.29,Default,,0,0,0,,{\i1}He decided to fight the Dark Army\Nafter being trained by the Hero, Avan.{\i0}
+Dialogue: 0,0:00:23.58,0:00:28.29,Default,,0,0,0,,{\i1}He decided to fight the Dark Army\Nafter being trained by the Hero, Aban.{\i0}
 Dialogue: 0,0:00:29.92,0:00:35.51,Default,,0,0,0,,{\i1}Traveling with Popp, the Mage, they were\Nlater joined by Maam, a Warrior Priest.{\i0}
-Dialogue: 0,0:00:36.39,0:00:42.56,Default,,0,0,0,,{\i1}Monsters of the Dark Lord Hadlar's Six\NLegions attacked these Disciples of Avan.{\i0}
+Dialogue: 0,0:00:36.39,0:00:42.56,Default,,0,0,0,,{\i1}Monsters of the Dark Lord Hadorra's Six\NLegions attacked these Disciples of Aban.{\i0}
 Dialogue: 0,0:00:43.81,0:00:46.98,Default,,0,0,0,,{\i1}They defeated Crocodine\Nof the Furfang Legion,{\i0}
 Dialogue: 0,0:00:47.48,0:00:50.27,Default,,0,0,0,,{\i1}and were victorious against\NHyunckel of the Undead Legion.{\i0}
 Dialogue: 0,0:00:53.49,0:00:55.78,Default,,0,0,0,,{\i1}Dai continues on the path of a Hero.{\i0}
@@ -87,14 +94,14 @@ Dialogue: 0,0:03:48.54,0:03:49.45,Default,,0,0,0,,Popp?
 Dialogue: 0,0:03:49.62,0:03:53.62,Default,,0,0,0,,He was even Undead Legion Commander.\NHe wouldn't die so easily.
 Dialogue: 0,0:03:54.04,0:03:56.92,Default,,0,0,0,,You're right. Thank you, Popp.
 Dialogue: 0,0:03:57.09,0:03:58.50,Default,,0,0,0,,Uh, sure.
-Dialogue: 0,0:03:58.92,0:04:03.30,Default,,0,0,0,,He must be alive.\NHe was a Disciple of Avan, after all.
+Dialogue: 0,0:03:58.92,0:04:03.30,Default,,0,0,0,,He must be alive.\NHe was a Disciple of Aban, after all.
 Dialogue: 0,0:04:03.68,0:04:06.14,Default,,0,0,0,,{\i1}Oh man! What the hell am I doing?!{\i0}
 Dialogue: 0,0:04:06.30,0:04:09.47,Default,,0,0,0,,{\i1}Here I am, talking up my rival\Nfor some reason!{\i0}
 Dialogue: 0,0:04:10.43,0:04:12.02,Default,,0,0,0,,Ow!
 Dialogue: 0,0:04:12.85,0:04:14.10,Default,,0,0,0,,Finished!
 Dialogue: 0,0:04:16.48,0:04:19.90,Default,,0,0,0,,Wow, it's like new! Amazing!
-Dialogue: 0,0:04:21.03,0:04:25.20,Default,,0,0,0,,They used to call me\Nthe Papnica Inventor King!
-Dialogue: 0,0:04:25.57,0:04:29.54,Default,,0,0,0,,What happened to being\N"the greatest swordsman in Papnica"?
+Dialogue: 0,0:04:21.03,0:04:25.20,Default,,0,0,0,,They used to call me\Nthe Papunica Inventor King!
+Dialogue: 0,0:04:25.57,0:04:29.54,Default,,0,0,0,,What happened to being\N"the greatest swordsman in Papunica"?
 Dialogue: 0,0:04:29.99,0:04:33.87,Default,,0,0,0,,Now we're all set! Let's go rescue Leona!
 Dialogue: 0,0:04:34.04,0:04:37.79,Default,,0,0,0,,The problem is just where is the Princess?
 Dialogue: 0,0:04:38.17,0:04:40.63,Default,,0,0,0,,He's right. She's missing, isn't she?
@@ -112,7 +119,7 @@ Dialogue: 0,0:05:16.25,0:05:17.88,Default,,0,0,0,,This won't be easy.
 Dialogue: 0,0:05:18.54,0:05:21.13,Default,,0,0,0,,What's in that warehouse?
 Dialogue: 0,0:05:21.30,0:05:22.80,Default,,0,0,0,,Signal flares!
 Dialogue: 0,0:05:23.80,0:05:25.13,Default,,0,0,0,,Signal flares?
-Dialogue: 0,0:05:25.88,0:05:32.31,Default,,0,0,0,,Papnica has flares that use\Ngunpowder to send signals during battle.
+Dialogue: 0,0:05:25.88,0:05:32.31,Default,,0,0,0,,Papunica has flares that use\Ngunpowder to send signals during battle.
 Dialogue: 0,0:05:32.68,0:05:34.10,Default,,0,0,0,,Huh. With gunpowder?
 Dialogue: 0,0:05:34.27,0:05:40.81,Default,,0,0,0,,If we find and launch one, the Princess\Nis sure to see it wherever she is.
 Dialogue: 0,0:05:41.23,0:05:42.32,Default,,0,0,0,,I see.
@@ -130,7 +137,7 @@ Dialogue: 0,0:06:20.31,0:06:24.90,Default,,0,0,0,,Since I told him he beat Hyunc
 Dialogue: 0,0:06:25.69,0:06:29.91,Default,,0,0,0,,{\i1}Let's test out whether I can\Nuse that skill or not!{\i0}
 Dialogue: 0,0:06:32.03,0:06:33.20,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Mera!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:06:36.45,0:06:38.46,Default,,0,0,0,,You moron! Don't!
-Dialogue: 0,0:06:39.92,0:06:42.29,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Fire Earth Slash!{\i0}{\3c&H00000000&}
+Dialogue: 0,0:06:39.92,0:06:42.29,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Fire Earth Slash!{\3c&H00000000&}{\i0}
 Dialogue: 0,0:06:51.64,0:06:54.47,Default,,0,0,0,,Yes! I really did it!
 Dialogue: 0,0:06:55.06,0:06:58.77,Default,,0,0,0,,You moron! Of all the attacks to use!
 Dialogue: 0,0:06:58.93,0:07:01.94,Default,,0,0,0,,There's gunpowder down there! Gunpowder!
@@ -151,7 +158,7 @@ Dialogue: 0,0:08:13.55,0:08:15.39,Default,,0,0,0,,It's not a bird.
 Dialogue: 0,0:08:15.55,0:08:16.35,Default,,0,0,0,,Is it a monster?!
 Dialogue: 0,0:08:16.51,0:08:17.85,Default,,0,0,0,,No, that's...!
 Dialogue: 0,0:08:19.60,0:08:21.85,Default,,0,0,0,,That's...
-Dialogue: 0,0:08:22.02,0:08:23.94,Default,,0,0,0,,The Papnica Balloon Ship!
+Dialogue: 0,0:08:22.02,0:08:23.94,Default,,0,0,0,,The Papunica Balloon Ship!
 Dialogue: 0,0:08:24.10,0:08:25.15,Default,,0,0,0,,Balloon Ship?
 Dialogue: 0,0:08:25.31,0:08:29.86,Default,,0,0,0,,It's a vehicle that travels by air!\NThe royal family uses it!
 Dialogue: 0,0:08:30.03,0:08:31.07,Default,,0,0,0,,What?!
@@ -167,9 +174,9 @@ Dialogue: 0,0:09:01.43,0:09:02.73,Default,,0,0,0,,Lady Amy!
 Dialogue: 0,0:09:02.89,0:09:06.85,Default,,0,0,0,,Baduck, did you send up those flares?
 Dialogue: 0,0:09:07.44,0:09:11.44,Default,,0,0,0,,You know her, old timer?\NIntroduce me, will you?
 Dialogue: 0,0:09:11.98,0:09:13.69,Default,,0,0,0,,Fool! Show some respect!
-Dialogue: 0,0:09:14.40,0:09:18.53,Default,,0,0,0,,This is Lady Amy,\None of the Papnica Troika!
+Dialogue: 0,0:09:14.40,0:09:18.53,Default,,0,0,0,,This is Lady Amy,\None of the Papunica Troika!
 Dialogue: 0,0:09:18.99,0:09:23.12,Default,,0,0,0,,A woman that young? I was thinking...
-Dialogue: 0,0:09:23.29,0:09:25.91,Default,,0,0,0,,We're the Papnica Troika!
+Dialogue: 0,0:09:23.29,0:09:25.91,Default,,0,0,0,,We're the Papunica Troika!
 Dialogue: 0,0:09:26.67,0:09:30.84,Default,,0,0,0,,Those strange flares went up,\Nso we came to check it out.
 Dialogue: 0,0:09:31.09,0:09:33.88,Default,,0,0,0,,I left the Princess with Apollo and Marin.
 Dialogue: 0,0:09:34.05,0:09:39.22,Default,,0,0,0,,By Princess, you mean Leona, right?!\NIs she okay?! Where is she?!
@@ -182,7 +189,7 @@ Dialogue: 0,0:09:59.53,0:10:01.33,Default,,0,0,0,,You can all rest easy.
 Dialogue: 0,0:10:01.66,0:10:02.53,Default,,0,0,0,,What?!
 Dialogue: 0,0:10:02.70,0:10:04.66,Default,,0,0,0,,Vanquished the Undead Legion?!
 Dialogue: 0,0:10:04.83,0:10:07.92,Default,,0,0,0,,Are you really Dai, the Hero?
-Dialogue: 0,0:10:15.13,0:10:18.68,Default,,0,0,0,,This is a weapon\Nof the Papnica royal family!
+Dialogue: 0,0:10:15.13,0:10:18.68,Default,,0,0,0,,This is a weapon\Nof the Papunica royal family!
 Dialogue: 0,0:10:20.09,0:10:24.10,Default,,0,0,0,,Leona gave it to me. It's my treasure!
 Dialogue: 0,0:10:26.81,0:10:28.98,Default,,0,0,0,,I understand. Come with us.
 Dialogue: 0,0:10:29.14,0:10:31.31,Default,,0,0,0,,The Princess waits at Valge Island.
@@ -190,7 +197,7 @@ Dialogue: 0,0:10:31.48,0:10:35.03,Default,,0,0,0,,Valge Island?! The Princess is
 Dialogue: 0,0:10:42.07,0:10:43.08,Default,,0,0,0,,Wow!
 Dialogue: 0,0:10:43.24,0:10:44.62,Default,,0,0,0,,Holy cow!
 Dialogue: 0,0:10:45.16,0:10:46.66,Default,,0,0,0,,This thing is amazing!
-Dialogue: 0,0:10:48.04,0:10:52.58,Default,,0,0,0,,Of course.\NIt's the only Balloon Ship in Papnica.
+Dialogue: 0,0:10:48.04,0:10:52.58,Default,,0,0,0,,Of course.\NIt's the only Balloon Ship in Papunica.
 Dialogue: 0,0:10:52.75,0:10:55.50,Default,,0,0,0,,Man, what a surprise.
 Dialogue: 0,0:10:55.67,0:11:01.55,Default,,0,0,0,,When you came from the sky,\NI thought you were the Princess, Miss Amy.
 Dialogue: 0,0:11:01.72,0:11:07.81,Default,,0,0,0,,Oh no. The Princess is far more beautiful\Nthan I could ever hope to be.
@@ -288,7 +295,7 @@ Dialogue: 0,0:16:28.50,0:16:29.46,Default,,0,0,0,,Curse you!
 Dialogue: 0,0:16:34.80,0:16:37.89,Default,,0,0,0,,One was burned and one was frozen...
 Dialogue: 0,0:16:38.85,0:16:43.10,Default,,0,0,0,,He can control both heat and cold?
 Dialogue: 0,0:16:43.52,0:16:45.52,Default,,0,0,0,,Time to die now.
-Dialogue: 0,0:16:46.40,0:16:50.19,Default,,0,0,0,,Today the Papnica royal family dies out!
+Dialogue: 0,0:16:46.40,0:16:50.19,Default,,0,0,0,,Today the Papunica royal family dies out!
 Dialogue: 0,0:16:50.36,0:16:51.53,Default,,0,0,0,,Don't be ridiculous!
 Dialogue: 0,0:16:51.69,0:16:54.53,Default,,0,0,0,,We won't let you lay a finger\Non the Princess!
 Dialogue: 0,0:16:54.70,0:16:56.20,Default,,0,0,0,,Die, monster!
@@ -299,7 +306,7 @@ Dialogue: 0,0:17:18.80,0:17:20.10,Default,,0,0,0,,The temperature difference.
 Dialogue: 0,0:17:20.26,0:17:24.81,Default,,0,0,0,,The rapid temperature difference of\Nthe flames and ice weakened their armour!
 Dialogue: 0,0:17:24.98,0:17:26.35,Default,,0,0,0,,Hmm?
 Dialogue: 0,0:17:26.52,0:17:30.15,Default,,0,0,0,,Looks like we got at least one guy\Nwith some brains.
-Dialogue: 0,0:17:30.32,0:17:33.94,Default,,0,0,0,,I am Apollo of the Papnica Troika!
+Dialogue: 0,0:17:30.32,0:17:33.94,Default,,0,0,0,,I am Apollo of the Papunica Troika!
 Dialogue: 0,0:17:34.11,0:17:36.11,Default,,0,0,0,,And I am Marin!
 Dialogue: 0,0:17:36.95,0:17:39.91,Default,,0,0,0,,We shall protect the Princess\Nwith our lives!
 Dialogue: 0,0:17:40.08,0:17:42.20,Default,,0,0,0,,Ooh. Good for you.
@@ -342,7 +349,7 @@ Dialogue: 0,0:20:29.50,0:20:30.95,Default,,0,0,0,,Can you land on the roof?!
 Dialogue: 0,0:20:31.12,0:20:32.21,Default,,0,0,0,,Yes, my lady!
 Dialogue: 0,0:20:32.71,0:20:34.08,Default,,0,0,0,,{\i1}Leona...{\i0}
 Dialogue: 0,0:20:35.25,0:20:36.46,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Hyado!{\i0}{\3c&H00000000&}
-Dialogue: 0,0:20:41.72,0:20:44.01,Default,,0,0,0,,So much for Papnica.
+Dialogue: 0,0:20:41.72,0:20:44.01,Default,,0,0,0,,So much for Papunica.
 Dialogue: 0,0:20:44.43,0:20:48.72,Default,,0,0,0,,When the survivors hear of your death,\Nthey'll all lose hope.
 Dialogue: 0,0:20:48.89,0:20:53.81,Default,,0,0,0,,I'm sure they'll never think of\Nopposing the Dark Army again.
 Dialogue: 0,0:20:54.19,0:20:58.82,Default,,0,0,0,,Don't assume humans are like you monsters!

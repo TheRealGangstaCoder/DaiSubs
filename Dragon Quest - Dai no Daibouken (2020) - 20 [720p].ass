@@ -11,7 +11,14 @@ WrapStyle: 0
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-
+Audio File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 20 [720p].mkv
+Video File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 20 [720p].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 140
+Active Line: 164
+Video Position: 16399
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -66,15 +73,15 @@ Dialogue: 0,0:02:01.72,0:02:03.14,Default,,0,0,0,,{\i1}And this...{\i0}
 Dialogue: 0,0:02:03.14,0:02:05.68,Default,,0,0,0,,That is due to Dark Aura.
 Dialogue: 0,0:02:06.02,0:02:13.07,Default,,0,0,0,,I see. You used your Dark Aura power\Nto resurrect me.
 Dialogue: 0,0:02:14.07,0:02:17.40,Default,,0,0,0,,Is my body even more powerful than before?
-Dialogue: 0,0:02:17.90,0:02:22.32,Default,,0,0,0,,That is the secret of the body\NKing Vearn has bestowed you with.
+Dialogue: 0,0:02:17.90,0:02:22.32,Default,,0,0,0,,That is the secret of the body\NKing Ban has bestowed you with.
 Dialogue: 0,0:02:22.83,0:02:24.54,Default,,0,0,0,,Should you die,
-Dialogue: 0,0:02:24.54,0:02:29.94,Default,,0,0,0,,so long as the Dark Aura of King Vearn\Nor myself remains, you can be resurrected.
+Dialogue: 0,0:02:24.54,0:02:29.94,Default,,0,0,0,,so long as the Dark Aura of King Ban\Nor myself remains, you can be resurrected.
 Dialogue: 0,0:02:29.94,0:02:33.63,Default,,0,0,0,,And with far greater power than before.
 Dialogue: 0,0:02:33.63,0:02:36.26,Default,,0,0,0,,Is that why you were placed under me?
-Dialogue: 0,0:02:36.63,0:02:42.31,Default,,0,0,0,,Hadlar, your body belongs\Nto the almighty King Vearn.
+Dialogue: 0,0:02:36.63,0:02:42.31,Default,,0,0,0,,Hadorra, your body belongs\Nto the almighty King Ban.
 Dialogue: 0,0:02:42.31,0:02:45.22,Default,,0,0,0,,You can no longer choose your own death.
 Dialogue: 0,0:02:45.60,0:02:49.65,Default,,0,0,0,,{\i1}Should you die, you will return\Nonly to fight on.{\i0}
-Dialogue: 0,0:02:49.65,0:02:53.23,Default,,0,0,0,,{\i1}For your master, King Vearn.{\i0}
+Dialogue: 0,0:02:49.65,0:02:53.23,Default,,0,0,0,,{\i1}For your master, King Ban.{\i0}
 Dialogue: 0,0:02:53.69,0:02:55.65,Default,,0,0,0,,Gladly.
 Dialogue: 0,0:02:56.73,0:02:58.11,Default,,0,0,0,,Where are you going?
 Dialogue: 0,0:02:58.11,0:03:00.24,Default,,0,0,0,,Back to the battlefield.
@@ -96,8 +103,8 @@ Dialogue: 0,0:04:01.34,0:04:04.76,Default,,0,0,0,,I'll pulverize him\Nso he can'
 Dialogue: 0,0:04:05.51,0:04:06.97,Default,,0,0,0,,Wait! Please don't!
 Dialogue: 0,0:04:07.97,0:04:08.93,Default,,0,0,0,,Prepare yourself!
 Dialogue: 0,0:04:17.69,0:04:18.86,Default,,0,0,0,,The Shadow Vizier...
-Dialogue: 0,0:04:19.15,0:04:20.73,Default,,0,0,0,,Mystvearn!
-Dialogue: 0,0:04:21.78,0:04:25.07,Default,,0,0,0,,Mystvearn, you've gotta help me! Please!
+Dialogue: 0,0:04:19.15,0:04:20.73,Default,,0,0,0,,Mystban!
+Dialogue: 0,0:04:21.78,0:04:25.07,Default,,0,0,0,,Mystban, you've gotta help me! Please!
 Dialogue: 0,0:04:25.07,0:04:29.83,Default,,0,0,0,,I can't just die like this! Do something!
 Dialogue: 0,0:04:38.34,0:04:40.13,Default,,0,0,0,,What the hell is that?
 Dialogue: 0,0:04:40.50,0:04:44.43,Default,,0,0,0,,The ultimate armour of my Shadow Legion.
@@ -112,7 +119,7 @@ Dialogue: 0,0:05:15.96,0:05:17.46,Default,,0,0,0,,Do it!
 Dialogue: 0,0:05:53.49,0:05:56.21,Default,,0,0,0,,The power! The power is overwhelming!
 Dialogue: 0,0:05:57.04,0:05:59.54,Default,,0,0,0,,Such unbelievable, extraordinary power!
 Dialogue: 0,0:06:00.08,0:06:02.50,Default,,0,0,0,,This is amazing!
-Dialogue: 0,0:06:02.50,0:06:05.76,Default,,0,0,0,,Stand back! I am\Nthe great swordsman of Papnica...
+Dialogue: 0,0:06:02.50,0:06:05.76,Default,,0,0,0,,Stand back! I am\Nthe great swordsman of Papunica...
 Dialogue: 0,0:06:08.43,0:06:10.01,Default,,0,0,0,,W-What is that?!
 Dialogue: 0,0:06:10.55,0:06:12.39,Default,,0,0,0,,Baduck! Gomechan!
 Dialogue: 0,0:06:12.39,0:06:16.93,Default,,0,0,0,,Oh no! They chose\Nthe worst time to show up!
@@ -143,7 +150,7 @@ Dialogue: 0,0:08:06.42,0:08:07.42,Default,,0,0,0,,Why you...!
 Dialogue: 0,0:08:10.88,0:08:14.26,Default,,0,0,0,,He's reading the movements\Nof all those powerful attacks!
 Dialogue: 0,0:08:14.26,0:08:16.64,Default,,0,0,0,,And with his eyes closed!
 Dialogue: 0,0:08:16.64,0:08:17.97,Default,,0,0,0,,It's complete.
-Dialogue: 0,0:08:19.97,0:08:25.57,Default,,0,0,0,,By obtaining Air Slash, Dai's completed\Nhis Avan Style Sword Technique.
+Dialogue: 0,0:08:19.97,0:08:25.57,Default,,0,0,0,,By obtaining Air Slash, Dai's completed\Nhis Aban Style Sword Technique.
 Dialogue: 0,0:08:25.57,0:08:29.48,Default,,0,0,0,,It means that super attack\Nis also complete.
 Dialogue: 0,0:08:29.48,0:08:31.69,Default,,0,0,0,,By super attack, you mean...?!
 Dialogue: 0,0:08:32.15,0:08:35.66,Default,,0,0,0,,Dai subconsciously understands\Nits destructive power.
@@ -160,13 +167,13 @@ Dialogue: 0,0:09:10.27,0:09:12.78,Default,,0,0,0,,{\i1}And slice everything...{\
 Dialogue: 0,0:09:12.78,0:09:14.78,Default,,0,0,0,,{\i1}I was able to do Air Slash.{\i0}
 Dialogue: 0,0:09:15.28,0:09:19.70,Default,,0,0,0,,{\i1}I know... I know I can slice everything!{\i0}
 Dialogue: 0,0:09:21.62,0:09:22.54,Default,,0,0,0,,Here it comes!
-Dialogue: 0,0:09:25.62,0:09:27.83,Default,,0,0,0,,Watch me, Master Avan!
+Dialogue: 0,0:09:25.62,0:09:27.83,Default,,0,0,0,,Watch me, Master Aban!
 Dialogue: 0,0:09:28.46,0:09:30.88,Default,,0,0,0,,This is... This is a true...
-Dialogue: 0,0:09:31.25,0:09:34.17,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Avan Strash!{\i0}{\3c&H00000000&}
+Dialogue: 0,0:09:31.25,0:09:34.17,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Aban Strash!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:09:35.63,0:09:37.13,Default,,0,0,0,,He did it!
 Dialogue: 0,0:09:39.89,0:09:41.60,Default,,0,0,0,,Magnificent.
-Dialogue: 0,0:09:44.10,0:09:49.32,Default,,0,0,0,,Oh wow! So that's the power\Nof the complete Avan Strash!
-Dialogue: 0,0:09:49.32,0:09:53.86,Default,,0,0,0,,It rivals Avan, no,\Nit might be even more powerful.
+Dialogue: 0,0:09:44.10,0:09:49.32,Default,,0,0,0,,Oh wow! So that's the power\Nof the complete Aban Strash!
+Dialogue: 0,0:09:49.32,0:09:53.86,Default,,0,0,0,,It rivals Aban, no,\Nit might be even more powerful.
 Dialogue: 0,0:09:53.86,0:09:55.15,Default,,0,0,0,,Well done.
 Dialogue: 0,0:09:57.28,0:09:58.49,Default,,0,0,0,,Dai!
 Dialogue: 0,0:10:07.04,0:10:10.75,Default,,0,0,0,,Y-You lied to me, you bastard!
@@ -177,7 +184,7 @@ Dialogue: 0,0:10:21.51,0:10:26.06,Default,,0,0,0,,it merely means your foe's att
 Dialogue: 0,0:10:26.06,0:10:29.48,Default,,0,0,0,,Please! Give me another chance!
 Dialogue: 0,0:10:29.48,0:10:30.40,Default,,0,0,0,,Mystvear--
 Dialogue: 0,0:10:35.57,0:10:39.03,Default,,0,0,0,,Who does such a thing to their own ally?
-Dialogue: 0,0:10:39.70,0:10:45.49,Default,,0,0,0,,{\i1}Did Mystvearn use Flazzard\Nto test Dai's strength?{\i0}
+Dialogue: 0,0:10:39.70,0:10:45.49,Default,,0,0,0,,{\i1}Did Mystban use Flazzard\Nto test Dai's strength?{\i0}
 Dialogue: 0,0:10:46.04,0:10:50.79,Default,,0,0,0,,{\i1}It looks like he's truly\Nthe most dangerous among the Dark Army.{\i0}
 Dialogue: 0,0:10:51.33,0:10:54.09,Default,,0,0,0,,Let's hurry! To the Princess in the tower!
 Dialogue: 0,0:10:54.09,0:10:55.88,Default,,0,0,0,,Oh! That's right!
@@ -186,8 +193,8 @@ Dialogue: 0,0:11:00.63,0:11:06.02,Default,,0,0,0,,He was a right bastard, but th
 Dialogue: 0,0:11:06.56,0:11:09.52,Default,,0,0,0,,Should we gather the fragments\Nand make a grave?
 Dialogue: 0,0:11:09.52,0:11:10.85,Default,,0,0,0,,No need.
 Dialogue: 0,0:11:12.90,0:11:16.11,Default,,0,0,0,,That's his gravestone.
-Dialogue: 0,0:11:19.11,0:11:21.57,DefaultLow,,0,0,0,,{\i1}{\3c&H1717E4&}AVAN STRASH{\i0}{\3c&H00000000&}
-Dialogue: 0,0:11:23.95,0:11:26.58,DefaultLow,,0,0,0,,{\i1}{\3c&H1717E4&}DARK PUPPETRY AURA HAND{\i0}{\3c&H00000000&}
+Dialogue: 0,0:11:19.11,0:11:21.57,DefaultLow,,0,0,0,,{\i1}{\3c&H1717E4&}ABAN STRASH{\i0}{\3c&H00000000&}
+Dialogue: 0,0:11:23.95,0:11:26.58,DefaultLow,,0,0,0,,{\i1}{\3c&H1717E4&}TOMAKUGUTSOSHO{\i0}{\3c&H00000000&}
 Dialogue: 0,0:11:29.87,0:11:31.54,Default,,0,0,0,,Huh?! Why?!
 Dialogue: 0,0:11:31.54,0:11:33.54,Default,,0,0,0,,What's the meaning of this?!
 Dialogue: 0,0:11:33.96,0:11:36.67,Default,,0,0,0,,It hasn't melted at all!
@@ -216,7 +223,7 @@ Dialogue: 0,0:12:48.58,0:12:51.58,Default,,0,0,0,,I've never charged\Nmore that 
 Dialogue: 0,0:12:51.95,0:12:55.83,Default,,0,0,0,,If you do that,\Nyour Magic Bullet Gun might break!
 Dialogue: 0,0:12:56.33,0:13:00.59,Default,,0,0,0,,What are you talking about?!\NThis is the Princess' life here!
 Dialogue: 0,0:13:00.59,0:13:03.59,Default,,0,0,0,,The Magic Bullet Gun isn't just some item!
-Dialogue: 0,0:13:04.55,0:13:08.68,Default,,0,0,0,,Master Avan made it.\NIt's all that's left of him!
+Dialogue: 0,0:13:04.55,0:13:08.68,Default,,0,0,0,,Master Aban made it.\NIt's all that's left of him!
 Dialogue: 0,0:13:11.81,0:13:12.73,Default,,0,0,0,,Let's try it.
 Dialogue: 0,0:13:13.56,0:13:17.52,Default,,0,0,0,,Master said this weapon\Nwas for helping people.
 Dialogue: 0,0:13:18.02,0:13:22.23,Default,,0,0,0,,I'm sure he made it for times like this!
@@ -256,7 +263,7 @@ Dialogue: 0,0:15:33.03,0:15:35.96,Default,,0,0,0,,Okay! The food's ready!
 Dialogue: 0,0:15:35.96,0:15:36.83,Default,,0,0,0,,Where does this...
 Dialogue: 0,0:15:36.83,0:15:40.37,Default,,0,0,0,,A feast! A victory feast!
 Dialogue: 0,0:15:40.79,0:15:43.46,Default,,0,0,0,,Food goes there! Fruits over there!
-Dialogue: 0,0:15:43.46,0:15:47.97,Default,,0,0,0,,The Papnica soldiers who were scattered\Nhave begun to gather.
+Dialogue: 0,0:15:43.46,0:15:47.97,Default,,0,0,0,,The Papunica soldiers who were scattered\Nhave begun to gather.
 Dialogue: 0,0:15:47.97,0:15:51.51,Default,,0,0,0,,They heard you rescued the Princess.
 Dialogue: 0,0:15:52.55,0:15:57.31,Default,,0,0,0,,You really saved us by fixing\Nthe Balloon Ship and coming for us.
 Dialogue: 0,0:15:57.97,0:15:59.77,Default,,0,0,0,,-Princess!\N-The Princess!
@@ -271,12 +278,12 @@ Dialogue: 0,0:16:31.14,0:16:32.63,Default,,0,0,0,,Try to read the room!
 Dialogue: 0,0:16:32.93,0:16:34.97,Default,,0,0,0,,Huh? Huh?!
 Dialogue: 0,0:16:36.85,0:16:38.81,Default,,0,0,0,,Cheers!
 Dialogue: 0,0:16:39.64,0:16:42.81,Default,,0,0,0,,You have all fought bravely.
-Dialogue: 0,0:16:43.19,0:16:46.40,Default,,0,0,0,,Especially Dai and the other\NDisciples of Avan.
+Dialogue: 0,0:16:43.19,0:16:46.40,Default,,0,0,0,,Especially Dai and the other\NDisciples of Aban.
 Dialogue: 0,0:16:46.40,0:16:48.27,Default,,0,0,0,,No words can express our gratitude.
-Dialogue: 0,0:16:50.03,0:16:56.82,Default,,0,0,0,,My father was right to send\NMaster Avan as a Hero's Tutor.
-Dialogue: 0,0:16:56.82,0:17:02.88,Default,,0,0,0,,The King of Papnica was killed\Nduring the Dark Army's attack.
+Dialogue: 0,0:16:50.03,0:16:56.82,Default,,0,0,0,,My father was right to send\NMaster Aban as a Hero's Tutor.
+Dialogue: 0,0:16:56.82,0:17:02.88,Default,,0,0,0,,The King of Papunica was killed\Nduring the Dark Army's attack.
 Dialogue: 0,0:17:02.88,0:17:09.50,Default,,0,0,0,,Since then, the Princess has united\Nthe people and continued to fight.
-Dialogue: 0,0:17:09.88,0:17:13.80,Default,,0,0,0,,Tell me, Dai, is that swordsman also\Na Disciple of Avan?
+Dialogue: 0,0:17:09.88,0:17:13.80,Default,,0,0,0,,Tell me, Dai, is that swordsman also\Na Disciple of Aban?
 Dialogue: 0,0:17:13.80,0:17:14.55,Default,,0,0,0,,Huh?!
 Dialogue: 0,0:17:14.55,0:17:15.26,Default,,0,0,0,,Oh crap!
 Dialogue: 0,0:17:15.26,0:17:17.34,Default,,0,0,0,,Uh, well, of course he is!
@@ -290,7 +297,7 @@ Dialogue: 0,0:17:32.61,0:17:34.24,Default,,0,0,0,,The Undead Legion Commander?!
 Dialogue: 0,0:17:39.07,0:17:40.41,Default,,0,0,0,,That idiot!
 Dialogue: 0,0:17:40.41,0:17:42.33,Default,,0,0,0,,Is that true?
 Dialogue: 0,0:17:42.33,0:17:46.29,Default,,0,0,0,,Wait a minute!\NHe's not in the Dark Army anymore!
-Dialogue: 0,0:17:46.29,0:17:51.51,Default,,0,0,0,,That's right! He's awakened to his duty\Nas a Disciple of Avan and helped us!
+Dialogue: 0,0:17:46.29,0:17:51.51,Default,,0,0,0,,That's right! He's awakened to his duty\Nas a Disciple of Aban and helped us!
 Dialogue: 0,0:17:51.51,0:17:54.30,Default,,0,0,0,,No matter how I may have atoned for it,
 Dialogue: 0,0:17:54.30,0:17:59.77,Default,,0,0,0,,the fact remains that, as Undead Legion\NCommander, I destroyed this country.
 Dialogue: 0,0:17:59.77,0:18:02.31,Default,,0,0,0,,I must be punished.
@@ -300,8 +307,8 @@ Dialogue: 0,0:18:09.94,0:18:11.53,Default,,0,0,0,,Hyunckel!
 Dialogue: 0,0:18:11.53,0:18:16.95,Default,,0,0,0,,I was blessed to be saved\Nand to lend my strength to Dai.
 Dialogue: 0,0:18:17.61,0:18:19.87,Default,,0,0,0,,I can die fulfilled.
 Dialogue: 0,0:18:20.66,0:18:21.95,Default,,0,0,0,,Hyunckel...
-Dialogue: 0,0:18:22.33,0:18:27.83,Default,,0,0,0,,as you wish, I Leona, Princess of Papnica,\Nshall pass judgment upon you.
-Dialogue: 0,0:18:28.12,0:18:34.42,Default,,0,0,0,,You will spend the rest of your life,\Nserving your duty as a Disciple of Avan.
+Dialogue: 0,0:18:22.33,0:18:27.83,Default,,0,0,0,,as you wish, I Leona, Princess of Papunica,\Nshall pass judgment upon you.
+Dialogue: 0,0:18:28.12,0:18:34.42,Default,,0,0,0,,You will spend the rest of your life,\Nserving your duty as a Disciple of Aban.
 Dialogue: 0,0:18:36.42,0:18:41.72,Default,,0,0,0,,You will risk your life to fight\Nfor friendship, justice, and love.
 Dialogue: 0,0:18:41.72,0:18:46.65,Default,,0,0,0,,And you must never disparage yourself\Nor become lost in the past
 Dialogue: 0,0:18:46.65,0:18:49.19,Default,,0,0,0,,and cease from moving forward.
@@ -310,7 +317,7 @@ Dialogue: 0,0:18:51.15,0:18:53.32,Default,,0,0,0,,That is all. Is that understoo
 Dialogue: 0,0:18:54.57,0:18:55.90,Default,,0,0,0,,I accept this.
 Dialogue: 0,0:18:57.24,0:18:59.95,Default,,0,0,0,,Let us all move forward together!
 Dialogue: 0,0:19:01.03,0:19:04.20,Default,,0,0,0,,{\i1}She's more capable than she looks.{\i0}
-Dialogue: 0,0:19:04.20,0:19:07.79,Default,,0,0,0,,{\i1}Papnica just might rise from the ashes.{\i0}
+Dialogue: 0,0:19:04.20,0:19:07.79,Default,,0,0,0,,{\i1}Papunica just might rise from the ashes.{\i0}
 Dialogue: 0,0:19:13.09,0:19:15.05,Default,,0,0,0,,Ah, there you are.
 Dialogue: 0,0:19:15.96,0:19:16.84,Default,,0,0,0,,You.
 Dialogue: 0,0:19:16.84,0:19:22.51,Default,,0,0,0,,We were looking for you.\NWhat are you doing drinking alone here?
@@ -321,7 +328,7 @@ Dialogue: 0,0:19:36.61,0:19:39.24,Default,,0,0,0,,Cheers to the Princess' savior
 Dialogue: 0,0:19:48.20,0:19:49.37,Default,,0,0,0,,Delicious.
 Dialogue: 0,0:19:50.16,0:19:53.08,Default,,0,0,0,,This is the most delicious drink\NI've ever had!
 Dialogue: 0,0:19:53.50,0:19:55.59,Default,,0,0,0,,Mentor! I can't breath here!
-Dialogue: 0,0:19:55.59,0:20:01.89,Default,,0,0,0,,I'm sorry, Princess. I didn't know\NUncle Matoriv would cut loose like that.
+Dialogue: 0,0:19:55.59,0:20:01.89,Default,,0,0,0,,I'm sorry, Princess. I didn't know\NUncle Matorif would cut loose like that.
 Dialogue: 0,0:20:01.89,0:20:06.77,Default,,0,0,0,,There's no need to be formal.\NYou can call me Leona, not "Princess."
 Dialogue: 0,0:20:06.77,0:20:10.23,Default,,0,0,0,,Otherwise, I'll start\Ncalling you "Ms. Maam."
 Dialogue: 0,0:20:10.23,0:20:11.64,Default,,0,0,0,,Please don't!
@@ -330,13 +337,13 @@ Dialogue: 0,0:20:18.86,0:20:21.07,Default,,0,0,0,,We were going to leave unannou
 Dialogue: 0,0:20:21.45,0:20:22.66,Default,,0,0,0,,to Sovereign Rock Castle.
 Dialogue: 0,0:20:22.66,0:20:23.74,Default,,0,0,0,,Sovereign Rock Castle?
 Dialogue: 0,0:20:23.74,0:20:26.02,Default,,0,0,0,,The fortress of the Dark Army.
-Dialogue: 0,0:20:26.02,0:20:31.87,Default,,0,0,0,,It's north of Papnica,\Ndeep in the mountains of Guildmain.
+Dialogue: 0,0:20:26.02,0:20:31.87,Default,,0,0,0,,It's north of Papunica,\Ndeep in the mountains of Guildmain.
 Dialogue: 0,0:20:31.87,0:20:35.67,Default,,0,0,0,,Crocodine and I are going\Nto check their movements.
 Dialogue: 0,0:20:35.67,0:20:37.46,Default,,0,0,0,,Why don't we all go together?
 Dialogue: 0,0:20:37.84,0:20:40.55,Default,,0,0,0,,It'll be easier with just us.
 Dialogue: 0,0:20:40.55,0:20:42.17,Default,,0,0,0,,Please trust us.
 Dialogue: 0,0:20:42.55,0:20:44.80,Default,,0,0,0,,I had a wonderful time today.
-Dialogue: 0,0:20:45.47,0:20:49.18,Default,,0,0,0,,Give my regards to Dai\Nand the people of Papnica.
+Dialogue: 0,0:20:45.47,0:20:49.18,Default,,0,0,0,,Give my regards to Dai\Nand the people of Papunica.
 Dialogue: 0,0:20:49.18,0:20:51.27,Default,,0,0,0,,We'll meet again, Maam.
 Dialogue: 0,0:20:52.39,0:20:53.69,Default,,0,0,0,,Take care.
 Dialogue: 0,0:21:08.62,0:21:11.33,Default,,0,0,0,,{\i1}This man is a monster!{\i0}
@@ -352,7 +359,7 @@ Dialogue: 0,0:21:38.19,0:21:39.61,Default,,0,0,0,,A mark?!
 Dialogue: 0,0:21:42.90,0:21:48.24,Default,,0,0,0,,Zaboera, does that mark\Nresemble the face of a dragon?
 Dialogue: 0,0:21:48.24,0:21:49.45,Default,,0,0,0,,A dragon?
 Dialogue: 0,0:21:50.37,0:21:53.29,Default,,0,0,0,,{\i1}Now that you mention it,\Nit does seem similar.{\i0}
-Dialogue: 0,0:21:53.29,0:21:57.17,Default,,0,0,0,,Damn you, Hadlar!\NI know what you're up to!
+Dialogue: 0,0:21:53.29,0:21:57.17,Default,,0,0,0,,Damn you, Hadorra!\NI know what you're up to!
 Dialogue: 0,0:22:20.15,0:22:25.90,Default,,0,0,0,,{\i1}Kindness is the magic of kind people{\i0}
 Dialogue: 0,0:22:20.15,0:22:25.90,On Top,,0,0,0,,{\i1}yasashisa wa yasashii hito ga tsukaeru mahou{\i0}
 Dialogue: 0,0:22:26.07,0:22:32.91,Default,,0,0,0,,{\i1}Then do I have no choice\NBut to just be a normal person?{\i0}
@@ -378,7 +385,7 @@ Dialogue: 0,0:23:14.12,0:23:19.25,On Top,,0,0,0,,{\i1}ochikonnde shimau boku wo 
 Dialogue: 0,0:23:33.76,0:23:37.22,Default,,0,0,0,,{\i1}Dai and friends defeated Flazzard\Nand rescued Leona.{\i0}
 Dialogue: 0,0:23:37.27,0:23:39.48,Default,,0,0,0,,{\i1}As they prepare for their next battle,{\i0}
 Dialogue: 0,0:23:39.48,0:23:43.06,Default,,0,0,0,,{\i1}her broken Magic Bullet Gun\Nleads Maam to a decision.{\i0}
-Dialogue: 0,0:23:43.56,0:23:48.82,Default,,0,0,0,,{\i1}Meanwhile, Killvearn the Reaper\Nappears before Dark Commander Hadlar.{\i0}
+Dialogue: 0,0:23:43.56,0:23:48.82,Default,,0,0,0,,{\i1}Meanwhile, Kilban the Reaper\Nappears before Dark Commander Hadorra.{\i0}
 Dialogue: 0,0:23:48.82,0:23:54.24,Default,,0,0,0,,{\i1}And Sovereign Rock Castle, the fortress of\Nthe Dark Army, shows its true form.{\i0}
 Dialogue: 0,0:23:54.74,0:23:57.08,Default,,0,0,0,,DRAGON QUEST The Adventure of Dai{\i1},{\i0}
 Dialogue: 0,0:23:57.08,0:23:58.75,Default,,0,0,0,,{\i1}"Maam's Decision"{\i0}

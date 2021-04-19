@@ -11,7 +11,14 @@ WrapStyle: 0
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-
+Audio File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 18 [720p].mkv
+Video File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 18 [720p].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 194
+Active Line: 217
+Video Position: 23563
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -59,7 +66,7 @@ Dialogue: 0,0:01:27.98,0:01:31.57,Default,,0,0,0,,{\i1}And dream my dream{\i}
 Dialogue: 0,0:01:27.98,0:01:31.57,On Top,,0,0,0,,{\i1}yume wo miru{\i}
 Dialogue: 0,0:01:31.73,0:01:33.90,Default,,0,0,0,,{\i1}And know my dream{\i}
 Dialogue: 0,0:01:31.73,0:01:33.90,On Top,,0,0,0,,{\i1}yume wo shiru{\i}
-Dialogue: 0,0:01:42.33,0:01:50.58,Default,,0,0,0,,HYUNCKEL VERSUS HADLAR
+Dialogue: 0,0:01:42.33,0:01:50.58,Default,,0,0,0,,HYUNCKEL VERSUS HADORRA
 Dialogue: 0,0:02:03.47,0:02:07.56,Default,,0,0,0,,Hyunckel... you're alive?!
 Dialogue: 0,0:02:07.56,0:02:08.85,Default,,0,0,0,,You...
 Dialogue: 0,0:02:26.50,0:02:31.60,Default,,0,0,0,,Is this a dream? Or am I dead?
@@ -88,7 +95,7 @@ Dialogue: 0,0:03:58.63,0:04:04.13,Default,,0,0,0,,Besides, you must continue\Nto
 Dialogue: 0,0:04:04.84,0:04:09.83,Default,,0,0,0,,If mercy was your intent,\Nyou should have let me die.
 Dialogue: 0,0:04:09.83,0:04:10.56,Default,,0,0,0,,Hm?
 Dialogue: 0,0:04:10.56,0:04:13.25,Default,,0,0,0,,I ignored my own weakness
-Dialogue: 0,0:04:13.25,0:04:18.52,Default,,0,0,0,,and turned my hate to my master, Avan,\Nand towards humanity.
+Dialogue: 0,0:04:13.25,0:04:18.52,Default,,0,0,0,,and turned my hate to my master, Aban,\Nand towards humanity.
 Dialogue: 0,0:04:18.90,0:04:21.99,Default,,0,0,0,,My death would have\Nat least made up for my crimes!
 Dialogue: 0,0:04:22.61,0:04:26.24,Default,,0,0,0,,Now, I have to live on in my shame!
 Dialogue: 0,0:04:28.49,0:04:29.70,Default,,0,0,0,,Hyunckel.
@@ -129,7 +136,7 @@ Dialogue: 0,0:06:54.72,0:06:57.60,Default,,0,0,0,,{\i1}Like I'll let him touch y
 Dialogue: 0,0:07:04.82,0:07:09.90,Default,,0,0,0,,Traitors must die!\NThat's the law of the Dark Army!
 Dialogue: 0,0:07:10.11,0:07:13.24,Default,,0,0,0,,I'll make your death slow and painful!
 Dialogue: 0,0:07:13.24,0:07:16.08,Default,,0,0,0,,Now, how do you want to die?!
-Dialogue: 0,0:07:16.08,0:07:19.64,Default,,0,0,0,,Hadlar, are you looking down on me?
+Dialogue: 0,0:07:16.08,0:07:19.64,Default,,0,0,0,,Hadorra, are you looking down on me?
 Dialogue: 0,0:07:19.64,0:07:23.42,Default,,0,0,0,,Or are you too stupid to tell\Nhow strong your opponents are?
 Dialogue: 0,0:07:23.42,0:07:24.63,Default,,0,0,0,,What?
 Dialogue: 0,0:07:34.64,0:07:38.41,Default,,0,0,0,,These scrubs aren't worth my time!
@@ -145,11 +152,11 @@ Dialogue: 0,0:08:36.16,0:08:40.91,Default,,0,0,0,,But "Anguish Blast"\Nsounds a 
 Dialogue: 0,0:08:41.37,0:08:44.71,Default,,0,0,0,,Why don't you call it,\N"Beast King Redemption Blast"?
 Dialogue: 0,0:08:47.50,0:08:50.84,Default,,0,0,0,,That's not half bad! Thanks, old man!
 Dialogue: 0,0:08:52.17,0:08:57.36,Default,,0,0,0,,Oh, man. After all that trouble,\Nthere goes my Curse Field.
-Dialogue: 0,0:08:57.36,0:09:00.06,Default,,0,0,0,,What is Master Hadlar doing?
+Dialogue: 0,0:08:57.36,0:09:00.06,Default,,0,0,0,,What is Master Hadorra doing?
 Dialogue: 0,0:09:03.43,0:09:07.19,Default,,0,0,0,,The Dark Flame Spire has fallen.\NIt's your turn now.
-Dialogue: 0,0:09:08.23,0:09:09.21,Default,,0,0,0,,Lord Hadlar!
+Dialogue: 0,0:09:08.23,0:09:09.21,Default,,0,0,0,,Lord Hadorra!
 Dialogue: 0,0:09:09.21,0:09:14.44,Default,,0,0,0,,Stay back, all of you!\NI'll show him my true power!
-Dialogue: 0,0:09:14.44,0:09:18.47,Default,,0,0,0,,I'm no longer worthy\Nto call Avan, "Master."
+Dialogue: 0,0:09:14.44,0:09:18.47,Default,,0,0,0,,I'm no longer worthy\Nto call Aban, "Master."
 Dialogue: 0,0:09:18.47,0:09:21.79,Default,,0,0,0,,To claim to avenge my master\Nwould be impudent.
 Dialogue: 0,0:09:22.79,0:09:26.83,Default,,0,0,0,,However, for taking the life\Nof my father, Bartos,
 Dialogue: 0,0:09:27.08,0:09:29.42,Default,,0,0,0,,I cannot allow you to live!
@@ -158,7 +165,7 @@ Dialogue: 0,0:09:32.09,0:09:35.76,Default,,0,0,0,,Like father, like son, you bot
 Dialogue: 0,0:09:36.17,0:09:38.13,Default,,0,0,0,,Begone!
 Dialogue: 0,0:09:45.89,0:09:48.33,Default,,0,0,0,,Impossible! My Ionazun spell...?!
 Dialogue: 0,0:09:48.33,0:09:54.15,Default,,0,0,0,,Have you forgotten?\NMy armour repels all attack spells.
-Dialogue: 0,0:09:54.69,0:09:57.53,Default,,0,0,0,,Prepare yourself, Hadlar!
+Dialogue: 0,0:09:54.69,0:09:57.53,Default,,0,0,0,,Prepare yourself, Hadorra!
 Dialogue: 0,0:10:01.37,0:10:02.33,Default,,0,0,0,,Die!
 Dialogue: 0,0:10:12.92,0:10:16.67,Default,,0,0,0,,There's nothing in this world\Nmy Hell's Claws can't penetrate!
 Dialogue: 0,0:10:17.05,0:10:20.55,Default,,0,0,0,,Good! That's more like it!
@@ -166,23 +173,23 @@ Dialogue: 0,0:10:22.01,0:10:22.89,Default,,0,0,0,,Dai!
 Dialogue: 0,0:10:23.76,0:10:25.35,Default,,0,0,0,,Popp! Maam!
 Dialogue: 0,0:10:27.02,0:10:29.79,Default,,0,0,0,,It was Hyunckel! Hyunckel saved us!
 Dialogue: 0,0:10:29.79,0:10:31.98,Default,,0,0,0,,Talk about an oasis in a desert!
-Dialogue: 0,0:10:31.98,0:10:36.53,Default,,0,0,0,,That's great! So Hyunckel\Nis a Disciple of Avan after all!
-Dialogue: 0,0:10:36.90,0:10:40.11,Default,,0,0,0,,I'm sure Master Avan must be proud.
+Dialogue: 0,0:10:31.98,0:10:36.53,Default,,0,0,0,,That's great! So Hyunckel\Nis a Disciple of Aban after all!
+Dialogue: 0,0:10:36.90,0:10:40.11,Default,,0,0,0,,I'm sure Master Aban must be proud.
 Dialogue: 0,0:10:41.82,0:10:43.93,Default,,0,0,0,,Let's go! To save Leona!
 Dialogue: 0,0:10:43.93,0:10:44.99,Default,,0,0,0,,Right!
 Dialogue: 0,0:10:46.29,0:10:48.96,Default,,0,0,0,,{\i1}Be careful, Hyunckel.{\i}
-Dialogue: 0,0:10:55.13,0:10:59.80,Default,,0,0,0,,They're evenly matched!\NNo, Lord Hadlar seems at a disadvantage!
+Dialogue: 0,0:10:55.13,0:10:59.80,Default,,0,0,0,,They're evenly matched!\NNo, Lord Hadorra seems at a disadvantage!
 Dialogue: 0,0:11:04.72,0:11:08.43,Default,,0,0,0,,{\i1}He's not the Dark Commander for nothing!\NHe has the power to back it!{\i}
-Dialogue: 0,0:11:08.43,0:11:13.71,Default,,0,0,0,,{\i1}He's stronger than I imagined!\NNo wonder Dark King Vearn likes him!{\i}
+Dialogue: 0,0:11:08.43,0:11:13.71,Default,,0,0,0,,{\i1}He's stronger than I imagined!\NNo wonder Dark King Ban likes him!{\i}
 Dialogue: 0,0:11:13.71,0:11:17.15,Default,,0,0,0,,{\i1}And without my spells,\NI'm at a disadvantage!{\i}
 Dialogue: 0,0:11:17.65,0:11:19.86,Default,,0,0,0,,{\i1}If I can do something about that armour...{\i}
 Dialogue: 0,0:11:22.86,0:11:24.20,Default,,0,0,0,,{\i1}I see...{\i}
 Dialogue: 0,0:11:25.91,0:11:27.87,Default,,0,0,0,,{\i1}He's coming for the final showdown!{\i}
 Dialogue: 0,0:11:29.62,0:11:31.25,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Bloody Sukuraido!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:11:40.17,0:11:42.30,Default,,0,0,0,,That was rather disappointing.
-Dialogue: 0,0:11:42.30,0:11:44.64,Default,,0,0,0,,It's over, Hadlar.
+Dialogue: 0,0:11:42.30,0:11:44.64,Default,,0,0,0,,It's over, Hadorra.
 Dialogue: 0,0:11:44.64,0:11:45.86,Default,,0,0,0,,No!
-Dialogue: 0,0:11:45.86,0:11:48.18,Default,,0,0,0,,Lord Hadlar lost?!
+Dialogue: 0,0:11:45.86,0:11:48.18,Default,,0,0,0,,Lord Hadorra lost?!
 Dialogue: 0,0:11:57.52,0:12:01.65,Default,,0,0,0,,Impossible! How can you move\Nwith your vitals pierced?!
 Dialogue: 0,0:12:01.65,0:12:05.91,Default,,0,0,0,,Unfortunately for you, I have a heart\Non both sides of my chest.
 Dialogue: 0,0:12:06.28,0:12:09.24,Default,,0,0,0,,I was waiting for you to lower your sword!
@@ -203,8 +210,8 @@ Dialogue: 0,0:13:23.57,0:13:25.13,Default,,0,0,0,,Take this!
 Dialogue: 0,0:13:25.13,0:13:27.32,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Begiragon!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:13:44.17,0:13:45.63,Default,,0,0,0,,I've won!
 Dialogue: 0,0:13:46.05,0:13:50.39,Default,,0,0,0,,Stubborn little brat! He's finally dead!
-Dialogue: 0,0:13:51.35,0:13:53.20,Default,,0,0,0,,Lord Hadlar has won!
-Dialogue: 0,0:13:53.20,0:13:54.99,Default,,0,0,0,,Lord Hadlar, are you hurt?
+Dialogue: 0,0:13:51.35,0:13:53.20,Default,,0,0,0,,Lord Hadorra has won!
+Dialogue: 0,0:13:53.20,0:13:54.99,Default,,0,0,0,,Lord Hadorra, are you hurt?
 Dialogue: 0,0:13:54.99,0:13:58.52,Default,,0,0,0,,It's nothing.\NI merely lost one of my hearts.
 Dialogue: 0,0:14:00.06,0:14:01.92,Default,,0,0,0,,Is this all that survived?
 Dialogue: 0,0:14:01.92,0:14:02.73,Default,,0,0,0,,Yes, Lord!
@@ -215,7 +222,7 @@ Dialogue: 0,0:14:14.55,0:14:16.72,Default,,0,0,0,,{\i1}I have to stop them!{\i}
 Dialogue: 0,0:14:16.72,0:14:20.71,Default,,0,0,0,,{\i1}But I don't have any way to fight!{\i}
 Dialogue: 0,0:14:21.50,0:14:25.27,Default,,0,0,0,,{\i1}What can I do? What weapon can I use?!{\i}
 Dialogue: 0,0:14:25.27,0:14:26.55,Default,,0,0,0,,{\i1}Life itself.{\i}
-Dialogue: 0,0:14:28.47,0:14:29.38,Default,,0,0,0,,{\i1}Avan?!{\i}
+Dialogue: 0,0:14:28.47,0:14:29.38,Default,,0,0,0,,{\i1}Aban?!{\i}
 Dialogue: 0,0:14:30.22,0:14:33.68,Default,,0,0,0,,Life energy. Basically, your Aura.
 Dialogue: 0,0:14:40.48,0:14:42.27,Default,,0,0,0,,What is this attack?!
 Dialogue: 0,0:14:43.57,0:14:45.36,Default,,0,0,0,,I just focused my Aura.
@@ -228,24 +235,24 @@ Dialogue: 0,0:15:02.73,0:15:09.30,Default,,0,0,0,,But an Aura is offensive life 
 Dialogue: 0,0:15:09.30,0:15:15.14,Default,,0,0,0,,If your heart is full of malice,\Nit can put your own life at risk.
 Dialogue: 0,0:15:17.72,0:15:20.45,Default,,0,0,0,,I don't need such a skill.
 Dialogue: 0,0:15:20.45,0:15:24.52,Default,,0,0,0,,All I have to do is defeat my enemy\Nwith my sword, right?
-Dialogue: 0,0:15:26.19,0:15:29.78,Default,,0,0,0,,{\i1}Back then, I laughed at Avan's teachings.{\i}
+Dialogue: 0,0:15:26.19,0:15:29.78,Default,,0,0,0,,{\i1}Back then, I laughed at Aban's teachings.{\i}
 Dialogue: 0,0:15:30.28,0:15:32.74,Default,,0,0,0,,{\i1}But now, I understand.{\i}
 Dialogue: 0,0:15:34.03,0:15:36.08,Default,,0,0,0,,{\i1}Now I know I can do it!{\i}
-Dialogue: 0,0:15:36.08,0:15:40.81,Default,,0,0,0,,It's almost impressive how stubborn\Nthe Students of Avan can be.
-Dialogue: 0,0:15:40.81,0:15:42.79,Default,,0,0,0,,Wait a minute, Lord Hadlar!
+Dialogue: 0,0:15:36.08,0:15:40.81,Default,,0,0,0,,It's almost impressive how stubborn\Nthe Students of Aban can be.
+Dialogue: 0,0:15:40.81,0:15:42.79,Default,,0,0,0,,Wait a minute, Lord Hadorra!
 Dialogue: 0,0:15:43.17,0:15:46.79,Default,,0,0,0,,We can take a half-dead enemy like him!
 Dialogue: 0,0:15:50.01,0:15:52.76,Default,,0,0,0,,{\i1}Huh? Has he given up?{\i}
 Dialogue: 0,0:15:58.18,0:16:03.48,Default,,0,0,0,,{\i1}What is that? An extreme amount of energy\Nis gathering at Hyunckel's forehead!{\i}
 Dialogue: 0,0:16:04.06,0:16:06.27,Default,,0,0,0,,{\i1}Wait, is this... his Aura?!{\i}
-Dialogue: 0,0:16:06.27,0:16:11.99,Default,,0,0,0,,{\i1}If it means stopping Hadlar here,\Nthen I'll gladly use all of my life!{\i}
-Dialogue: 0,0:16:13.32,0:16:19.95,Default,,0,0,0,,{\i1}Avan, my master! Give this ungrateful\Nstudent his final strength!{\i}
+Dialogue: 0,0:16:06.27,0:16:11.99,Default,,0,0,0,,{\i1}If it means stopping Hadorra here,\Nthen I'll gladly use all of my life!{\i}
+Dialogue: 0,0:16:13.32,0:16:19.95,Default,,0,0,0,,{\i1}Aban, my master! Give this ungrateful\Nstudent his final strength!{\i}
 Dialogue: 0,0:16:19.95,0:16:22.75,Default,,0,0,0,,N-No! Get away!
-Dialogue: 0,0:16:22.75,0:16:25.38,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Grand Cross!{\\i0}{\\3c&H00000000&}
+Dialogue: 0,0:16:22.75,0:16:25.38,Default,,0,0,0,,{\i1}{\3c&H1717E4&}Grand Cross!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:16:34.88,0:16:37.20,Default,,0,0,0,,Dai, that light!
 Dialogue: 0,0:16:37.20,0:16:38.28,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:16:38.28,0:16:39.76,Default,,0,0,0,,What is it, you two?
 Dialogue: 0,0:16:40.97,0:16:43.69,Default,,0,0,0,,It's just like back then.
-Dialogue: 0,0:16:44.44,0:16:49.15,Default,,0,0,0,,{\i1}The light from when Master Avan\Nfought Hadlar and died!{\i}
+Dialogue: 0,0:16:44.44,0:16:49.15,Default,,0,0,0,,{\i1}The light from when Master Aban\Nfought Hadorra and died!{\i}
 Dialogue: 0,0:16:52.44,0:16:53.90,Default,,0,0,0,,Megante!
 Dialogue: 0,0:17:03.16,0:17:05.12,Default,,0,0,0,,It was just like that.
 Dialogue: 0,0:17:05.67,0:17:09.44,Default,,0,0,0,,Like the final flash of life itself.
@@ -267,7 +274,7 @@ Dialogue: 0,0:17:56.92,0:17:59.05,Default,,0,0,0,,That's what he wants!
 Dialogue: 0,0:18:00.55,0:18:05.27,Default,,0,0,0,,Hyunckel and Crocodine\Ncame here to help us.
 Dialogue: 0,0:18:05.89,0:18:09.65,Default,,0,0,0,,It's all so you can save Princess Leona!
 Dialogue: 0,0:18:10.77,0:18:15.36,Default,,0,0,0,,If you turn back now, all they've done,\Ntheir very lives will be for nothing!
-Dialogue: 0,0:18:18.61,0:18:21.78,Default,,0,0,0,,Besides, Hyunckel is a Disciple of Avan.
+Dialogue: 0,0:18:18.61,0:18:21.78,Default,,0,0,0,,Besides, Hyunckel is a Disciple of Aban.
 Dialogue: 0,0:18:22.24,0:18:27.14,Default,,0,0,0,,He'd risk his life to save his friends\Nno matter what!
 Dialogue: 0,0:18:27.14,0:18:29.67,Default,,0,0,0,,Just as our Master did!
 Dialogue: 0,0:18:32.92,0:18:37.44,Default,,0,0,0,,{\i1}They're strong... They're so strong,\Nboth Hyunckel and Maam.{\i}
@@ -290,8 +297,8 @@ Dialogue: 0,0:20:01.38,0:20:08.06,Default,,0,0,0,,After all your trouble, it loo
 Dialogue: 0,0:20:10.02,0:20:14.83,Default,,0,0,0,,I'll just cleave your head off,\Nand massacre Dai and his friends,
 Dialogue: 0,0:20:14.83,0:20:18.90,Default,,0,0,0,,and there'll be no one left in my way!
 Dialogue: 0,0:20:19.69,0:20:22.82,Default,,0,0,0,,You can grind your teeth in the afterlife!
-Dialogue: 0,0:20:22.82,0:20:28.37,Default,,0,0,0,,Along with Avan, Bartos,\Nand your friends that follow you!
-Dialogue: 0,0:20:30.49,0:20:31.62,Default,,0,0,0,,{\i1}Avan...{\i}
+Dialogue: 0,0:20:22.82,0:20:28.37,Default,,0,0,0,,Along with Aban, Bartos,\Nand your friends that follow you!
+Dialogue: 0,0:20:30.49,0:20:31.62,Default,,0,0,0,,{\i1}Aban...{\i}
 Dialogue: 0,0:20:32.54,0:20:33.79,Default,,0,0,0,,{\i1}Bartos...{\i}
 Dialogue: 0,0:20:36.38,0:20:37.38,Default,,0,0,0,,{\i1}Master!{\i}
 Dialogue: 0,0:20:38.54,0:20:39.92,Default,,0,0,0,,{\i1}Dad!{\i}
@@ -301,7 +308,7 @@ Dialogue: 0,0:20:59.13,0:21:03.65,Default,,0,0,0,,{\i1}He had spent all of his A
 Dialogue: 0,0:21:10.49,0:21:15.79,Default,,0,0,0,,{\i1}Even unconscious, he still retains\Nthe last of his will to fight!{\i}
 Dialogue: 0,0:21:16.46,0:21:20.34,Default,,0,0,0,,{\i1}Well done, Hyunckel.\NYou are indeed, a true...{\i}
 Dialogue: 0,0:21:20.34,0:21:22.46,Default,,0,0,0,,{\i1}warrior...!{\i}
-Dialogue: 0,0:21:37.81,0:21:41.19,Default,,0,0,0,,Man, Master Hadlar is useless!
+Dialogue: 0,0:21:37.81,0:21:41.19,Default,,0,0,0,,Man, Master Hadorra is useless!
 Dialogue: 0,0:21:41.19,0:21:44.74,Default,,0,0,0,,He can't even beat a few brats...
 Dialogue: 0,0:21:45.49,0:21:49.87,Default,,0,0,0,,Oh well. I guess this means\NDai's head will be worth even more!
 Dialogue: 0,0:21:50.32,0:21:54.06,Default,,0,0,0,,The Hero's Party that the Dark Army\Nworking together couldn't beat.
@@ -330,9 +337,9 @@ Dialogue: 0,0:23:14.20,0:23:19.33,Default,,0,0,0,,{\i1}I'm sure you'd laugh at m
 Dialogue: 0,0:23:14.20,0:23:19.33,On Top,,0,0,0,,{\i1}ochikonnde shimau boku wo warau no darou{\i}
 Dialogue: 0,0:23:34.43,0:23:39.89,Default,,0,0,0,,{\i1}Saved by Hyunckel and Crocodine,\NDai's party reaches Valge Tower at last.{\i}
 Dialogue: 0,0:23:40.02,0:23:45.52,Default,,0,0,0,,{\i1}But again, they are at the mercy\Nof Flazzard's powerful attack.{\i}
-Dialogue: 0,0:23:45.69,0:23:51.95,Default,,0,0,0,,{\i1}When all hope seems lost, Dai\Nremembers the words of his master, Avan!{\i}
+Dialogue: 0,0:23:45.69,0:23:51.95,Default,,0,0,0,,{\i1}When all hope seems lost, Dai\Nremembers the words of his master, Aban!{\i}
 Dialogue: 0,0:23:52.61,0:23:55.66,Default,,0,0,0,,{\i1}Next time on{\i}\NDRAGON QUEST The Adventure of Dai{\i1},{\i}
-Dialogue: 0,0:23:55.83,0:23:58.04,Default,,0,0,0,,{\i1}"The Final Avan Style Technique"{\i}
+Dialogue: 0,0:23:55.83,0:23:58.04,Default,,0,0,0,,{\i1}"The Final Aban Style Technique"{\i}
 Dialogue: 0,0:23:58.20,0:24:00.16,Default,,0,0,0,,{\i1}The adventure continues!{\i}
 Dialogue: 0,0:24:00.16,0:24:02.16,Default,,0,0,0,,
 Dialogue: 0,0:24:02.16,0:24:04.14,On Top,,0,0,0,,

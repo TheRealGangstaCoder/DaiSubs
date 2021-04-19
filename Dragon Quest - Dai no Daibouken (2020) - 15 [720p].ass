@@ -11,7 +11,14 @@ WrapStyle: 0
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-
+Audio File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 15 [720p].mkv
+Video File: D:/Downloads/Torrents/_Reviewed/Dragon Quest/Dragon Quest - Dai no Daibouken (2020) - 15 [720p].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+Scroll Position: 48
+Active Line: 65
+Video Position: 6007
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -88,7 +95,7 @@ Dialogue: 0,0:04:03.18,0:04:04.64,Default,,0,0,0,,Magic Sword!
 Dialogue: 0,0:04:04.80,0:04:06.14,Default,,0,0,0,,What?!
 Dialogue: 0,0:04:06.80,0:04:08.10,Default,,0,0,0,,Oh wow!
 Dialogue: 0,0:04:08.76,0:04:09.81,Default,,0,0,0,,Take this!
-Dialogue: 0,0:04:10.52,0:04:12.18,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Fire Earth Slash!{\\i0}{\\3c&H00000000&}
+Dialogue: 0,0:04:10.52,0:04:12.18,Default,,0,0,0,,{\\i1}{\\3c&H1717E4&}Fire Earth Slash!{\i0}{\3c&H00000000&}
 Dialogue: 0,0:04:21.61,0:04:22.86,Default,,0,0,0,,Dammit!
 Dialogue: 0,0:04:29.99,0:04:35.50,Default,,0,0,0,,{\i1}I was right!\NNo wonder he beat Crocodine and Hyunckel!{\i0}
 Dialogue: 0,0:04:35.75,0:04:38.54,Default,,0,0,0,,{\i1}In his battles\Nwith the other Legion Commanders...{\i0}
@@ -177,7 +184,7 @@ Dialogue: 0,0:11:56.90,0:12:00.03,Default,,0,0,0,,I don't like fighting.
 Dialogue: 0,0:12:01.28,0:12:05.70,Default,,0,0,0,,Winning is what I like!
 Dialogue: 0,0:12:09.79,0:12:12.04,Default,,0,0,0,,Slaughter time! Here I come!
 Dialogue: 0,0:12:30.14,0:12:34.06,Default,,0,0,0,,{\i1}It's no good!\NMy Magic Bullet Gun doesn't work!{\i0}
-Dialogue: 0,0:12:38.02,0:12:40.53,DefaultLow,,0,0,0,,{\\i1}{\\3c&H1717E4&}AVAN STRASH{\\i0}{\\3c&H00000000&}
+Dialogue: 0,0:12:38.02,0:12:40.53,DefaultLow,,0,0,0,,{\\i1}{\\3c&H1717E4&}ABAN STRASH{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:12:42.99,0:12:45.53,DefaultLow,,0,0,0,,{\\i1}{\\3c&H1717E4&}FIVE FINGER FLARES{\\i0}{\\3c&H00000000&}
 Dialogue: 0,0:12:51.54,0:12:54.50,Default,,0,0,0,,Miss Amy, is your sister alright?!
 Dialogue: 0,0:12:54.67,0:12:58.38,Default,,0,0,0,,She's alive. But I can't cast Hoimi!
@@ -204,7 +211,7 @@ Dialogue: 0,0:14:11.95,0:14:13.08,Default,,0,0,0,,Stop!
 Dialogue: 0,0:14:13.24,0:14:17.41,Default,,0,0,0,,Let's make it so you don't even think\Nabout running away!
 Dialogue: 0,0:14:38.64,0:14:39.69,Default,,0,0,0,,Princess!
 Dialogue: 0,0:14:51.74,0:14:53.49,Default,,0,0,0,,Leona!
-Dialogue: 0,0:14:54.12,0:14:59.96,Default,,0,0,0,,There. You like that?\NThe Princess of Papnica in ice.
+Dialogue: 0,0:14:54.12,0:14:59.96,Default,,0,0,0,,There. You like that?\NThe Princess of Papunica in ice.
 Dialogue: 0,0:15:00.12,0:15:05.00,Default,,0,0,0,,Don't worry, though.\NShe's still alive in there!
 Dialogue: 0,0:15:08.38,0:15:12.51,Default,,0,0,0,,I used Legendary Forbidden Magic\Nto freeze her.
 Dialogue: 0,0:15:12.68,0:15:16.77,Default,,0,0,0,,No blow can shatter it\Nand no spell can melt it.
@@ -306,7 +313,7 @@ Dialogue: 0,0:21:45.11,0:21:48.66,Default,,0,0,0,,Please! You have to help us!
 Dialogue: 0,0:21:48.82,0:21:51.54,Default,,0,0,0,,I don't want anything to do with anyone.
 Dialogue: 0,0:21:52.91,0:21:54.91,Default,,0,0,0,,Y-You!
 Dialogue: 0,0:21:55.08,0:21:55.75,Default,,0,0,0,,Hm?
-Dialogue: 0,0:21:56.25,0:21:57.67,Default,,0,0,0,,Uncle Matoriv!
+Dialogue: 0,0:21:56.25,0:21:57.67,Default,,0,0,0,,Uncle Matorif!
 Dialogue: 0,0:21:58.46,0:21:59.84,Default,,0,0,0,,Hmm?
 Dialogue: 0,0:22:20.19,0:22:25.94,Default,,0,0,0,,{\i1}Kindness is the magic of kind people{\i0}
 Dialogue: 0,0:22:20.19,0:22:25.94,On Top,,0,0,0,,{\i1}yasashisa wa yasashii hito ga tsukaeru mahou{\i0}
@@ -331,11 +338,11 @@ Dialogue: 0,0:23:08.32,0:23:13.99,On Top,,0,0,0,,{\i1}sagashite ita kyou to chig
 Dialogue: 0,0:23:14.16,0:23:19.29,Default,,0,0,0,,{\i1}I'm sure you'd laugh at my disappointment{\i0}
 Dialogue: 0,0:23:14.16,0:23:19.29,On Top,,0,0,0,,{\i1}ochikonnde shimau boku wo warau no darou{\i0}
 Dialogue: 0,0:23:34.18,0:23:37.02,Default,,0,0,0,,{\i1}Dai and his friends were saved\Nfrom Flazzard's pursuers{\i0}
-Dialogue: 0,0:23:37.18,0:23:40.85,Default,,0,0,0,,{\i1}by Matoriv, a Mage\Nliving as a hermit in a cave.{\i0}
+Dialogue: 0,0:23:37.18,0:23:40.85,Default,,0,0,0,,{\i1}by Matorif, a Mage\Nliving as a hermit in a cave.{\i0}
 Dialogue: 0,0:23:41.56,0:23:47.36,Default,,0,0,0,,{\i1}They work on a plan to break\Nthe Forbidden Magic and save Leona.{\i0}
-Dialogue: 0,0:23:47.53,0:23:52.49,Default,,0,0,0,,{\i1}Meanwhile, Hadlar and his Dark Army\Nbegin suspicious preparations.{\i0}
+Dialogue: 0,0:23:47.53,0:23:52.49,Default,,0,0,0,,{\i1}Meanwhile, Hadorra and his Dark Army\Nbegin suspicious preparations.{\i0}
 Dialogue: 0,0:23:52.95,0:23:55.37,Default,,0,0,0,,DRAGON QUEST The Adventure of Dai{\i1},{\i0}
-Dialogue: 0,0:23:55.53,0:23:57.41,Default,,0,0,0,,{\i1}"The Grand Sorcerer Matoriv"{\i0}
+Dialogue: 0,0:23:55.53,0:23:57.41,Default,,0,0,0,,{\i1}"The Grand Sorcerer Matorif"{\i0}
 Dialogue: 0,0:23:57.58,0:23:59.54,Default,,0,0,0,,{\i1}The adventure continues!{\i0}
 Dialogue: 0,0:23:59.54,0:24:01.54,Default,,0,0,0,,
 Dialogue: 0,0:24:01.54,0:24:03.51,On Top,,0,0,0,,
