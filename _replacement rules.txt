@@ -1,0 +1,128 @@
+Killvearn|Kilban
+Mystvearn|Mystban
+Vearn|Ban
+Bengarna|Bengana
+Merle|Meruru
+Avan|Aban
+AVAN|ABAN
+Matoriv|Matorif
+Hadlar|Hadorra
+HADLAR|HADORRA
+Brass|Burasu
+Varon|Baron
+Papnica|Papunica
+Temjin|Temujin
+Soala|Soara
+Lon Beruk|Ron Berku
+Velzar|Veruza
+Alkeed|Arukido
+Draconic|Dragonic
+Doruora|Doru Aura
+Kasizz!|{\\i1}{\\3c&H1717E4&}Begiragon!{\\i0}{\\3c&H00000000&}
+Kasizz|Begiragon
+Sizzle!|{\\i1}{\\3c&H1717E4&}Begirama!{\\i0}{\\3c&H00000000&}
+Sizzle|Begirama
+Sizz!|{\\i1}{\\3c&H1717E4&}Gira!{\\i0}{\\3c&H00000000&}
+Sizz|Gira
+Kafrizz!|{\\i1}{\\3c&H1717E4&}Merazoma!{\\i0}{\\3c&H00000000&}
+Kafrizz|Merazoma
+Frizzle!|{\\i1}{\\3c&H1717E4&}Merami!{\\i0}{\\3c&H00000000&}
+Frizzle|Merami
+Merale|{\\i1}{\\3c&H1717E4&}Merami!{\\i0}{\\3c&H00000000&}
+Merale|Merami
+Frizz!|{\\i1}{\\3c&H1717E4&}Mera!{\\i0}{\\3c&H00000000&}
+Frizz|Mera
+Crackle!|{\\i1}{\\3c&H1717E4&}Hyadaruko!{\\i0}{\\3c&H00000000&}
+Crackle|Hyadaruko
+Kacrack!|{\\i1}{\\3c&H1717E4&}Hyadain!{\\i0}{\\3c&H00000000&}
+Kacrack|Hyadain
+Crack!|{\\i1}{\\3c&H1717E4&}Hyado!{\\i0}{\\3c&H00000000&}
+Crack|Hyado
+Hyadainle!|{\\i1}{\\3c&H1717E4&}Mahiado!{\\i0}{\\3c&H00000000&}
+Hyadainle|Mahiado
+Boom!|{\\i1}{\\3c&H1717E4&}IO!{\\i0}{\\3c&H00000000&}
+Bang!|{\\i1}{\\3c&H1717E4&}IO!{\\i0}{\\3c&H00000000&}
+Boom|Io
+Kaboom!|{\\i1}{\\3c&H1717E4&}Ionazun!{\\i0}{\\3c&H00000000&}
+Kaboom|Ionazun
+Squelch!|{\\i1}{\\3c&H1717E4&}Kiari!{\\i0}{\\3c&H00000000&}
+Squelch|Kiari
+Tingle!|{\\i1}{\\3c&H1717E4&}Kiari!{\\i0}{\\3c&H00000000&}
+Tingle|Kiari
+Woosh!|{\\i1}{\\3c&H1717E4&}Bagi!{\\i0}{\\3c&H00000000&}
+Woosh|Bagi
+Kaswoosh!|{\\i1}{\\3c&H1717E4&}Bagikurosai!{\\i0}{\\3c&H00000000&}
+Kaswoosh|Bagikurosai
+Gush!|{\\i1}{\\3c&H1717E4&}Iruru!{\\i0}{\\3c&H00000000&}
+Gush|Iruru
+Gulp!|{\\i1}{\\3c&H1717E4&}Derupa!{\\i0}{\\3c&H00000000&}
+Gulp|Derupa
+Puff!|{\\i1}{\\3c&H1717E4&}Doragoramu!{\\i0}{\\3c&H00000000&}
+Puff|Dorogoramu
+Glimmer!|{\\i1}{\\3c&H1717E4&}Mahokator!{\\i0}{\\3c&H00000000&}
+Glimmer|Mahokator
+Kaclang!|{\\i1}{\\3c&H1717E4&}Asutoron!{\\i0}{\\3c&H00000000&}
+Kaclang|Asutoron
+Fuddle!|{\\i1}{\\3c&H1717E4&}Medapani!{\\i0}{\\3c&H00000000&}
+Fuddle|Medapani
+Fullheal!|{\\i1}{\\3c&H1717E4&}Behoma!{\\i0}{\\3c&H00000000&}
+Fullheal|Behoma
+Midheal!|{\\i1}{\\3c&H1717E4&}Behoimi!{\\i0}{\\3c&H00000000&}
+Midheal|Behoimi
+Heal!|{\\i1}{\\3c&H1717E4&}Hoimi!{\\i0}{\\3c&H00000000&}
+Heal|Hoimi
+Dazzle!|{\\i1}{\\3c&H1717E4&}Manusa!{\\i0}{\\3c&H00000000&}
+Dazzle|Manusa
+Climatise!|{\\i1}{\\3c&H1717E4&}Rana!{\\i0}{\\3c&H00000000&}
+Climatise|Rana
+Zoom!|{\\i1}{\\3c&H1717E4&}Rura!{\\i0}{\\3c&H00000000&}
+Zoom|Rura
+Levizoom!|{\\i1}{\\3c&H1717E4&}Toberura!{\\i0}{\\3c&H00000000&}
+Levizoom|Toberura
+Reclimatise!|{\\i1}{\\3c&H1717E4&}Ranarion!{\\i0}{\\3c&H00000000&}
+Reclimatise|Ranarion
+Zapple!|{\\i1}{\\3c&H1717E4&}Raiden!{\\i0}{\\3c&H00000000&}
+Zapple|Raiden
+Insulate!|{\\i1}{\\3c&H1717E4&}Fubaha!{\\i0}{\\3c&H00000000&}
+Dark Puppetry Aura Hand!|{\\i1}{\\3c&H1717E4&}Tomakugutsosho!{\\i0}{\\3c&H00000000&}
+Grand Cross!|{\\i1}{\\3c&H1717E4&}Grand Cross!{\\i0}{\\3c&H00000000&}
+Beast King Anguish Blast!|{\\i1}{\\3c&H1717E4&}Beast King Anguish Blast!{\\i0}{\\3c&H00000000&}
+Beast King Redemption Blast!|{\\i1}{\\3c&H1717E4&}Beast King Redemption Blast!{\\i0}{\\3c&H00000000&}
+Aban Strash!|{\\i1}{\\3c&H1717E4&}Aban Strash!{\\i0}{\\3c&H00000000&}
+Rock Bullet Shrapnel Detonation!|{\\i1}{\\3c&H1717E4&}Rock Bullet Shrapnel Detonation!{\\i0}{\\3c&H00000000&}
+Air Slash!|{\\i1}{\\3c&H1717E4&}Air Slash!{\\i0}{\\3c&H00000000&}
+Wave Slash!|{\\i1}{\\3c&H1717E4&}Wave Slash!{\\i0}{\\3c&H00000000&}
+Fire Earth Slash!|{\\i1}{\\3c&H1717E4&}Fire Earth Slash!{\\i0}{\\3c&H00000000&}
+Earth Slash!|{\\i1}{\\3c&H1717E4&}Earth Slash!{\\i0}{\\3c&H00000000&}
+Amdo!|{\\i1}{\\3c&H1717E4&}Amudo!{\\i0}{\\3c&H00000000&}
+Donk!|{\\i1}{\\3c&H1717E4&}Betan!{\\i0}{\\3c&H00000000&}
+Bloody Scryde!|{\\i1}{\\3c&H1717E4&}Bloody Sukuraido!{\\i0}{\\3c&H00000000&}
+Bloody Scryde|Bloody Sukuraido!
+Sunder Claw!|{\\i1}{\\3c&H1717E4&}Hakendisutoru!{\\i0}{\\3c&H00000000&}
+Sunder Claw|Hakendisutoru
+Zap Strash!|{\\i1}{\\3c&H1717E4&}Raiden Strash!{\\i0}{\\3c&H00000000&}
+Kazap!|{\\i1}{\\3c&H1717E4&}Gigaden!{\\i0}{\\3c&H00000000&}
+Kazap|Gigaden
+Gigabreak!|{\\i1}{\\3c&H1717E4&}Gigabreak!{\\i0}{\\3c&H00000000&}
+SIZZLE|{\\i1}{\\3c&H1717E4&}BEGIRAMA{\\i0}{\\3c&H00000000&}
+PUFF|{\\i1}{\\3c&H1717E4&}DORAGORAMU{\\i0}{\\3c&H00000000&}
+KASWOOSH|{\\i1}{\\3c&H1717E4&}BAGIKUROSAI{\\i0}{\\3c&H00000000&}
+KABOOM|{\\i1}{\\3c&H1717E4&}IONAZUN{\\i0}{\\3c&H00000000&}
+FULLHEAL|{\\i1}{\\3c&H1717E4&}BEHOMA{\\i0}{\\3c&H00000000&}
+BOOM|{\\i1}{\\3c&H1717E4&}IO{\\i0}{\\3c&H00000000&}
+GUSH|{\\i1}{\\3c&H1717E4&}IRURU{\\i0}{\\3c&H00000000&}
+GULP|{\\i1}{\\3c&H1717E4&}DERUPA{\\i0}{\\3c&H00000000&}
+FRIZZ|{\\i1}{\\3c&H1717E4&}MERA{\\i0}{\\3c&H00000000&}
+CRACKLE|{\\i1}{\\3c&H1717E4&}HYADARUKO{\\i0}{\\3c&H00000000&}
+BLOODY SCRYDE|{\\i1}{\\3c&H1717E4&}BLOODY SUKURAIDO!{\\i0}{\\3c&H00000000&}
+ABAN STRASH|{\\i1}{\\3c&H1717E4&}ABAN STRASH{\\i0}{\\3c&H00000000&}
+DARK PUPPETRY AURA HAND|{\\i1}{\\3c&H1717E4&}TOMAKUGUTSOSHO{\\i0}{\\3c&H00000000&}
+BEAST KING REDEMPTION BLAST|{\\i1}{\\3c&H1717E4&}BEAST KING REDEMPTION BLAST{\\i0}{\\3c&H00000000&}
+GIGABREAK|{\\i1}{\\3c&H1717E4&}GIGABREAK{\\i0}{\\3c&H00000000&}
+ABAN STRASH|{\\i1}{\\3c&H1717E4&}ABAN STRASH{\\i0}{\\3c&H00000000&}
+Dragonic Aura!|{\\i1}{\\3c&H1717E4&}Dragonic Aura!{\\i0}{\\3c&H00000000&}
+Zing!|{\\i1}{\\3c&H1717E4&}Zaoraru!{\\i0}{\\3c&H00000000&}
+Megante!|{\\i1}{\\3c&H1717E4&\c&H00FF00&}Megante!{\\i0}{\\3c&H00000000&}
+Doru Aura!|{\\i1}{\\3c&H1717E4&\c&H00FF00&}Doru Aura!{\\i0}{\\3c&H00000000&}
+{\\i1}{\\3c&H1717E4&}{\\i1}{\\3c&H1717E4&}|{\\i1}{\\3c&H1717E4&}
+{\\i0}{\\3c&H00000000&}{\\i0}{\\3c&H00000000&}|{\\i0}{\\3c&H00000000&}
