@@ -1,3 +1,4 @@
+_____|Style: Spell,Arial,20,&H00FFFFFF,&H0000FFFF,&H001717E4,&H7F404040,-1,-1,0,0,100,100,0,0,1,4,2,2,40,40,44,0
 Killvearn|Kilban
 Mystvearn|Mystban
 Vearn|Ban
@@ -18,6 +19,11 @@ Velzar|Veruza
 Alkeed|Arukido
 Draconic|Dragonic
 Doruora|Doru Aura
+Brokeena|Brokin
+Zamza|Zamuza
+Baloria|Valoria
+Fizzle|Mahoton
+Lankirks|Rankakusu
 Kasizz!|{\\i1}{\\3c&H1717E4&}Begiragon!{\\i0}{\\3c&H00000000&}
 Kasizz|Begiragon
 Sizzle!|{\\i1}{\\3c&H1717E4&}Begirama!{\\i0}{\\3c&H00000000&}
@@ -67,6 +73,7 @@ Fuddle!|{\\i1}{\\3c&H1717E4&}Medapani!{\\i0}{\\3c&H00000000&}
 Fuddle|Medapani
 Fullheal!|{\\i1}{\\3c&H1717E4&}Behoma!{\\i0}{\\3c&H00000000&}
 Fullheal|Behoma
+Overheal|Mahoimi
 Midheal!|{\\i1}{\\3c&H1717E4&}Behoimi!{\\i0}{\\3c&H00000000&}
 Midheal|Behoimi
 Heal!|{\\i1}{\\3c&H1717E4&}Hoimi!{\\i0}{\\3c&H00000000&}
@@ -85,15 +92,21 @@ Zapple!|{\\i1}{\\3c&H1717E4&}Raiden!{\\i0}{\\3c&H00000000&}
 Zapple|Raiden
 Insulate!|{\\i1}{\\3c&H1717E4&}Fubaha!{\\i0}{\\3c&H00000000&}
 Dark Puppetry Aura Hand!|{\\i1}{\\3c&H1717E4&}Tomakugutsosho!{\\i0}{\\3c&H00000000&}
+Byut Deathstringer!|{\\i1}{\\3c&H1717E4&}Byut Deathstringer!{\\i0}{\\3c&H00000000&}
+Dark Puppetry Aura Decimation Field!|{\\i1}{\\3c&H1717E4&}Dark Puppetry Aura Decimation Field!{\\i0}{\\3c&H00000000&}
 Grand Cross!|{\\i1}{\\3c&H1717E4&}Grand Cross!{\\i0}{\\3c&H00000000&}
 Beast King Anguish Blast!|{\\i1}{\\3c&H1717E4&}Beast King Anguish Blast!{\\i0}{\\3c&H00000000&}
 Beast King Redemption Blast!|{\\i1}{\\3c&H1717E4&}Beast King Redemption Blast!{\\i0}{\\3c&H00000000&}
+Vortex Axe!|{\\i1}{\\3c&H1717E4&}Vortex Axe!{\\i0}{\\3c&H00000000&}
 Aban Strash!|{\\i1}{\\3c&H1717E4&}Aban Strash!{\\i0}{\\3c&H00000000&}
 Rock Bullet Shrapnel Detonation!|{\\i1}{\\3c&H1717E4&}Rock Bullet Shrapnel Detonation!{\\i0}{\\3c&H00000000&}
 Air Slash!|{\\i1}{\\3c&H1717E4&}Air Slash!{\\i0}{\\3c&H00000000&}
 Wave Slash!|{\\i1}{\\3c&H1717E4&}Wave Slash!{\\i0}{\\3c&H00000000&}
 Fire Earth Slash!|{\\i1}{\\3c&H1717E4&}Fire Earth Slash!{\\i0}{\\3c&H00000000&}
 Earth Slash!|{\\i1}{\\3c&H1717E4&}Earth Slash!{\\i0}{\\3c&H00000000&}
+Earth Strike!|{\\i1}{\\3c&H1717E4&}Earth Strike!{\\i0}{\\3c&H00000000&}
+Wave Strike!|{\\i1}{\\3c&H1717E4&}Wave Strike!{\\i0}{\\3c&H00000000&}
+Air Strike!|{\\i1}{\\3c&H1717E4&}Air Strike!{\\i0}{\\3c&H00000000&}
 Amdo!|{\\i1}{\\3c&H1717E4&}Amudo!{\\i0}{\\3c&H00000000&}
 Donk!|{\\i1}{\\3c&H1717E4&}Betan!{\\i0}{\\3c&H00000000&}
 Bloody Scryde!|{\\i1}{\\3c&H1717E4&}Bloody Sukuraido!{\\i0}{\\3c&H00000000&}
@@ -103,7 +116,8 @@ Sunder Claw|Hakendisutoru
 Zap Strash!|{\\i1}{\\3c&H1717E4&}Raiden Strash!{\\i0}{\\3c&H00000000&}
 Kazap!|{\\i1}{\\3c&H1717E4&}Gigaden!{\\i0}{\\3c&H00000000&}
 Kazap|Gigaden
-Gigabreak!|{\\i1}{\\3c&H1717E4&}Gigabreak!{\\i0}{\\3c&H00000000&}
+Gigabreak!|{\\i1}{\\3c&H1717E4&}Gigabrake!{\\i0}{\\3c&H00000000&}
+Refractor Fist!|{\\i1}{\\3c&H1717E4&}Refractor Fist!{\\i0}{\\3c&H00000000&}
 SIZZLE|{\\i1}{\\3c&H1717E4&}BEGIRAMA{\\i0}{\\3c&H00000000&}
 PUFF|{\\i1}{\\3c&H1717E4&}DORAGORAMU{\\i0}{\\3c&H00000000&}
 KASWOOSH|{\\i1}{\\3c&H1717E4&}BAGIKUROSAI{\\i0}{\\3c&H00000000&}
@@ -116,13 +130,16 @@ FRIZZ|{\\i1}{\\3c&H1717E4&}MERA{\\i0}{\\3c&H00000000&}
 CRACKLE|{\\i1}{\\3c&H1717E4&}HYADARUKO{\\i0}{\\3c&H00000000&}
 BLOODY SCRYDE|{\\i1}{\\3c&H1717E4&}BLOODY SUKURAIDO!{\\i0}{\\3c&H00000000&}
 ABAN STRASH|{\\i1}{\\3c&H1717E4&}ABAN STRASH{\\i0}{\\3c&H00000000&}
+REFRACTOR FIST|{\\i1}{\\3c&H1717E4&}REFRACTOR FIST{\\i0}{\\3c&H00000000&}
+DARK INCENSE|{\\i1}{\\3c&H1717E4&}DARK INCENSE{\\i0}{\\3c&H00000000&}
 DARK PUPPETRY AURA HAND|{\\i1}{\\3c&H1717E4&}TOMAKUGUTSOSHO{\\i0}{\\3c&H00000000&}
 BEAST KING REDEMPTION BLAST|{\\i1}{\\3c&H1717E4&}BEAST KING REDEMPTION BLAST{\\i0}{\\3c&H00000000&}
-GIGABREAK|{\\i1}{\\3c&H1717E4&}GIGABREAK{\\i0}{\\3c&H00000000&}
+GIGABREAK|{\\i1}{\\3c&H1717E4&}GIGABRAKE{\\i0}{\\3c&H00000000&}
 ABAN STRASH|{\\i1}{\\3c&H1717E4&}ABAN STRASH{\\i0}{\\3c&H00000000&}
 Dragonic Aura!|{\\i1}{\\3c&H1717E4&}Dragonic Aura!{\\i0}{\\3c&H00000000&}
 Zing!|{\\i1}{\\3c&H1717E4&}Zaoraru!{\\i0}{\\3c&H00000000&}
 Megante!|{\\i1}{\\3c&H1717E4&\c&H00FF00&}Megante!{\\i0}{\\3c&H00000000&}
 Doru Aura!|{\\i1}{\\3c&H1717E4&\c&H00FF00&}Doru Aura!{\\i0}{\\3c&H00000000&}
+Five Finger Flares!|{\\i1}{\\3c&H1717E4&}Finger Flares Bomb!{\\i0}{\\3c&H00000000&}
 {\\i1}{\\3c&H1717E4&}{\\i1}{\\3c&H1717E4&}|{\\i1}{\\3c&H1717E4&}
 {\\i0}{\\3c&H00000000&}{\\i0}{\\3c&H00000000&}|{\\i0}{\\3c&H00000000&}
