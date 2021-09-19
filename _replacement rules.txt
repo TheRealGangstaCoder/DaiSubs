@@ -46,9 +46,9 @@ Crack!|{\\i1}{\\3c&H1717E4&}Hyado!{\\i0}{\\3c&H00000000&}
 Crack|Hyado
 Hyadainle!|{\\i1}{\\3c&H1717E4&}Mahiado!{\\i0}{\\3c&H00000000&}
 Hyadainle|Mahiado
-Boom!|{\\i1}{\\3c&H1717E4&}IO!{\\i0}{\\3c&H00000000&}
-Bang!|{\\i1}{\\3c&H1717E4&}IO!{\\i0}{\\3c&H00000000&}
-Boom|Io
+Boom!|{\\i1}{\\3c&H1717E4&}IORA!{\\i0}{\\3c&H00000000&}
+Bang!|{\\i1}{\\3c&H1717E4&}IORA!{\\i0}{\\3c&H00000000&}
+Boom|Iora
 Kaboom!|{\\i1}{\\3c&H1717E4&}Ionazun!{\\i0}{\\3c&H00000000&}
 Kaboom|Ionazun
 Squelch!|{\\i1}{\\3c&H1717E4&}Kiari!{\\i0}{\\3c&H00000000&}
@@ -91,6 +91,7 @@ Reclimatise|Ranarion
 Zapple!|{\\i1}{\\3c&H1717E4&}Raiden!{\\i0}{\\3c&H00000000&}
 Zapple|Raiden
 Insulate!|{\\i1}{\\3c&H1717E4&}Fubaha!{\\i0}{\\3c&H00000000&}
+Ultra Combustion Slash!|{\\i1}{\\3c&H1717E4&}Ultra Combustion Slash!{\\i0}{\\3c&H00000000&}
 Dark Puppetry Aura Hand!|{\\i1}{\\3c&H1717E4&}Tomakugutsosho!{\\i0}{\\3c&H00000000&}
 Byut Deathstringer!|{\\i1}{\\3c&H1717E4&}Byut Deathstringer!{\\i0}{\\3c&H00000000&}
 Dark Puppetry Aura Decimation Field!|{\\i1}{\\3c&H1717E4&}Dark Puppetry Aura Decimation Field!{\\i0}{\\3c&H00000000&}
@@ -118,6 +119,11 @@ Kazap!|{\\i1}{\\3c&H1717E4&}Gigaden!{\\i0}{\\3c&H00000000&}
 Kazap|Gigaden
 Gigabreak!|{\\i1}{\\3c&H1717E4&}Gigabrake!{\\i0}{\\3c&H00000000&}
 Refractor Fist!|{\\i1}{\\3c&H1717E4&}Refractor Fist!{\\i0}{\\3c&H00000000&}
+Rattus Rocket Ram!|{\\i1}{\\3c&H1717E4&}Rattus Rocket Ram!{\\i0}{\\3c&H00000000&}
+Hexcitation|Mahoplus
+Medroa|Medoroa
+Medroa!|{\\i1}{\\3c&H1717E4&}Medoroa!{\\i0}{\\3c&H00000000&}
+MEDROA|{\\i1}{\\3c&H1717E4&}MEDOROA{\\i0}{\\3c&H00000000&}
 SIZZLE|{\\i1}{\\3c&H1717E4&}BEGIRAMA{\\i0}{\\3c&H00000000&}
 PUFF|{\\i1}{\\3c&H1717E4&}DORAGORAMU{\\i0}{\\3c&H00000000&}
 KASWOOSH|{\\i1}{\\3c&H1717E4&}BAGIKUROSAI{\\i0}{\\3c&H00000000&}
@@ -136,6 +142,7 @@ DARK PUPPETRY AURA HAND|{\\i1}{\\3c&H1717E4&}TOMAKUGUTSOSHO{\\i0}{\\3c&H00000000
 BEAST KING REDEMPTION BLAST|{\\i1}{\\3c&H1717E4&}BEAST KING REDEMPTION BLAST{\\i0}{\\3c&H00000000&}
 GIGABREAK|{\\i1}{\\3c&H1717E4&}GIGABRAKE{\\i0}{\\3c&H00000000&}
 ABAN STRASH|{\\i1}{\\3c&H1717E4&}ABAN STRASH{\\i0}{\\3c&H00000000&}
+ULTRA COMBUSTION SLASH|{\\i1}{\\3c&H1717E4&}ULTRA COMBUSTION SLASH{\\i0}{\\3c&H00000000&}
 Dragonic Aura!|{\\i1}{\\3c&H1717E4&}Dragonic Aura!{\\i0}{\\3c&H00000000&}
 Zing!|{\\i1}{\\3c&H1717E4&}Zaoraru!{\\i0}{\\3c&H00000000&}
 Megante!|{\\i1}{\\3c&H1717E4&\c&H00FF00&}Megante!{\\i0}{\\3c&H00000000&}
@@ -143,3 +150,11 @@ Doru Aura!|{\\i1}{\\3c&H1717E4&\c&H00FF00&}Doru Aura!{\\i0}{\\3c&H00000000&}
 Five Finger Flares!|{\\i1}{\\3c&H1717E4&}Finger Flares Bomb!{\\i0}{\\3c&H00000000&}
 {\\i1}{\\3c&H1717E4&}{\\i1}{\\3c&H1717E4&}|{\\i1}{\\3c&H1717E4&}
 {\\i0}{\\3c&H00000000&}{\\i0}{\\3c&H00000000&}|{\\i0}{\\3c&H00000000&}
+Valge|Baruji
+Zababa|Sababa
+Aura Blade!|{\\i1}{\\3c&H1717E4&}Aura Blade!{\\i0}{\\3c&H00000000&}
+Northern Grand Blade!|{\\i1}{\\3c&H1717E4&}Northern Grand Blade!{\\i0}{\\3c&H00000000&}
+Needle Thousand!|{\\i1}{\\3c&H1717E4&}Needle Thousand!{\\i0}{\\3c&H00000000&}
+Bounce|Mahokanta
+Bounce!|{\\i1}{\\3c&H1717E4&}Mahokanta!{\\i0}{\\3c&H00000000&}
+Beast King Indomitable Blast!|{\\i1}{\\3c&H1717E4&}Beast King Indomitable Blast!{\\i0}{\\3c&H00000000&}
