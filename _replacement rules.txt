@@ -121,8 +121,8 @@ Gigabreak!|{\\i1}{\\3c&H1717E4&}Gigabrake!{\\i0}{\\3c&H00000000&}
 Refractor Fist!|{\\i1}{\\3c&H1717E4&}Refractor Fist!{\\i0}{\\3c&H00000000&}
 Rattus Rocket Ram!|{\\i1}{\\3c&H1717E4&}Rattus Rocket Ram!{\\i0}{\\3c&H00000000&}
 Hexcitation|Mahoplus
-Medroa|Medoroa
 Medroa!|{\\i1}{\\3c&H1717E4&}Medoroa!{\\i0}{\\3c&H00000000&}
+Medroa|Medoroa
 MEDROA|{\\i1}{\\3c&H1717E4&}MEDOROA{\\i0}{\\3c&H00000000&}
 SIZZLE|{\\i1}{\\3c&H1717E4&}BEGIRAMA{\\i0}{\\3c&H00000000&}
 PUFF|{\\i1}{\\3c&H1717E4&}DORAGORAMU{\\i0}{\\3c&H00000000&}
@@ -143,6 +143,7 @@ BEAST KING REDEMPTION BLAST|{\\i1}{\\3c&H1717E4&}BEAST KING REDEMPTION BLAST{\\i
 GIGABREAK|{\\i1}{\\3c&H1717E4&}GIGABRAKE{\\i0}{\\3c&H00000000&}
 ABAN STRASH|{\\i1}{\\3c&H1717E4&}ABAN STRASH{\\i0}{\\3c&H00000000&}
 ULTRA COMBUSTION SLASH|{\\i1}{\\3c&H1717E4&}ULTRA COMBUSTION SLASH{\\i0}{\\3c&H00000000&}
+NEEDLE THOUSAND|{\i1}{\3c&H1717E4&}NEEDLE THOUSAND{\i0}{\3c&H00000000&}
 Dragonic Aura!|{\\i1}{\\3c&H1717E4&}Dragonic Aura!{\\i0}{\\3c&H00000000&}
 Zing!|{\\i1}{\\3c&H1717E4&}Zaoraru!{\\i0}{\\3c&H00000000&}
 Megante!|{\\i1}{\\3c&H1717E4&\c&H00FF00&}Megante!{\\i0}{\\3c&H00000000&}
