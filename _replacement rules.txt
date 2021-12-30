@@ -117,7 +117,10 @@ Sunder Claw|Hakendisutoru
 Zap Strash!|{\\i1}{\\3c&H1717E4&}Raiden Strash!{\\i0}{\\3c&H00000000&}
 Kazap!|{\\i1}{\\3c&H1717E4&}Gigaden!{\\i0}{\\3c&H00000000&}
 Kazap|Gigaden
+Kasnooze|Rahihoma
+Kasnooze!|{\\i1}{\\3c&H1717E4&}Rahihoma!{\\i0}{\\3c&H00000000&}
 Gigabreak!|{\\i1}{\\3c&H1717E4&}Gigabrake!{\\i0}{\\3c&H00000000&}
+Gigabreak|Gigabrake
 Refractor Fist!|{\\i1}{\\3c&H1717E4&}Refractor Fist!{\\i0}{\\3c&H00000000&}
 Rattus Rocket Ram!|{\\i1}{\\3c&H1717E4&}Rattus Rocket Ram!{\\i0}{\\3c&H00000000&}
 Hexcitation|Mahoplus
@@ -144,6 +147,7 @@ GIGABREAK|{\\i1}{\\3c&H1717E4&}GIGABRAKE{\\i0}{\\3c&H00000000&}
 ABAN STRASH|{\\i1}{\\3c&H1717E4&}ABAN STRASH{\\i0}{\\3c&H00000000&}
 ULTRA COMBUSTION SLASH|{\\i1}{\\3c&H1717E4&}ULTRA COMBUSTION SLASH{\\i0}{\\3c&H00000000&}
 NEEDLE THOUSAND|{\i1}{\3c&H1717E4&}NEEDLE THOUSAND{\i0}{\3c&H00000000&}
+KAISER PHOENIX|{\\i1}{\\3c&H1717E4}KAISER PHOENIX{\\i0}{\\3c&H00000000&}
 Dragonic Aura!|{\\i1}{\\3c&H1717E4&}Dragonic Aura!{\\i0}{\\3c&H00000000&}
 Zing!|{\\i1}{\\3c&H1717E4&}Zaoraru!{\\i0}{\\3c&H00000000&}
 Megante!|{\\i1}{\\3c&H1717E4&\c&H00FF00&}Megante!{\\i0}{\\3c&H00000000&}
@@ -159,3 +163,11 @@ Needle Thousand!|{\\i1}{\\3c&H1717E4&}Needle Thousand!{\\i0}{\\3c&H00000000&}
 Bounce|Mahokanta
 Bounce!|{\\i1}{\\3c&H1717E4&}Mahokanta!{\\i0}{\\3c&H00000000&}
 Beast King Indomitable Blast!|{\\i1}{\\3c&H1717E4&}Beast King Indomitable Blast!{\\i0}{\\3c&H00000000&}
+Kaiser Phoenix!|{\\i1}{\\3c&H1717E4&\c&H00FF00&}Kaiser Phoenix!{\\i0}{\\3c&H00000000&}
+Staff of Edacity|Kōmanotue
+Calamity Wall!|{\\i1}{\\3c&H1717E4&}Calamity Wall!{\\i1}{\\3c&H1717E4&}
+Kaglimmer!|{\\i1}{\\3c&H1717E4&}Minakator!{\\i1}{\\3c&H1717E4&}
+Kaglimmer|Minakator
+Mysticite|Kiseiseki
+Evac!|{\\i1}{\\3c&H1717E4&}Riremito!{\\i1}{\\3c&H1717E4&}
+Evac|Reremito
