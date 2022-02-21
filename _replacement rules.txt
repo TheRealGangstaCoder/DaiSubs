@@ -46,9 +46,9 @@ Crack!|{\\i1}{\\3c&H1717E4&}Hyado!{\\i0}{\\3c&H00000000&}
 Crack|Hyado
 Hyadainle!|{\\i1}{\\3c&H1717E4&}Mahiado!{\\i0}{\\3c&H00000000&}
 Hyadainle|Mahiado
-Boom!|{\\i1}{\\3c&H1717E4&}IORA!{\\i0}{\\3c&H00000000&}
+Boom!|{\\i1}{\\3c&H1717E4&}IO!{\\i0}{\\3c&H00000000&}
 Bang!|{\\i1}{\\3c&H1717E4&}IORA!{\\i0}{\\3c&H00000000&}
-Boom|Iora
+Boom|Io
 Kaboom!|{\\i1}{\\3c&H1717E4&}Ionazun!{\\i0}{\\3c&H00000000&}
 Kaboom|Ionazun
 Squelch!|{\\i1}{\\3c&H1717E4&}Kiari!{\\i0}{\\3c&H00000000&}
@@ -150,6 +150,8 @@ NEEDLE THOUSAND|{\i1}{\3c&H1717E4&}NEEDLE THOUSAND{\i0}{\3c&H00000000&}
 KAISER PHOENIX|{\\i1}{\\3c&H1717E4}KAISER PHOENIX{\\i0}{\\3c&H00000000&}
 Dragonic Aura!|{\\i1}{\\3c&H1717E4&}Dragonic Aura!{\\i0}{\\3c&H00000000&}
 Zing!|{\\i1}{\\3c&H1717E4&}Zaoraru!{\\i0}{\\3c&H00000000&}
+Zing|Zaoraru
+Kazing|Zaoriku
 Megante!|{\\i1}{\\3c&H1717E4&\c&H00FF00&}Megante!{\\i0}{\\3c&H00000000&}
 Doru Aura!|{\\i1}{\\3c&H1717E4&\c&H00FF00&}Doru Aura!{\\i0}{\\3c&H00000000&}
 Five Finger Flares!|{\\i1}{\\3c&H1717E4&}Finger Flares Bomb!{\\i0}{\\3c&H00000000&}
@@ -164,10 +166,18 @@ Bounce|Mahokanta
 Bounce!|{\\i1}{\\3c&H1717E4&}Mahokanta!{\\i0}{\\3c&H00000000&}
 Beast King Indomitable Blast!|{\\i1}{\\3c&H1717E4&}Beast King Indomitable Blast!{\\i0}{\\3c&H00000000&}
 Kaiser Phoenix!|{\\i1}{\\3c&H1717E4&\c&H00FF00&}Kaiser Phoenix!{\\i0}{\\3c&H00000000&}
-Staff of Edacity|Kōmanotue
+Staff of Edacity|Kōmanotsue
 Calamity Wall!|{\\i1}{\\3c&H1717E4&}Calamity Wall!{\\i1}{\\3c&H1717E4&}
 Kaglimmer!|{\\i1}{\\3c&H1717E4&}Minakator!{\\i1}{\\3c&H1717E4&}
 Kaglimmer|Minakator
+KAGLIMMER|{\\i1}{\\3c&H1717E4}MINAKATOR{\\i0}{\\3c&H00000000&}
 Mysticite|Kiseiseki
 Evac!|{\\i1}{\\3c&H1717E4&}Riremito!{\\i1}{\\3c&H1717E4&}
 Evac|Reremito
+Howl, Inferno!|{\\i1}{\\3c&H1717E4&}Howl, Inferno!{\\i1}{\\3c&H1717E4&}
+Howl, Detonation!|{\\i1}{\\3c&H1717E4&}Howl, Detonation!{\\i1}{\\3c&H1717E4&}
+Legionsphere!|{\\i1}{\\3c&H1717E4&}Thousand Ball!{\\i1}{\\3c&H1717E4&}
+Legionsphere|Thousand Ball
+NEEDLE THOUSAND|{\\i1}{\\3c&H1717E4}NEEDLE THOUSAND{\\i0}{\\3c&H00000000&}
+LIGHTNING BUSTER|{\\i1}{\\3c&H1717E4}LIGHTNING BUSTER{\\i0}{\\3c&H00000000&}
+Grand Sorcerer|Daimadoshi
