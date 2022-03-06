@@ -181,3 +181,9 @@ Legionsphere|Thousand Ball
 NEEDLE THOUSAND|{\\i1}{\\3c&H1717E4}NEEDLE THOUSAND{\\i0}{\\3c&H00000000&}
 LIGHTNING BUSTER|{\\i1}{\\3c&H1717E4}LIGHTNING BUSTER{\\i0}{\\3c&H00000000&}
 Grand Sorcerer|Daimadoshi
+TIGER SHATTER FIST|{\i1}{\3c&H1717E4&}TIGER SHATTER FIST{\i0}{\3c&H00000000&}
+Aban Strash Arrow!|{\i1}{\3c&H1717E4&}Aban Strash Arrow!{\i0}{\3c&H00000000&}
+Aban Strash Break!|{\i1}{\3c&H1717E4&}Aban Strash Break!{\i0}{\3c&H00000000&}
+Aban Strash Cross!|{\i1}{\3c&H1717E4&}Aban Strash Cross!{\i0}{\3c&H00000000&}
+Giga Strash!|{\i1}{\3c&H1717E4&}Giga Strash!{\i0}{\3c&H00000000&}
+GIGA STRASH|{\i1}{\3c&H1717E4&}GIGA STRASH{\i0}{\3c&H00000000&}
