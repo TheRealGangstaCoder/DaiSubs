@@ -90,6 +90,11 @@ Reclimatise!|{\\i1}{\\3c&H1717E4&}Ranarion!{\\i0}{\\3c&H00000000&}
 Reclimatise|Ranarion
 Zapple!|{\\i1}{\\3c&H1717E4&}Raiden!{\\i0}{\\3c&H00000000&}
 Zapple|Raiden
+Zip!|{\\i1}{\\3c&H1717E4&}Lilirura!{\\i0}{\\3c&H00000000&}
+Zip|Lilirura
+Click!|{\\i1}{\\3c&H1717E4&}Abagamu!{\\i0}{\\3c&H00000000&}
+Click|Abagamu
+CLICK|{\\i1}{\\3c&H1717E4&}ABAGAMU{\\i0}{\\3c&H00000000&}
 Insulate!|{\\i1}{\\3c&H1717E4&}Fubaha!{\\i0}{\\3c&H00000000&}
 Ultra Combustion Slash!|{\\i1}{\\3c&H1717E4&}Ultra Combustion Slash!{\\i0}{\\3c&H00000000&}
 Dark Puppetry Aura Hand!|{\\i1}{\\3c&H1717E4&}Tomakugutsosho!{\\i0}{\\3c&H00000000&}
@@ -114,6 +119,8 @@ Bloody Scryde!|{\\i1}{\\3c&H1717E4&}Bloody Sukuraido!{\\i0}{\\3c&H00000000&}
 Bloody Scryde|Bloody Sukuraido!
 Sunder Claw!|{\\i1}{\\3c&H1717E4&}Hakendisutoru!{\\i0}{\\3c&H00000000&}
 Sunder Claw|Hakendisutoru
+SUNDER CLAW|HAKENDISUTORU
+HAKENDISUTORU|{\\i1}{\\3c&H1717E4&}HAKENDISUTORU{\\i0}{\\3c&H00000000&}
 Zap Strash!|{\\i1}{\\3c&H1717E4&}Raiden Strash!{\\i0}{\\3c&H00000000&}
 Kazap!|{\\i1}{\\3c&H1717E4&}Gigaden!{\\i0}{\\3c&H00000000&}
 Kazap|Gigaden
@@ -180,10 +187,18 @@ Legionsphere!|{\\i1}{\\3c&H1717E4&}Thousand Ball!{\\i1}{\\3c&H1717E4&}
 Legionsphere|Thousand Ball
 NEEDLE THOUSAND|{\\i1}{\\3c&H1717E4}NEEDLE THOUSAND{\\i0}{\\3c&H00000000&}
 LIGHTNING BUSTER|{\\i1}{\\3c&H1717E4}LIGHTNING BUSTER{\\i0}{\\3c&H00000000&}
+STAR EMPEROR CROSS SLASH|{\\i1}{\\3c&H1717E4}STAR EMPEROR CROSS SLASH{\\i0}{\\3c&H00000000&}
+GRAND CROSS|{\\i1}{\\3c&H1717E4}GRAND CROSS{\\i0}{\\3c&H00000000&}
 Grand Sorcerer|Daimadoshi
-TIGER SHATTER FIST|{\i1}{\3c&H1717E4&}TIGER SHATTER FIST{\i0}{\3c&H00000000&}
-Aban Strash Arrow!|{\i1}{\3c&H1717E4&}Aban Strash Arrow!{\i0}{\3c&H00000000&}
-Aban Strash Break!|{\i1}{\3c&H1717E4&}Aban Strash Break!{\i0}{\3c&H00000000&}
-Aban Strash Cross!|{\i1}{\3c&H1717E4&}Aban Strash Cross!{\i0}{\3c&H00000000&}
-Giga Strash!|{\i1}{\3c&H1717E4&}Giga Strash!{\i0}{\3c&H00000000&}
-GIGA STRASH|{\i1}{\3c&H1717E4&}GIGA STRASH{\i0}{\3c&H00000000&}
+TIGER SHATTER FIST|{\\i1}{\\3c&H1717E4&}TIGER SHATTER FIST{\\i0}{\\3c&H00000000&}
+Aban Strash Arrow!|{\\i1}{\\3c&H1717E4&}Aban Strash Arrow!{\\i0}{\\3c&H00000000&}
+Aban Strash Break!|{\\i1}{\\3c&H1717E4&}Aban Strash Break!{\\i0}{\\3c&H00000000&}
+Aban Strash Cross!|{\\i1}{\\3c&H1717E4&}Aban Strash Cross!{\\i0}{\\3c&H00000000&}
+Giga Strash!|{\\i1}{\\3c&H1717E4&}Giga Strash!{\\i0}{\\3c&H00000000&}
+GIGA STRASH|{\\i1}{\\3c&H1717E4&}GIGA STRASH{\\i0}{\\3c&H00000000&}
+The Star Emperor Cross Slash!|{\\i1}{\\3c&H1717E4&}The Star Emperor Cross Slash!{\\i0}{\\3c&H00000000&}
+Star Emperor Cross Slash!|{\\i1}{\\3c&H1717E4&}Star Emperor Cross Slash!{\\i0}{\\3c&H00000000&}
+Aura Knuckle!|{\\i1}{\\3c&H1717E4&}Aura Knuckle!{\i0}{\\3c&H00000000&}
+AURA KNUCKLE|{\\i1}{\\3c&H1717E4}AURA KNUCKLE{\\i0}{\\3c&H00000000&}
+Crest Beam!|{\\i1}{\\3c&H1717E4&}Crest Beam!{\i0}{\\3c&H00000000&}
+CREST BEAM|{\\i1}{\\3c&H1717E4&}CREST BEAM{\i0}{\\3c&H00000000&}
